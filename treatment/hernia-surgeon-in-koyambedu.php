@@ -8,7 +8,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-koyam
 // pillar page and the individual procedure pages, which are linked below rather
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
-    ['q' => 'I am travelling to Chennai by bus for hernia surgery. How do I reach the hospital?', 'a' => 'Get down at CMBT and take the Green Line metro to Shenoy Nagar. The hospital is on Lakshmi Talkies Road, close to that station.'],
+    ['q' => 'I am travelling to Chennai by bus for hernia surgery. How do I reach the hospital?', 'a' => 'Get down at CMBT and take the Green Line metro to Shenoy Nagar. The hospital is on Gajapathy Street, close to that station.'],
     ['q' => 'Can outstation patients complete tests and surgery in one trip?', 'a' => 'Often yes, if reports are sent ahead. Call the helpline before travelling so the pre-operative tests can be scheduled around your dates.'],
     ['q' => 'Is the market traffic a problem for an early admission?', 'a' => 'It can be. Koyambedu is busiest early in the morning, so the metro is usually the more predictable option on a surgery day.'],
 ];
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Koyambedu and the surrounding areas of Koyambedu market, CMBT, Jawaharlal Nehru Road and the Maduravoyal approach.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Koyambedu and the surrounding areas of Koyambedu market, CMBT, Jawaharlal Nehru Road and the Maduravoyal approach.
                         </p>
                     </div>
 
@@ -66,7 +66,7 @@ require __DIR__ . '/../includes/header.php';
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Koyambedu</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Koyambedu and CMBT are both Green Line stations on the same corridor as Shenoy Nagar, so the journey is a straight run with no line change.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">That connection matters for more than local residents. CMBT is the main bus terminus for people arriving from elsewhere in Tamil Nadu, and a patient stepping off a long-distance bus can reach the hospital on one metro line without navigating Chennai road traffic at all.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">For Koyambedu residents driving in, the approach is through Jawaharlal Nehru Road toward Anna Nagar and then to Lakshmi Talkies Road. The market area is heavily congested in the early morning, which is worth planning around for an admission time.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">For Koyambedu residents driving in, the approach is through Jawaharlal Nehru Road toward Anna Nagar and then to Gajapathy Street. The market area is heavily congested in the early morning, which is worth planning around for an admission time.</p>
 
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Koyambedu Patients</h2>
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

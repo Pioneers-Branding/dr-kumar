@@ -8,7 +8,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-puras
 // pillar page and the individual procedure pages, which are linked below rather
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
-    ['q' => 'How do I reach Billroth Hospitals from Purasawalkam?', 'a' => 'Travel through Kilpauk to Poonamallee High Road and then Lakshmi Talkies Road. On the metro, board at Kilpauk Medical College for Shenoy Nagar.'],
+    ['q' => 'How do I reach Billroth Hospitals from Purasawalkam?', 'a' => 'Travel through Kilpauk to Poonamallee High Road and then Gajapathy Street. On the metro, board at Kilpauk Medical College for Shenoy Nagar.'],
     ['q' => 'Is hernia surgery painful afterwards?', 'a' => 'Keyhole repair usually causes far less pain than open surgery. Most patients manage with simple pain relief for the first few days.'],
     ['q' => 'Should I repair a hernia that does not hurt?', 'a' => 'Not always immediately. A small, painless hernia can sometimes be monitored, but it should be examined first so the decision is informed.'],
 ];
@@ -58,13 +58,13 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Purasawalkam and the surrounding areas of Purasawalkam High Road, Gangadeeswarar Koil Street, Kellys and the Jamalia area.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Purasawalkam and the surrounding areas of Purasawalkam High Road, Gangadeeswarar Koil Street, Kellys and the Jamalia area.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Purasawalkam</h2>
-                    <p class="text-slate-600 leading-relaxed mb-5">The road route from Purasawalkam runs through Kilpauk and onto Poonamallee High Road, then to Lakshmi Talkies Road. It is one of the shorter journeys in this catchment.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">The road route from Purasawalkam runs through Kilpauk and onto Poonamallee High Road, then to Gajapathy Street. It is one of the shorter journeys in this catchment.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">For patients who prefer the metro, Kilpauk Medical College is the nearest Green Line station, two stops from Shenoy Nagar on the same underground corridor.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Purasawalkam High Road and the Kellys junction are the congested points. Most patients from here find a mid-morning appointment easier than an evening one.</p>
 
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

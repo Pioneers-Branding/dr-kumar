@@ -58,14 +58,14 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Kolathur and the surrounding areas of Kolathur, Sembiam side, Retteri junction and the Villivakkam border.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Kolathur and the surrounding areas of Kolathur, Sembiam side, Retteri junction and the Villivakkam border.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Kolathur</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Both Villivakkam and Korattur railway stations serve the Kolathur neighborhood, so you can start from whichever is closer to your part of Kolathur.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">By road, the route runs through Retteri and Konnur High Road toward Kilpauk and then to Lakshmi Talkies Road in Shenoy Nagar. Retteri junction is the point that slows this journey at peak hours.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">By road, the route runs through Retteri and Konnur High Road toward Kilpauk and then to Gajapathy Street in Shenoy Nagar. Retteri junction is the point that slows this journey at peak hours.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">For a scheduled surgery admission, leaving from the Villivakkam side is generally the more predictable of the two rail options, since it is closer to Chennai Central on the line.</p>
 
                     <!-- Care available -->
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

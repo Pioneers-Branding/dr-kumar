@@ -58,14 +58,14 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Nungambakkam and the surrounding areas of Nungambakkam High Road, Sterling Road, Chetpet border and Nelson Manickam Road.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Nungambakkam and the surrounding areas of Nungambakkam High Road, Sterling Road, Chetpet border and Nelson Manickam Road.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Nungambakkam</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">On the metro, Nehru Park is the Green Line station on the corridor running up through Kilpauk Medical College and Pachaiyappa's College to Shenoy Nagar.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">Nungambakkam also has its own suburban railway station, which suits patients coming from the Beach line side. Either way, the last leg to Lakshmi Talkies Road is a short auto ride.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">Nungambakkam also has its own suburban railway station, which suits patients coming from the Beach line side. Either way, the last leg to Gajapathy Street is a short auto ride.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">By road, the route runs through Sterling Road and Nelson Manickam Road toward Shenoy Nagar. This is manageable outside peak hours but slow in the evening, so morning appointments are easier from here.</p>
 
                     <!-- Care available -->
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

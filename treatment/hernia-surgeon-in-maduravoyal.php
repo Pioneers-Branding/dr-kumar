@@ -58,13 +58,13 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Maduravoyal and the surrounding areas of Maduravoyal, Poonamallee High Road, the Koyambedu approach and Alapakkam side.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Maduravoyal and the surrounding areas of Maduravoyal, Poonamallee High Road, the Koyambedu approach and Alapakkam side.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Maduravoyal</h2>
-                    <p class="text-slate-600 leading-relaxed mb-5">The road route from Maduravoyal runs along Poonamallee High Road through Koyambedu and then toward Anna Nagar and Lakshmi Talkies Road.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">The road route from Maduravoyal runs along Poonamallee High Road through Koyambedu and then toward Anna Nagar and Gajapathy Street.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">That road is heavily used, so many Maduravoyal patients drive as far as Koyambedu and take the Green Line metro from there to Shenoy Nagar. On a surgery morning this is the more dependable approach.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Maduravoyal is the furthest of the western neighborhoods in this catchment, so if you are coming for an early admission it is worth allowing a clear margin rather than timing it tightly.</p>
 
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

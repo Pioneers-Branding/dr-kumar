@@ -58,14 +58,14 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Mogappair and the surrounding areas of Mogappair East, Mogappair West, Nolambur and the Thirumangalam approach.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Mogappair and the surrounding areas of Mogappair East, Mogappair West, Nolambur and the Thirumangalam approach.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Mogappair</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Thirumangalam is the Green Line station serving the Mogappair side, and from there the metro runs through Anna Nagar to Shenoy Nagar without a change.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">By road, Mogappair connects toward Anna Nagar and then to Lakshmi Talkies Road. The stretch through Thirumangalam junction is the slow section, particularly at school and office hours.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">By road, Mogappair connects toward Anna Nagar and then to Gajapathy Street. The stretch through Thirumangalam junction is the slow section, particularly at school and office hours.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Mogappair East and West are both well served by this route. If you are coming from the Nolambur end, factor in a little more time to reach Thirumangalam itself.</p>
 
                     <!-- Care available -->
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

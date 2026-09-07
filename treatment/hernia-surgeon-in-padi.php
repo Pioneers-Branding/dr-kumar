@@ -8,7 +8,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-padi'
 // pillar page and the individual procedure pages, which are linked below rather
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
-    ['q' => 'How do I reach the hospital from Padi?', 'a' => 'Villivakkam and Korattur stations both serve Padi. By road, use the Padi flyover corridor toward Anna Nagar and then Lakshmi Talkies Road.'],
+    ['q' => 'How do I reach the hospital from Padi?', 'a' => 'Villivakkam and Korattur stations both serve Padi. By road, use the Padi flyover corridor toward Anna Nagar and then Gajapathy Street.'],
     ['q' => 'How soon can I return to factory work after hernia repair?', 'a' => 'Longer than for desk work. Ask at your first consultation so the timing can be planned around your shifts rather than decided afterwards.'],
     ['q' => 'Is keyhole surgery better for someone doing manual work?', 'a' => 'Usually yes. Keyhole repair causes less tissue trauma than open surgery, which generally means a faster return to physical activity.'],
 ];
@@ -58,14 +58,14 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Padi and the surrounding areas of Padi, TVS Nagar, the Padi flyover corridor and the industrial belt.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Padi and the surrounding areas of Padi, TVS Nagar, the Padi flyover corridor and the industrial belt.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Padi</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Villivakkam and Korattur railway stations both serve Padi, so your starting point depends on which side of the neighborhood you live on. Villivakkam is the closer of the two to Chennai Central.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">By road, the Padi flyover corridor connects toward Anna Nagar and then to Lakshmi Talkies Road in Shenoy Nagar. The flyover junction is the main bottleneck during shift changes.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">By road, the Padi flyover corridor connects toward Anna Nagar and then to Gajapathy Street in Shenoy Nagar. The flyover junction is the main bottleneck during shift changes.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Because this is a working industrial area, a common question here is how soon someone can get back on the factory floor. That answer depends on the repair performed, and it is worth raising at the first consultation rather than after surgery.</p>
 
                     <!-- Care available -->
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

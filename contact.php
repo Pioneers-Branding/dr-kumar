@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Contact Dr. Kumar | Hernia Surgeon, Shenoy Nagar Chennai';
-$page_description = 'Contact Dr. Kumar at Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. Call, message or book a hernia consultation online.';
+$page_description = 'Contact Dr. Kumar at Billroth Hospitals, 505 OP Block, Gajapathy Street, Shenoy Nagar, Chennai 600030. Call, message or book a hernia consultation online.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -150,7 +150,7 @@ require __DIR__ . '/includes/header.php';
                             <svg class="w-6 h-6 text-brand-600 mt-0.5 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
                             <div>
                                 <p class="font-semibold text-slate-900">Address</p>
-                                <p class="text-slate-600 text-sm">43/18, Lakshmi Talkies Road,<br>Shenoy Nagar, Chennai - 600030</p>
+                                <p class="text-slate-600 text-sm"><?= $site['clinic']['street'] ?>,<br><?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?></p>
                             </div>
                         </div>
                         <div class="flex items-start gap-4">
@@ -196,7 +196,7 @@ require __DIR__ . '/includes/header.php';
                         <svg class="w-16 h-16 text-slate-400 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
                         <p class="text-slate-600 font-medium">Billroth Hospital, Shenoy Nagar</p>
                         <p class="text-slate-500 text-sm mt-1">Chennai, Tamil Nadu</p>
-                        <a href="https://maps.google.com/?q=Billroth+Hospital+Shenoy+Nagar+Chennai" target="_blank" rel="noopener" class="inline-flex items-center gap-2 mt-4 text-brand-700 hover:text-brand-800 font-semibold">
+                        <a href="https://maps.google.com/?q=<?= urlencode($site['address']) ?>" target="_blank" rel="noopener" class="inline-flex items-center gap-2 mt-4 text-brand-700 hover:text-brand-800 font-semibold">
                             Open in Google Maps
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
                         </a>

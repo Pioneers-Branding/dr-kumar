@@ -33,17 +33,22 @@ $site = [
     'phone'       => '+91 89255 02759',
     'phone_link'  => '+918925502759',
     'email'       => 'drkumargastrosurgeon@gmail.com',
-    'address'     => '43/18, Lakshmi Talkies Road, Shenoy Nagar, Chennai - 600030',
+    'address'     => '505, First Floor, OP Block, No: 11/59, Gajapathy Street, Shenoy Nagar, Chennai 600 030',
     'url'         => 'https://herniacare360.com/',
     'logo'        => 'assets/images/logo.png',
 
-    // Practice location. Values verified against contact.php and Billroth Hospitals' own site.
+    // Practice location. This is the single source of truth for the address:
+    // every page and every schema block reads from here, so the address is
+    // never hardcoded into a page again.
     'clinic' => [
         'name'     => 'Billroth Hospitals',
-        'street'   => '43/18, Lakshmi Talkies Road',
+        'street'   => '505, First Floor, OP Block, No: 11/59, Gajapathy Street',
         'locality' => 'Shenoy Nagar, Chennai',
         'region'   => 'Tamil Nadu',
+        // Machine-readable form for schema.org postalCode.
         'postal'   => '600030',
+        // Display form, spaced the way the practice writes it.
+        'postal_display' => '600 030',
         'country'  => 'IN',
         // Google Business Profile for the practice.
         'map_url'    => 'https://maps.google.com/?cid=6550270631746872398',

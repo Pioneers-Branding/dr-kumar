@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Arumbakkam and the surrounding areas of Arumbakkam, Chinmaya Nagar approach and the Poonamallee High Road corridor.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Arumbakkam and the surrounding areas of Arumbakkam, Chinmaya Nagar approach and the Poonamallee High Road corridor.
                         </p>
                     </div>
 
@@ -66,7 +66,7 @@ require __DIR__ . '/../includes/header.php';
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Arumbakkam</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Arumbakkam has its own Green Line station on the corridor that runs through Koyambedu and Anna Nagar to Shenoy Nagar. It is a single-line journey with no change.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">The road alternative means crossing through Koyambedu, which is where most of the delay on this route comes from. For a scheduled consultation the metro is usually the better choice, and for a surgery admission it is the more reliable one.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">If you are being collected after a day-care procedure, ask your driver to approach Lakshmi Talkies Road from the Anna Nagar side rather than through the Koyambedu junction.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">If you are being collected after a day-care procedure, ask your driver to approach Gajapathy Street from the Anna Nagar side rather than through the Koyambedu junction.</p>
 
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Arumbakkam Patients</h2>
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

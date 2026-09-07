@@ -1,6 +1,6 @@
 <?php
 $page_title       = 'Hernia Surgeon in Shenoy Nagar | Dr. Kumar Billroth';
-$page_description = 'Dr. Kumar treats hernia patients at Billroth Hospitals on Lakshmi Talkies Road, Shenoy Nagar. Walking distance from Shenoy Nagar metro. Book a consultation.';
+$page_description = 'Dr. Kumar treats hernia patients at Billroth Hospitals on Gajapathy Street, Shenoy Nagar. Walking distance from Shenoy Nagar metro. Book a consultation.';
 $page_keywords    = 'hernia surgeon in Shenoy Nagar, hernia treatment Shenoy Nagar Chennai, hernia specialist near Shenoy Nagar, laparoscopic hernia surgery Shenoy Nagar, Dr. Kumar Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-shenoy-nagar';
 
@@ -8,7 +8,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-sheno
 // pillar page and the individual procedure pages, which are linked below rather
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
-    ['q' => 'How far is Billroth Hospitals from Shenoy Nagar metro station?', 'a' => 'The hospital is on Lakshmi Talkies Road in Shenoy Nagar, close enough to the station that most patients walk it or take a short auto ride.'],
+    ['q' => 'How far is Billroth Hospitals from Shenoy Nagar metro station?', 'a' => 'The hospital is on Gajapathy Street in Shenoy Nagar, close enough to the station that most patients walk it or take a short auto ride.'],
     ['q' => 'Can I come in for a same-day hernia consultation?', 'a' => 'Often yes, since you are local. Call the helpline first so the team can tell you which sessions Dr. Kumar is consulting that day.'],
     ['q' => 'Do I need someone with me for day-care hernia surgery?', 'a' => 'Yes. Even for a keyhole repair with same-day discharge, you should not travel home alone after a general anesthetic, however short the journey is.'],
 ];
@@ -58,15 +58,15 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. This is the single consulting and operating location, serving Shenoy Nagar and the surrounding areas of Lakshmi Talkies Road, Nelson Manickam Road and the Shenoy Nagar metro corridor.
+                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Shenoy Nagar and the surrounding areas of Gajapathy Street, Nelson Manickam Road and the Shenoy Nagar metro corridor.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Shenoy Nagar</h2>
-                    <p class="text-slate-600 leading-relaxed mb-5">You have the shortest journey of any patient Dr. Kumar sees. Billroth Hospitals sits at 43/18 Lakshmi Talkies Road, inside Shenoy Nagar, so there is no cross-city travel involved at all.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">You have the shortest journey of any patient Dr. Kumar sees. Billroth Hospitals sits on Gajapathy Street, inside Shenoy Nagar, so there is no cross-city travel involved at all.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Shenoy Nagar metro station on the Green Line is the closest station to the hospital, which makes this the easiest address in North Chennai to reach on the day of surgery. For an early morning admission, that matters more than most people expect, because it removes traffic from the equation entirely.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">If someone is bringing you in after a procedure, Lakshmi Talkies Road is reachable from Nelson Manickam Road and from the Anna Nagar side without going through the heavier Poonamallee High Road traffic.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">If someone is bringing you in after a procedure, Gajapathy Street is reachable from Nelson Manickam Road and from the Anna Nagar side without going through the heavier Poonamallee High Road traffic.</p>
 
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Shenoy Nagar Patients</h2>
@@ -127,9 +127,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

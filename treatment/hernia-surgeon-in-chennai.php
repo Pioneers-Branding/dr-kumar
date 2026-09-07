@@ -210,7 +210,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- 6. Location -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Where Dr. Kumar Consults</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        All consulting and surgery happens at Billroth Hospitals, 43/18 Lakshmi Talkies Road, Shenoy Nagar, Chennai 600030. Shenoy Nagar is on the Chennai Metro Green Line, which makes the hospital reachable without driving from much of North and West Chennai.
+                        All consulting and surgery happens at <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. Shenoy Nagar is on the Chennai Metro Green Line, which makes the hospital reachable without driving from much of North and West Chennai.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-5">
                         If you are travelling in from a particular neighborhood, these pages set out the route from each: <a href="<?= $base_path ?>treatment/hernia-surgeon-in-annanagar" class="text-brand-700 font-semibold hover:underline">Anna Nagar</a>, <a href="<?= $base_path ?>treatment/hernia-surgeon-in-kilpauk" class="text-brand-700 font-semibold hover:underline">Kilpauk</a>, <a href="<?= $base_path ?>treatment/hernia-surgeon-in-perambur" class="text-brand-700 font-semibold hover:underline">Perambur</a> and <a href="<?= $base_path ?>treatment/hernia-surgeon-in-koyambedu" class="text-brand-700 font-semibold hover:underline">Koyambedu</a> among others.
@@ -256,9 +256,9 @@ require __DIR__ . '/../includes/header.php';
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-base mb-3">Clinic Address</h3>
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
-                        Billroth Hospitals<br>
-                        43/18, Lakshmi Talkies Road<br>
-                        Shenoy Nagar, Chennai 600030
+                        <?= $site['clinic']['name'] ?><br>
+                        <?= $site['clinic']['street'] ?><br>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps
