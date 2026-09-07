@@ -258,7 +258,7 @@ require __DIR__ . '/../includes/header.php';
                     <p class="text-sm text-slate-600 leading-relaxed mb-4">
                         <?= $site['clinic']['name'] ?><br>
                         <?= $site['clinic']['street'] ?><br>
-                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?>
+                        <?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal'] ?>
                     </p>
                     <a href="<?= $site['clinic']['map_url'] ?>" target="_blank" rel="noopener" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
                         Open in Google Maps

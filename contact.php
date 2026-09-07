@@ -150,7 +150,7 @@ require __DIR__ . '/includes/header.php';
                             <svg class="w-6 h-6 text-brand-600 mt-0.5 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/></svg>
                             <div>
                                 <p class="font-semibold text-slate-900">Address</p>
-                                <p class="text-slate-600 text-sm"><?= $site['clinic']['street'] ?>,<br><?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal_display'] ?></p>
+                                <p class="text-slate-600 text-sm"><?= $site['clinic']['street'] ?>,<br><?= $site['clinic']['locality'] ?> <?= $site['clinic']['postal'] ?></p>
                             </div>
                         </div>
                         <div class="flex items-start gap-4">

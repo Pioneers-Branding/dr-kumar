@@ -33,7 +33,7 @@ $site = [
     'phone'       => '+91 89255 02759',
     'phone_link'  => '+918925502759',
     'email'       => 'drkumargastrosurgeon@gmail.com',
-    'address'     => '505, First Floor, OP Block, No: 11/59, Gajapathy Street, Shenoy Nagar, Chennai 600 030',
+    'address'     => '505, First Floor, OP Block, No: 11/59, Gajapathy Street, Shenoy Nagar, Chennai 600030',
     'url'         => 'https://herniacare360.com/',
     'logo'        => 'assets/images/logo.png',
 
@@ -45,10 +45,7 @@ $site = [
         'street'   => '505, First Floor, OP Block, No: 11/59, Gajapathy Street',
         'locality' => 'Shenoy Nagar, Chennai',
         'region'   => 'Tamil Nadu',
-        // Machine-readable form for schema.org postalCode.
         'postal'   => '600030',
-        // Display form, spaced the way the practice writes it.
-        'postal_display' => '600 030',
         'country'  => 'IN',
         // Google Business Profile for the practice.
         'map_url'    => 'https://maps.google.com/?cid=6550270631746872398',
