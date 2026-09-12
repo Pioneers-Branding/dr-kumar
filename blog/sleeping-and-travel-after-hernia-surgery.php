@@ -6,7 +6,7 @@ hc360_publish_gate('2026-09-15');
 $page_title       = 'How to Sleep and Travel After Hernia Surgery';
 $page_description = 'How to sleep after hernia surgery, and when it is safe to travel. Position guidance for the first two weeks, plus a fit-to-fly timeline for short and long flights.';
 $page_keywords    = 'how to sleep after hernia surgery, sleeping position after hernia surgery, fit to fly after hernia surgery, travel after hernia surgery, flying after hernia surgery';
-$page_image       = $site['url'] . 'assets/images/hernia-surgery-recovery-week-by-week.png';
+$page_image       = $site['url'] . 'assets/images/sleeping-and-travel-after-hernia-surgery.png';
 $page_published   = '2026-09-15';
 $page_modified    = '2026-09-15';
 
@@ -90,6 +90,8 @@ require_once __DIR__ . '/../includes/header.php';
 
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
+
+                    <img src="<?= $base_path ?>assets/images/sleeping-and-travel-after-hernia-surgery.png" alt="Sleeping, Sitting and Travelling After Hernia Surgery" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">

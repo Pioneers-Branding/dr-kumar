@@ -6,7 +6,7 @@ hc360_publish_gate('2026-10-13');
 $page_title       = 'Open vs Laparoscopic vs Robotic Hernia Surgery';
 $page_description = 'Open vs laparoscopic vs robotic hernia surgery, compared across incision size, hospital stay, pain, recovery, recurrence and cost, to help you choose.';
 $page_keywords    = 'open vs laparoscopic vs robotic hernia surgery, TEP vs TAPP, robotic hernia surgery vs laparoscopic, best technique for hernia repair, hernia surgery comparison';
-$page_image       = $site['url'] . 'assets/images/hernia-surgery-recovery-week-by-week.png';
+$page_image       = $site['url'] . 'assets/images/open-vs-laparoscopic-vs-robotic-hernia-surgery.png';
 $page_published   = '2026-10-13';
 $page_modified    = '2026-10-13';
 
@@ -90,6 +90,8 @@ require_once __DIR__ . '/../includes/header.php';
 
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
+
+                    <img src="<?= $base_path ?>assets/images/open-vs-laparoscopic-vs-robotic-hernia-surgery.png" alt="Open vs Laparoscopic vs Robotic Hernia Surgery" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">

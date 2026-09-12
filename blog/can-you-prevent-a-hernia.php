@@ -6,7 +6,7 @@ hc360_publish_gate('2026-10-27');
 $page_title       = 'Can You Prevent a Hernia? What Actually Works';
 $page_description = 'Can you prevent a hernia? What genuinely lowers your risk, from lifting technique to treating a chronic cough, and the popular myths that do not work.';
 $page_keywords    = 'how to prevent hernia, can you prevent a hernia, hernia prevention exercises, does a lifting belt prevent hernia, avoid getting a hernia';
-$page_image       = $site['url'] . 'assets/images/hernia-surgery-recovery-week-by-week.png';
+$page_image       = $site['url'] . 'assets/images/can-you-prevent-a-hernia.png';
 $page_published   = '2026-10-27';
 $page_modified    = '2026-10-27';
 
@@ -90,6 +90,8 @@ require_once __DIR__ . '/../includes/header.php';
 
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
+
+                    <img src="<?= $base_path ?>assets/images/can-you-prevent-a-hernia.png" alt="Can You Prevent a Hernia? What Actually Works" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">

@@ -6,7 +6,7 @@ hc360_publish_gate('2026-10-02');
 $page_title       = 'Hernia Surgery Cost in Chennai: Options and Choosing';
 $page_description = 'Hernia surgery cost in Chennai by procedure type, what actually drives the price, and the questions worth asking before you choose between surgeons.';
 $page_keywords    = 'hernia surgery cost in chennai, hernia operation cost chennai, laparoscopic hernia surgery cost, robotic hernia surgery cost chennai, how to choose a hernia surgeon';
-$page_image       = $site['url'] . 'assets/images/hernia-surgery-recovery-week-by-week.png';
+$page_image       = $site['url'] . 'assets/images/hernia-surgery-chennai-cost-and-choosing-a-surgeon.png';
 $page_published   = '2026-10-02';
 $page_modified    = '2026-10-02';
 
@@ -91,6 +91,8 @@ require_once __DIR__ . '/../includes/header.php';
 
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
+
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-chennai-cost-and-choosing-a-surgeon.png" alt="Hernia Surgery in Chennai: Cost, Options and How to Choose a Surgeon" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">

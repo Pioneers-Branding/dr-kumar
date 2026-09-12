@@ -6,7 +6,7 @@ hc360_publish_gate('2026-09-22');
 $page_title       = 'Will My Hernia Come Back? Recurrence Risk Explained';
 $page_description = 'Will your hernia come back after surgery? A risk-factor breakdown, split into what you can change and what you cannot, with real recurrence statistics.';
 $page_keywords    = 'hernia recurrence risk, will my hernia come back, hernia coming back after surgery, recurrent hernia risk factors, hernia recurrence rate statistics';
-$page_image       = $site['url'] . 'assets/images/hernia-surgery-recovery-week-by-week.png';
+$page_image       = $site['url'] . 'assets/images/will-my-hernia-come-back.png';
 $page_published   = '2026-09-22';
 $page_modified    = '2026-09-22';
 
@@ -104,6 +104,8 @@ require_once __DIR__ . '/../includes/header.php';
 
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
+
+                    <img src="<?= $base_path ?>assets/images/will-my-hernia-come-back.png" alt="Will My Hernia Come Back? Recurrence Risk Explained" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">

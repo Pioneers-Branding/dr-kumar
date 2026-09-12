@@ -71,7 +71,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Can You Prevent a Hernia? (27 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Can You Prevent a Hernia? What Actually Works" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/can-you-prevent-a-hernia.png" alt="Can You Prevent a Hernia? What Actually Works" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Prevention Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -95,7 +95,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Hernia in Children (23 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia in Children: What Parents Actually Need to Know" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/hernia-in-children-parents-guide.png" alt="Hernia in Children: What Parents Actually Need to Know" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Parent's Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -119,7 +119,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Hernia Surgery With Diabetes, Obesity or Heart Disease (16 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Surgery When You Have Diabetes, Obesity or Heart Disease" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-with-diabetes-obesity-heart-disease.png" alt="Hernia Surgery When You Have Diabetes, Obesity or Heart Disease" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -143,7 +143,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Open vs Laparoscopic vs Robotic (13 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Open vs Laparoscopic vs Robotic Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/open-vs-laparoscopic-vs-robotic-hernia-surgery.png" alt="Open vs Laparoscopic vs Robotic Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -167,7 +167,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Hernia Mesh Types and Safety (06 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Mesh: Types, Safety and Whether You Really Need It" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/hernia-mesh-types-and-safety.png" alt="Hernia Mesh: Types, Safety and Whether You Really Need It" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -191,7 +191,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Hernia Surgery Cost in Chennai (02 October 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Surgery in Chennai: Cost, Options and How to Choose a Surgeon" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-chennai-cost-and-choosing-a-surgeon.png" alt="Hernia Surgery in Chennai: Cost, Options and How to Choose a Surgeon" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -215,7 +215,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Swelling and Scars After Hernia Surgery (25 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/wound-care.png" alt="Hernia Surgery Scars, Swelling and the Still Looks Bulgy Problem" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/swelling-and-scars-after-hernia-surgery.png" alt="Hernia Surgery Scars, Swelling and the Still Looks Bulgy Problem" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -239,7 +239,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Will My Hernia Come Back? (22 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Will My Hernia Come Back? Recurrence Risk Explained" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/will-my-hernia-come-back.png" alt="Will My Hernia Come Back? Recurrence Risk Explained" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -263,7 +263,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Sleeping, Sitting and Travelling After Hernia Surgery (15 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Sleeping, Sitting and Travelling After Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/sleeping-and-travel-after-hernia-surgery.png" alt="Sleeping, Sitting and Travelling After Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -287,7 +287,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: Exercise After Hernia Surgery (11 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Exercise After Hernia Surgery: Gym, Lifting and Core Work" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/exercise-after-hernia-surgery.png" alt="Exercise After Hernia Surgery: Gym, Lifting and Core Work" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">
@@ -335,7 +335,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Scheduled: When Can I Go Back to Work? (04 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
-                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="When Can I Go Back to Work After Hernia Surgery?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src="<?= $base_path ?>assets/images/return-to-work-after-hernia-surgery.png" alt="When Can I Go Back to Work After Hernia Surgery?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                     <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
                 </div>
                 <div class="p-6 flex flex-col flex-1">

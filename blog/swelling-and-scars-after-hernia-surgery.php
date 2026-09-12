@@ -6,7 +6,7 @@ hc360_publish_gate('2026-09-25');
 $page_title       = 'Swelling and Scars After Hernia Surgery: Is It Normal?';
 $page_description = 'Swelling after hernia surgery at weeks 2 to 8 can look like the surgery failed. A differential guide to normal seroma, infection and recurrence, with red flags.';
 $page_keywords    = 'swelling after hernia surgery, hernia surgery scar still bulging, seroma after hernia surgery, is my hernia surgery scar normal, lump after hernia repair';
-$page_image       = $site['url'] . 'assets/images/wound-care.png';
+$page_image       = $site['url'] . 'assets/images/swelling-and-scars-after-hernia-surgery.png';
 $page_published   = '2026-09-25';
 $page_modified    = '2026-09-25';
 
@@ -95,7 +95,7 @@ require_once __DIR__ . '/../includes/header.php';
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
 
-                    <img src="<?= $base_path ?>assets/images/wound-care.png" alt="Patient checking a healing incision dressing after hernia surgery" width="1024" height="1024" fetchpriority="high" class="w-full max-h-[380px] object-cover object-top rounded-2xl mb-8 shadow-md">
+                    <img src="<?= $base_path ?>assets/images/swelling-and-scars-after-hernia-surgery.png" alt="Hernia Surgery Scars, Swelling and the Still Looks Bulgy Problem" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-8 shadow-md">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">
