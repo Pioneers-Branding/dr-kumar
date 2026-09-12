@@ -67,6 +67,294 @@ require_once __DIR__ . '/includes/header.php';
     <div class="max-w-7xl mx-auto px-4">
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8" id="blogGrid">
 
+            <?php if (date('Y-m-d') >= '2026-10-27'): ?>
+            <!-- Scheduled: Can You Prevent a Hernia? (27 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Can You Prevent a Hernia? What Actually Works" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Prevention Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>27 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/can-you-prevent-a-hernia" class="blog-title">Can You Prevent a Hernia? What Actually Works</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">What genuinely lowers your risk, from lifting technique to treating a chronic cough, and the popular myths that do not work.</p>
+                    <a href="<?= $base_path ?>blog/can-you-prevent-a-hernia" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-10-23'): ?>
+            <!-- Scheduled: Hernia in Children (23 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia in Children: What Parents Actually Need to Know" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Parent's Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>23 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/hernia-in-children-parents-guide" class="blog-title">Hernia in Children: What Parents Actually Need to Know</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">Which childhood hernias go away on their own, which need surgery, and the warning signs that mean go to hospital now.</p>
+                    <a href="<?= $base_path ?>blog/hernia-in-children-parents-guide" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-10-16'): ?>
+            <!-- Scheduled: Hernia Surgery With Diabetes, Obesity or Heart Disease (16 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Surgery When You Have Diabetes, Obesity or Heart Disease" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>16 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/hernia-surgery-with-diabetes-obesity-heart-disease" class="blog-title">Hernia Surgery With Diabetes, Obesity or Heart Disease</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">What changes about your risk with a comorbidity, and what gets optimized before an elective hernia repair.</p>
+                    <a href="<?= $base_path ?>blog/hernia-surgery-with-diabetes-obesity-heart-disease" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-10-13'): ?>
+            <!-- Scheduled: Open vs Laparoscopic vs Robotic (13 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Open vs Laparoscopic vs Robotic Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>13 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/open-vs-laparoscopic-vs-robotic-hernia-surgery" class="blog-title">Open vs Laparoscopic vs Robotic Hernia Surgery</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">A four-way comparison across incision, stay, pain, recovery, recurrence and cost, to help you choose between quoted techniques.</p>
+                    <a href="<?= $base_path ?>blog/open-vs-laparoscopic-vs-robotic-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-10-06'): ?>
+            <!-- Scheduled: Hernia Mesh Types and Safety (06 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Mesh: Types, Safety and Whether You Really Need It" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>06 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/hernia-mesh-types-and-safety" class="blog-title">Hernia Mesh: Types, Safety and Whether You Really Need It</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">What the mesh lawsuits were actually about, the real complication rates, and how the main mesh types compare.</p>
+                    <a href="<?= $base_path ?>blog/hernia-mesh-types-and-safety" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-10-02'): ?>
+            <!-- Scheduled: Hernia Surgery Cost in Chennai (02 October 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Surgery in Chennai: Cost, Options and How to Choose a Surgeon" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Decision Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>02 October 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/hernia-surgery-chennai-cost-and-choosing-a-surgeon" class="blog-title">Hernia Surgery in Chennai: Cost, Options and How to Choose</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">Real cost ranges by procedure type, what a quote should include, and the questions worth asking before you choose a surgeon.</p>
+                    <a href="<?= $base_path ?>blog/hernia-surgery-chennai-cost-and-choosing-a-surgeon" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-25'): ?>
+            <!-- Scheduled: Swelling and Scars After Hernia Surgery (25 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/wound-care.png" alt="Hernia Surgery Scars, Swelling and the Still Looks Bulgy Problem" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>25 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/swelling-and-scars-after-hernia-surgery" class="blog-title">Hernia Surgery Scars, Swelling and the "Still Looks Bulgy" Problem</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">A differential guide to normal seroma, infection and recurrence at weeks 2 to 8, with the red flags that need review.</p>
+                    <a href="<?= $base_path ?>blog/swelling-and-scars-after-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-22'): ?>
+            <!-- Scheduled: Will My Hernia Come Back? (22 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Will My Hernia Come Back? Recurrence Risk Explained" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>22 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/will-my-hernia-come-back" class="blog-title">Will My Hernia Come Back? Recurrence Risk Explained</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">A risk-factor breakdown, split into what you can change and what you cannot, with real recurrence statistics.</p>
+                    <a href="<?= $base_path ?>blog/will-my-hernia-come-back" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-15'): ?>
+            <!-- Scheduled: Sleeping, Sitting and Travelling After Hernia Surgery (15 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Sleeping, Sitting and Travelling After Hernia Surgery" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>15 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/sleeping-and-travel-after-hernia-surgery" class="blog-title">Sleeping, Sitting and Travelling After Hernia Surgery</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">Safe sleeping positions for the first two weeks, plus a fit-to-fly timeline table for short and long flights.</p>
+                    <a href="<?= $base_path ?>blog/sleeping-and-travel-after-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-11'): ?>
+            <!-- Scheduled: Exercise After Hernia Surgery (11 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Exercise After Hernia Surgery: Gym, Lifting and Core Work" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>11 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/exercise-after-hernia-surgery" class="blog-title">Exercise After Hernia Surgery: Gym, Lifting and Core Work</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">What load is safe at weeks 0-2, 2-6, 6-12 and beyond, and how to get back to the gym without risking recurrence.</p>
+                    <a href="<?= $base_path ?>blog/exercise-after-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-09'): ?>
+            <!-- Existing post, listed for the first time: Hernia Surgery Recovery Time (09 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="Hernia Surgery Recovery Time: A Realistic Week-by-Week Guide" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Patient Medical Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>09 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/hernia-surgery-recovery-week-by-week" class="blog-title">Hernia Surgery Recovery Time: A Realistic Week-by-Week Guide</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">A realistic, week-by-week timeline of healing, pain management, and returning to normal life after hernia repair.</p>
+                    <a href="<?= $base_path ?>blog/hernia-surgery-recovery-week-by-week" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
+            <?php if (date('Y-m-d') >= '2026-09-04'): ?>
+            <!-- Scheduled: When Can I Go Back to Work? (04 September 2026) -->
+            <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="recovery">
+                <div class="relative h-56 w-full overflow-hidden bg-slate-100">
+                    <img src="<?= $base_path ?>assets/images/hernia-surgery-recovery-week-by-week.png" alt="When Can I Go Back to Work After Hernia Surgery?" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <span class="absolute top-4 left-4 bg-brand-50 text-brand-700 text-xs font-semibold px-3 py-1 rounded-full border border-brand-100 shadow-sm">Recovery Guide</span>
+                </div>
+                <div class="p-6 flex flex-col flex-1">
+                    <div class="flex items-center gap-2 text-xs text-slate-400 mb-3">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+                        <span>04 September 2026</span>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 leading-snug group-hover:text-brand-700 transition">
+                        <a href="<?= $base_path ?>blog/return-to-work-after-hernia-surgery" class="blog-title">When Can I Go Back to Work After Hernia Surgery?</a>
+                    </h3>
+                    <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">A job-by-job answer for desk, driving, retail, manual and heavy labor roles, not just a vague range.</p>
+                    <a href="<?= $base_path ?>blog/return-to-work-after-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
+                        Read Full Article
+                        <svg class="w-4 h-4 transform group-hover/link:translate-x-1.5 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                    </a>
+                </div>
+            </article>
+            <?php endif; ?>
+
             <!-- Article 0: Hernia in Women (03 September 2026) -->
             <article class="blog-card flex flex-col bg-white rounded-3xl overflow-hidden border border-slate-100 shadow-md hover:shadow-xl transition-all duration-300 group" data-category="hernia">
                 <div class="relative h-56 w-full overflow-hidden bg-slate-100">
