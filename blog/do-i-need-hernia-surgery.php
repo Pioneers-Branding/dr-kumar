@@ -298,7 +298,7 @@ require_once __DIR__ . '/../includes/header.php';
             <aside class="lg:col-span-4 space-y-8">
                 <!-- Author Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/doctor-about.avif" alt="Dr. Kumar Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
                     <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Hernia &amp; Abdominal Wall Surgeon</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29+ years of experience specializing in advanced laparoscopic and robotic hernia repairs.</p>

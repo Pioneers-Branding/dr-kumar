@@ -5,7 +5,7 @@ $page_title       ??= 'Advanced Hernia, Laparoscopic & Robotic Surgery | Dr. Kum
 $page_description ??= 'Expert hernia treatment by Dr. Kumar in Chennai. Advanced laparoscopic, robotic & eTEP hernia surgery with 29+ years of experience.';
 $page_keywords    ??= 'hernia surgery Chennai, best hernia surgeon Chennai, laparoscopic hernia repair';
 $page_url         ??= $site['url'] . basename(dirname($_SERVER['PHP_SELF'])) . '/';
-$page_image       ??= $site['url'] . 'assets/images/dr-kumar-main-image.png';
+$page_image       ??= $site['url'] . 'assets/images/dr-kumar-office-portrait.jpg';
 ?>
 <!DOCTYPE html>
 <html lang="en">

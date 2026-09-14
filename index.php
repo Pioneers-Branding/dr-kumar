@@ -5,28 +5,142 @@ $is_home = true;
 require __DIR__ . '/includes/header.php';
 ?>
 
-<section class="relative bg-cover bg-center overflow-hidden" style="background-image: url('assets/images/1.png');">
+<style>
+/* Homepage visual system — intentionally scoped so internal pages remain unchanged. */
+.home-page { background: #f8fafc; }
+.home-page section { scroll-margin-top: 112px; }
+.home-page section h1,
+.home-page section h2,
+.home-page section h3,
+.home-page section h4 { letter-spacing: -0.025em; }
+.home-page section h2 { text-wrap: balance; }
+.home-page section p { text-wrap: pretty; }
+
+.home-page > section:first-of-type {
+    min-height: min(690px, calc(100vh - 96px));
+    background-position: 72% center;
+}
+.home-page > section:first-of-type > div:first-child {
+    background: linear-gradient(90deg, rgba(4, 24, 39, .97) 0%, rgba(5, 42, 61, .86) 45%, rgba(5, 42, 61, .16) 78%, transparent 100%);
+}
+.home-page > section:first-of-type h1 { max-width: 760px; text-shadow: 0 2px 22px rgba(0,0,0,.16); }
+
+#hernia-care-360,
+#about,
+#hernia,
+#treatments,
+#why,
+#testimonials,
+#reels,
+#blog { padding-top: 6rem !important; padding-bottom: 6rem !important; }
+
+#hernia-care-360 { background: #fff !important; }
+#hernia-care-360 > div > div:nth-child(2) {
+    border: 1px solid #dbe7ea;
+    box-shadow: 0 26px 70px -34px rgba(10, 67, 82, .28);
+}
+#hernia-care-360 > div > div:last-child > div {
+    border: 1px solid #dcebed;
+    box-shadow: none;
+}
+
+#about { background: linear-gradient(135deg, #f1f7f7 0%, #fff 58%, #f8fafc 100%) !important; }
+#about img { height: 540px !important; border-radius: 1.5rem; }
+#about > div > div:first-child > div:first-child:after {
+    content: '';
+    position: absolute;
+    inset: 18px -18px -18px 18px;
+    border: 1px solid rgba(12, 117, 128, .18);
+    border-radius: 1.5rem;
+    z-index: -1;
+}
+
+#hernia { background: #fff !important; }
+#hernia .grid > a { border: 1px solid #e2e8f0; box-shadow: 0 10px 35px -24px rgba(15, 23, 42, .35); }
+#hernia .grid > a:hover { border-color: #9ac8ce; box-shadow: 0 22px 45px -28px rgba(10, 85, 98, .45); }
+#hernia > div > div:nth-last-child(2) { box-shadow: none !important; border: 1px solid #dcebed; background: #f6fafb !important; }
+
+#treatments { background: #eff6f7 !important; }
+#treatments .grid > a { border: 1px solid rgba(12, 117, 128, .12); box-shadow: 0 14px 38px -28px rgba(10, 67, 82, .38); }
+
+#why { background: #fff !important; }
+#why > div { align-items: center !important; }
+#why > div > div:last-child { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: .75rem; }
+#why > div > div:last-child > div {
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 1rem;
+    padding: 1rem !important;
+    background: #fff;
+}
+
+#testimonials { background: #f1f7f7 !important; }
+#reels { background: #fff !important; }
+#shorts { background: radial-gradient(circle at 50% 0%, #18364b 0%, #0f172a 45%, #09111e 100%) !important; }
+#blog { background: #f8fafc !important; }
+#contact { margin: 0; }
+
+@media (max-width: 1023px) {
+    .home-page > section:first-of-type { background-position: 66% center; }
+    #why > div > div:last-child { grid-template-columns: 1fr; }
+}
+@media (max-width: 767px) {
+    .home-page > section:first-of-type {
+        min-height: 660px;
+        background-position: 62% center;
+    }
+    .home-page > section:first-of-type > div:first-child {
+        background: linear-gradient(90deg, rgba(4, 24, 39, .98) 0%, rgba(5, 42, 61, .88) 65%, rgba(5, 42, 61, .48) 100%);
+    }
+    #hernia-care-360,
+    #about,
+    #hernia,
+    #treatments,
+    #why,
+    #testimonials,
+    #reels,
+    #blog { padding-top: 4.5rem !important; padding-bottom: 4.5rem !important; }
+    #about img { height: 430px !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .home-page *, .home-page *:before, .home-page *:after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
+}
+</style>
+
+<section class="relative bg-cover bg-center overflow-hidden" style="background-image: url('assets/images/1.png');" aria-labelledby="home-heading">
     <!-- Dark gradient overlay for text readability -->
     <div class="absolute inset-0 bg-gradient-to-r from-slate-950/70 via-slate-950/30 to-transparent pointer-events-none"></div>
 
-    <div class="relative max-w-7xl mx-auto min-h-[650px] lg:min-h-[700px] flex items-center">
-        <div class="px-6 lg:px-8 py-20 lg:py-28 max-w-2xl relative z-10">
+    <div class="relative max-w-7xl mx-auto min-h-[620px] lg:min-h-[680px] flex items-center">
+        <div class="px-6 lg:px-8 py-16 lg:py-24 max-w-3xl relative z-10">
 
-            <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] text-white mb-5">
-                Advanced Hernia and Abdominal Wall Expert
-            </h1>
-
-            <p class="text-slate-200 text-base md:text-lg leading-relaxed mb-8">
-                <strong><?= $site['doctor'] ?></strong>, Leading Expert in Complex Hernia, Advanced Abdominal Wall Reconstruction, Laparoscopic, Robotic &amp; Minimally Invasive Hernia Surgery with 29+ years of experience and <strong>10,000+ Hernia surgeries</strong> in Chennai.
+            <p class="inline-flex items-center gap-2 rounded-full border border-white/25 bg-slate-950/35 px-4 py-2 text-xs md:text-sm font-semibold text-white backdrop-blur-sm mb-5">
+                <span class="w-2 h-2 rounded-full bg-emerald-400" aria-hidden="true"></span>
+                Billroth Hospitals, Chennai &middot; In-person &amp; online consultations
             </p>
 
-            <div class="flex flex-wrap gap-3">
-                <a href="about-best-hernia-hospital-in-chennai" class="inline-flex items-center justify-center bg-brand-700 hover:bg-brand-800 text-white font-semibold px-8 py-3 rounded-md shadow-md hover:shadow-lg transition">
-                    About Us
+            <h1 id="home-heading" class="font-display text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] text-white mb-5">
+                Specialist Hernia Care, Built Around Your Recovery
+            </h1>
+
+            <p class="text-slate-100 text-base md:text-xl leading-relaxed mb-7 max-w-2xl">
+                Get a clear diagnosis and a treatment plan from <strong><?= $site['doctor'] ?></strong>, a Chennai specialist in laparoscopic, robotic and complex hernia surgery.
+            </p>
+
+            <div class="flex flex-col sm:flex-row gap-3">
+                <a href="book-appointment" class="inline-flex items-center justify-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-lg shadow-lg hover:shadow-xl transition">
+                    Book a Consultation
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
                 </a>
-                <a href="#treatments" class="inline-flex items-center justify-center bg-white hover:bg-slate-50 text-slate-800 font-semibold px-8 py-3 rounded-md border border-slate-200 shadow-sm transition">
-                    Our Services
+                <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center justify-center bg-white hover:bg-slate-50 text-slate-900 font-semibold px-7 py-3.5 rounded-lg border border-white shadow-sm transition">
+                    Call <?= $site['phone'] ?>
                 </a>
+            </div>
+
+            <div class="mt-7 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm text-slate-100">
+                <span><strong class="text-white">29+ years</strong> of experience</span>
+                <span class="hidden sm:block w-1 h-1 rounded-full bg-white/50" aria-hidden="true"></span>
+                <span><strong class="text-white">10,000+</strong> hernia surgeries</span>
+                <a href="emergency-hernia-care" class="font-semibold text-amber-300 hover:text-amber-200 underline underline-offset-4">View emergency warning signs</a>
             </div>
         </div>
     </div>
@@ -34,8 +148,30 @@ require __DIR__ . '/includes/header.php';
 
 </section>
 
+<!-- Patient-first task navigation -->
+<nav aria-label="Common patient needs" class="relative z-20 -mt-8 px-4">
+    <div class="max-w-6xl mx-auto rounded-2xl bg-white border border-slate-200 shadow-xl p-3 grid sm:grid-cols-2 lg:grid-cols-4 gap-2">
+        <?php
+        $patient_tasks = [
+            ['I have symptoms', 'Understand common signs and when to seek help', 'hernia/symptoms', '01'],
+            ['I need treatment advice', 'Compare laparoscopic, robotic and open repair', '#treatments', '02'],
+            ['I was advised surgery', 'Get an expert second opinion on your plan', 'second-opinion', '03'],
+            ['I am planning recovery', 'Know what to expect after hernia surgery', 'treatment/recovery', '04'],
+        ];
+        foreach ($patient_tasks as [$title, $copy, $link, $number]): ?>
+            <a href="<?= $link ?>" class="group flex gap-3 rounded-xl p-4 hover:bg-brand-50 focus:outline-none focus:ring-2 focus:ring-brand-600 focus:ring-offset-2 transition">
+                <span class="shrink-0 w-9 h-9 rounded-lg bg-brand-100 text-brand-800 flex items-center justify-center text-xs font-bold group-hover:bg-brand-700 group-hover:text-white transition" aria-hidden="true"><?= $number ?></span>
+                <span>
+                    <strong class="block text-slate-900 group-hover:text-brand-800 leading-tight"><?= $title ?></strong>
+                    <span class="block text-sm text-slate-500 mt-1 leading-snug"><?= $copy ?></span>
+                </span>
+            </a>
+        <?php endforeach; ?>
+    </div>
+</nav>
+
 <!-- Hernia Care 360 Section -->
-<section id="hernia-care-360" class="py-12 md:py-14 bg-gradient-to-br from-slate-50 via-white to-brand-50 overflow-hidden">
+<section id="hernia-care-360" class="pt-16 pb-12 md:pt-20 md:pb-14 bg-gradient-to-br from-slate-50 via-white to-brand-50 overflow-hidden">
     <div class="relative max-w-7xl mx-auto px-4">
 
         <!-- Header -->
@@ -71,12 +207,8 @@ require __DIR__ . '/includes/header.php';
                         A True 360-Degree Care Model, from Consultation to Follow-up
                     </h3>
 
-                    <p class="text-slate-600 leading-relaxed mb-5">
+                    <p class="text-slate-600 leading-relaxed mb-6 text-lg">
                         <strong>Hernia Care 360</strong>, led by renowned hernia specialist <strong>Dr. Kumar</strong> at Billroth Hospitals, is Chennai's dedicated advanced center for complete hernia and abdominal wall care. Offering comprehensive solutions for complex and recurrent hernias, the center uses cutting-edge technologies such as <strong>robotic surgery, advanced laparoscopy, eTEP, TAR, and component separation</strong> to achieve durable results.
-                    </p>
-
-                    <p class="text-slate-600 leading-relaxed mb-6">
-                        Designed as a true 360-degree care model, it provides <strong>consultation, diagnosis, treatment, recovery, rehabilitation, and follow-up</strong> under one roof. With rising hernia cases and high recurrence rates due to varied surgical expertise, Hernia Care 360 fulfills the growing need for a specialized hernia center, delivering expert, modern, and reliable hernia management backed by Dr. Kumar's extensive experience in the evolving field of herniology.
                     </p>
 
                     <div class="flex flex-wrap gap-3">
@@ -156,7 +288,7 @@ require __DIR__ . '/includes/header.php';
     <div class="relative max-w-7xl mx-auto px-4 grid lg:grid-cols-2 gap-12 items-center">
         <div>
             <div class="relative">
-                <img src="assets/images/dr-kumar-main-image.png" alt="About Dr. Kumar" class="rounded-2xl shadow-xl w-full h-[650px] object-cover object-top">
+                <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar, hernia surgeon at his Chennai clinic" width="1280" height="960" class="rounded-2xl shadow-xl w-full h-[650px] object-cover object-[center_28%]">
                 <div class="absolute -bottom-6 -right-6 bg-accent text-white rounded-2xl px-6 py-5 shadow-xl hidden md:block">
                     <p class="font-display text-3xl font-bold">29+</p>
                     <p class="text-sm">Years of Excellence</p>
@@ -172,11 +304,8 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl font-bold text-slate-900 mt-3 mb-5">
                 Pioneer in Laparoscopic Hernia Surgery &amp; Expert in Robotic Hernia Surgery
             </h2>
-            <p class="text-slate-600 mb-5 leading-relaxed">
-                Dr. Kumar is a leading expert in advanced <strong>laparoscopic</strong> and <strong>robotic</strong> hernia surgery, with extensive expertise in techniques such as <strong>eTEP, TEP, TAPP, TAR, IPOM</strong> and complex Abdominal Wall Reconstruction (AWR).
-            </p>
-            <p class="text-slate-600 mb-6 leading-relaxed">
-                With over <strong>10,000+ successful hernia surgeries</strong> to date, performed using advanced <strong>laparoscopic</strong> and <strong>robotic</strong> techniques. Dr. Kumar is one of Chennai's most trusted names in minimally invasive hernia care. A graduate of Stanley Medical College and a Member of the Royal College of Surgeons of England, he pioneered advanced <strong>laparoscopic</strong> hernia surgery in the city.
+            <p class="text-slate-600 mb-6 leading-relaxed text-lg">
+                With <strong>29+ years of experience</strong> and more than <strong>10,000 hernia surgeries</strong>, Dr. Kumar combines advanced laparoscopic and robotic techniques with a treatment plan tailored to each patient. His expertise includes eTEP, TEP, TAPP, TAR and complex abdominal wall reconstruction.
             </p>
 
             <div class="grid grid-cols-2 gap-4 mb-7">
@@ -364,14 +493,14 @@ require __DIR__ . '/includes/header.php';
             </span>
 
             <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold leading-[1.15] text-slate-900 mb-8">
-                Why Choose <span class="text-brand-700">Dr Kumar, Hernia Specialist</span> for Your<br>
-                Advanced Hernia Surgery?
+                Experience That Inspires <span class="text-brand-700">Confidence at Every Step</span>
             </h2>
 
             <div class="relative rounded-2xl overflow-hidden bg-slate-100 aspect-[16/10]">
-                <img src="assets/images/why-choose-us.png"
+                <img src="assets/images/dr-kumar-office-wide.jpg"
                      alt="Dr. Kumar - Senior Laparoscopic & Robotic Surgeon, Chennai"
-                     class="absolute inset-0 w-full h-full object-cover"
+                     width="1280" height="960"
+                     class="absolute inset-0 w-full h-full object-cover object-[center_32%]"
                      loading="lazy">
                 <div class="absolute bottom-4 left-4 bg-white/95 backdrop-blur-sm rounded-xl px-4 py-3 shadow-lg flex items-center gap-3">
                     <div class="w-10 h-10 rounded-full bg-brand-100 flex items-center justify-center">
@@ -744,80 +873,50 @@ require __DIR__ . '/includes/header.php';
     </div>
 </section>
 
-<!-- YouTube Shorts Section -->
-<section id="shorts" class="py-10 md:py-12 bg-slate-900 text-white overflow-hidden">
+<!-- Patient video library -->
+<section id="shorts" class="py-12 md:py-16 bg-slate-900 text-white overflow-hidden">
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
         <div class="text-center max-w-3xl mx-auto mb-8">
             <span class="inline-flex items-center gap-2 bg-red-500/20 border border-red-500/30 text-red-400 px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-4">
                 <svg class="w-3.5 h-3.5 fill-current" viewBox="0 0 24 24"><path d="M19.14 12.936l-10.4 6a2.015 2.015 0 01-3.007-1.74V5.196a2.016 2.016 0 013.007-1.74l10.4 6a2.016 2.016 0 010 3.48z"/></svg>
-                YouTube Shorts
+                Video Guide
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-4">
-                Watch &amp; Learn in under <span class="text-red-500">60 Seconds</span>
+                Clear Answers to <span class="text-red-400">Common Hernia Questions</span>
             </h2>
             <p class="text-slate-400 text-base md:text-lg">
-                Quick, informative videos by <?= $site['doctor'] ?> explaining complex hernia conditions, surgical advancements, and recovery guidelines.
+                Choose the question that matters to you. Each short video is explained by <?= $site['doctor'] ?> in patient-friendly language.
             </p>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 justify-center">
             <?php
             $shorts = [
-                [
-                    'title' => 'Hernia Recovery',
-                    'thumb' => 'https://i.ytimg.com/vi/I9WJk3VEFyI/hq2.jpg',
-                    'id'    => 'I9WJk3VEFyI',
-                ],
-                [
-                    'title' => 'Hernia Surgery',
-                    'thumb' => 'https://i.ytimg.com/vi/w9os4FjRO6g/hq2.jpg',
-                    'id'    => 'w9os4FjRO6g',
-                ],
-                [
-                    'title' => 'When Hernia Becomes Life Threatening',
-                    'thumb' => 'https://i.ytimg.com/vi/8biJkJk6kRg/hq2.jpg',
-                    'id'    => '8biJkJk6kRg',
-                ],
-                [
-                    'title' => 'Hernia Care & Management',
-                    'thumb' => 'https://i.ytimg.com/vi/h2adhLOGN4U/hq2.jpg',
-                    'id'    => 'h2adhLOGN4U',
-                ],
-                [
-                    'title' => 'Surgical Insights',
-                    'thumb' => 'https://i.ytimg.com/vi/DdVAAIssGGU/hq2.jpg',
-                    'id'    => 'DdVAAIssGGU',
-                ],
-                [
-                    'title' => 'Patient Experience',
-                    'thumb' => 'https://i.ytimg.com/vi/NpWwTbucxqM/hq2.jpg',
-                    'id'    => 'NpWwTbucxqM',
-                ],
+                ['title' => 'Which surgery is best: robotic or laparoscopic?', 'id' => 't0cNAzB1zgA', 'tag' => 'Treatment options'],
+                ['title' => 'Types of hernia in women: symptoms and warning signs', 'id' => 'LWJmZrMU_Zo', 'tag' => "Women's health"],
+                ['title' => "What not to do after hernia surgery", 'id' => 'Po25qGoGk6k', 'tag' => 'Recovery'],
+                ['title' => 'Signs of hernia in women and how it is treated', 'id' => '_PNyQ4se0vY', 'tag' => "Women's health"],
+                ['title' => 'When does a hernia become dangerous?', 'id' => 'h2adhLOGN4U', 'tag' => 'Warning signs'],
+                ['title' => 'Common hernia symptoms in men', 'id' => 'DdVAAIssGGU', 'tag' => "Men's health"],
+                ['title' => 'A patient shares their hernia surgery experience', 'id' => 'NpWwTbucxqM', 'tag' => 'Patient story'],
             ];
             foreach ($shorts as $s): ?>
-                <div class="group relative flex flex-col max-w-[300px] w-full mx-auto rounded-2xl overflow-hidden bg-slate-800 border border-slate-700/60 shadow-lg transition duration-300">
-                    <div class="relative aspect-[9/16] overflow-hidden bg-black">
-                        <iframe
-                            class="absolute inset-0 w-full h-full"
-                            src="https://www.youtube.com/embed/<?= $s['id'] ?>"
-                            title="<?= htmlspecialchars($s['title']) ?>"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen
-                            loading="lazy">
-                        </iframe>
-
-                        <div class="absolute top-4 left-4 bg-red-600 text-white font-bold text-[10px] tracking-widest uppercase px-2.5 py-1 rounded-md shadow flex items-center gap-1.5 z-10">
-                            <span class="w-1.5 h-1.5 rounded-full bg-white animate-ping"></span>
-                            Shorts
-                        </div>
+                <article class="group relative flex flex-col max-w-[340px] w-full mx-auto rounded-2xl overflow-hidden bg-slate-800 border border-slate-700 shadow-lg hover:-translate-y-1 hover:shadow-2xl transition duration-300">
+                    <div class="youtube-lite relative aspect-video overflow-hidden bg-black" data-video-id="<?= $s['id'] ?>">
+                        <img src="https://i.ytimg.com/vi/<?= $s['id'] ?>/hqdefault.jpg" alt="" loading="lazy" width="480" height="360" class="absolute inset-0 w-full h-full object-cover opacity-85 group-hover:opacity-100 group-hover:scale-105 transition duration-500">
+                        <button type="button" class="absolute inset-0 w-full h-full flex items-center justify-center focus:outline-none focus:ring-4 focus:ring-inset focus:ring-red-400" aria-label="Play: <?= htmlspecialchars($s['title']) ?>">
+                            <span class="w-16 h-12 rounded-xl bg-red-600 shadow-xl flex items-center justify-center group-hover:bg-red-500 group-hover:scale-110 transition" aria-hidden="true">
+                                <svg class="w-6 h-6 fill-white translate-x-0.5" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                            </span>
+                        </button>
                     </div>
-                    <div class="p-4 bg-gradient-to-t from-slate-900 to-slate-800">
-                        <h3 class="font-bold text-sm text-white leading-snug line-clamp-2">
+                    <div class="p-5 bg-gradient-to-t from-slate-900 to-slate-800 flex-1">
+                        <p class="text-[11px] font-bold uppercase tracking-widest text-red-400 mb-2"><?= htmlspecialchars($s['tag']) ?></p>
+                        <h3 class="font-bold text-base text-white leading-snug">
                             <?= $s['title'] ?>
                         </h3>
                     </div>
-                </div>
+                </article>
             <?php endforeach; ?>
         </div>
 
@@ -829,6 +928,23 @@ require __DIR__ . '/includes/header.php';
         </div>
     </div>
 </section>
+
+<script>
+document.querySelectorAll('.youtube-lite button').forEach(function (button) {
+    button.addEventListener('click', function () {
+        var wrapper = button.closest('.youtube-lite');
+        var id = wrapper.dataset.videoId;
+        var iframe = document.createElement('iframe');
+        iframe.className = 'absolute inset-0 w-full h-full';
+        iframe.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?autoplay=1&rel=0';
+        iframe.title = button.getAttribute('aria-label').replace(/^Play:\s*/, '');
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+        iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+        iframe.allowFullscreen = true;
+        wrapper.replaceChildren(iframe);
+    });
+});
+</script>
 
 <!-- Blog Section -->
 <section id="blog" class="py-10 md:py-12 bg-slate-50 overflow-hidden">
@@ -850,24 +966,8 @@ require __DIR__ . '/includes/header.php';
 
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-5xl mx-auto">
             <?php
-            $posts = [
-                [
-                    'title' => 'Can Hernia be Cured without Surgery? {In 2026}',
-                    'desc'  => 'Read our complete 2026 medical guide on non-surgical hernia management, home care, risks, and expert surgical advice by Dr. Kumar.',
-                    'tag'   => 'Hernia Guide',
-                    'date'  => '24 July 2026',
-                    'img'   => 'assets/images/can-hernia-be-cured-without-surgery.png',
-                    'link'  => 'blog/can-hernia-be-cured-without-surgery.php',
-                ],
-                [
-                    'title' => 'What not to eat after Hernia Surgery?',
-                    'desc'  => 'Read our complete 2026 medical guide on foods to avoid after hernia surgery, post-op diet rules, and expert tips by Dr. Kumar.',
-                    'tag'   => 'Recovery Guide',
-                    'date'  => '19 July 2026',
-                    'img'   => 'assets/images/what-not-to-eat-after-hernia-surgery.png',
-                    'link'  => 'blog/what-not-to-eat-after-hernia-surgery.php',
-                ],
-            ];
+            require_once __DIR__ . '/includes/blog-feed.php';
+            $posts = hc360_latest_blog_posts(2);
             foreach ($posts as $p): ?>
                 <a href="<?= $p['link'] ?>" class="bg-white rounded-2xl border border-slate-200/80 overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1 transition duration-300 flex flex-col block">
                     <div class="relative overflow-hidden aspect-[16/9] bg-slate-100 shrink-0">

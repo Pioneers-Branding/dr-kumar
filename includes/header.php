@@ -46,7 +46,7 @@ if (!isset($page_url)) {
     }
 }
 
-$page_image       ??= $site['url'] . 'assets/images/dr-kumar-main-image.png';
+$page_image       ??= $site['url'] . 'assets/images/dr-kumar-office-portrait.jpg';
 
 // Determine the dynamic "about" property for MedicalWebPage schema
 if (!isset($schema_about)) {
@@ -297,7 +297,7 @@ $physician = [
     'name'             => $site['doctor'],
     'honorificSuffix'  => $site['credentials'],
     'jobTitle'         => $site['job_title'],
-    'image'            => $SITE_ROOT . 'assets/images/dr-kumar-main-image.png',
+    'image'            => $SITE_ROOT . 'assets/images/dr-kumar-office-portrait.jpg',
     'url'              => $SITE_ROOT,
     'telephone'        => $site['phone'],
     'email'            => $site['email'],

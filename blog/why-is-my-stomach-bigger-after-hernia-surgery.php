@@ -1,5 +1,7 @@
 <?php
+require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Why Is My Stomach Bigger After Hernia Surgery? Guide';
+$page_image = $site['url'] . 'assets/images/why-is-my-stomach-bigger-after-hernia-surgery.jpg';
 $page_description = 'Why your stomach looks bigger after hernia surgery, how long post-operative swelling and bloating normally last, and the signs that need to be checked.';
 $page_keywords = 'why is my stomach bigger after hernia surgery, swollen stomach after hernia surgery, stomach swelling after hernia surgery, how long does swelling last after hernia surgery, stomach swollen after hernia surgery, Dr. Kumar Billroth Hospitals';
 $page_published = '2026-07-09';

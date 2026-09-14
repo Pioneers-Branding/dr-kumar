@@ -1,5 +1,7 @@
 <?php
+require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Can a Hernia Come Back After Surgery? | Dr. Kumar Billroth';
+$page_image = $site['url'] . 'assets/images/hernia-come-back-after-surgery.jpg';
 $page_description = 'Can a hernia come back after surgery? What recurrence rates actually are, why repairs fail, and what you can do to lower your own risk of it happening.';
 $page_keywords = 'can a hernia come back after surgery, does hernia come back after surgery, after hernia surgery can it come back, how to prevent hernia from coming back, recurrent hernia treatment, Dr. Kumar Billroth Hospitals';
 $page_published = '2026-07-09';

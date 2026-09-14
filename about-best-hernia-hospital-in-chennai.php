@@ -123,7 +123,7 @@ require __DIR__ . '/includes/header.php';
             <div class="lg:col-span-5 mt-8 lg:mt-0">
                 <div class="relative">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[3/4]">
-                        <img src="assets/images/dr-kumar-main-image.png" alt="Dr. Kumar" class="w-full h-full object-cover">
+                        <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar, hernia surgeon at his Chennai clinic" width="1280" height="960" class="w-full h-full object-cover object-[center_28%]">
                         <div class="absolute inset-0 bg-gradient-to-t from-slate-950/40 via-transparent to-transparent"></div>
                     </div>
                     

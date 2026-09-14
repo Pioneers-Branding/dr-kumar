@@ -1,5 +1,7 @@
 <?php
+require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Can an Umbilical Hernia Be Treated Without Surgery?';
+$page_image = $site['url'] . 'assets/images/can-umbilical-hernia-be-treated-without-surgery.png';
 $page_description = 'Can an umbilical hernia be treated without surgery? A surgeon separates the myths from the evidence, and explains when a belly button hernia needs repair.';
 $page_keywords = 'Can Umbilical Hernia be treated without Surgery, can umbilical hernia hernia be treated without operation, what happens if umbilical hernia is not treated, how to treat umbilical hernia, Inguinal Hernia treatment in Chennai, Dr. Kumar Billroth Hospitals';
 $page_published = '2026-08-03';
@@ -288,7 +290,7 @@ require_once __DIR__ . '/../includes/header.php';
             <aside class="lg:col-span-4 space-y-8">
                 <!-- Doctor Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/doctor-about.avif" alt="Dr. Kumar Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
                     <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Consultant - Hernia & Abdominal Reconstruction</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29+ years of clinical mastery in keyhole laparoscopic and robotic hernia repairs.</p>
