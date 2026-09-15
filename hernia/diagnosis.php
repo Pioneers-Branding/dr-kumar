@@ -1,5 +1,5 @@
 <?php
-$page_title = 'How a Hernia Is Diagnosed | Dr. Kumar Billroth Chennai';
+$page_title = 'How a Hernia Is Diagnosed | Dr. Kumar of Billroth Hospitals Chennai';
 $page_description = 'How hernias are diagnosed, from the physical examination through to ultrasound and CT scanning, and what your surgeon is actually checking for at each stage.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -48,7 +48,7 @@ require __DIR__ . '/../includes/header.php';
                     Physical Examination
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-6">
-                    The physical exam is often all that's needed to diagnose a hernia. Dr. Kumar will observe and palpate the area while you stand, checking for visible bulges and assessing the hernia's characteristics.
+                    The physical exam is often all that's needed to diagnose a hernia. Dr. Kumar of Billroth Hospitals will observe and palpate the area while you stand, checking for visible bulges and assessing the hernia's characteristics.
                 </p>
                 <div class="space-y-4">
                     <div class="flex items-start gap-4 p-4 bg-brand-50 rounded-xl border border-brand-100 hover:shadow-md transition">
@@ -222,7 +222,7 @@ require __DIR__ . '/../includes/header.php';
             Get an Accurate Diagnosis Today
         </h2>
         <p class="text-slate-300 mb-8">
-            Early and accurate diagnosis is the first step to effective treatment. Schedule your consultation with Dr. Kumar.
+            Early and accurate diagnosis is the first step to effective treatment. Schedule your consultation with Dr. Kumar of Billroth Hospitals.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:+918925502759" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-500 text-white font-bold px-8 py-4 rounded-full transition shadow-lg hover:scale-105">

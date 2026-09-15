@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Surgeon in Chennai | Dr. Kumar, Billroth Hospitals';
-$page_description = 'Dr. Kumar is a senior hernia, laparoscopic and robotic surgeon at Billroth Hospitals in Chennai, with 29 years of practice. Book a consultation today.';
+$page_title = 'Hernia Surgeon in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Dr. Kumar of Billroth Hospitals is a senior hernia, laparoscopic and robotic surgeon at Billroth Hospitals in Chennai, with 29 years of practice. Book a consultation today.';
 $is_home = true;
 require __DIR__ . '/includes/header.php';
 ?>
@@ -123,7 +123,7 @@ require __DIR__ . '/includes/header.php';
             </h1>
 
             <p class="text-slate-100 text-base md:text-xl leading-relaxed mb-7 max-w-2xl">
-                Get a clear diagnosis and a treatment plan from <strong><?= $site['doctor'] ?></strong>, a Chennai specialist in laparoscopic, robotic and complex hernia surgery.
+                Get a clear diagnosis and a treatment plan from <strong><?= $site['doctor_brand'] ?></strong>, a Chennai specialist in laparoscopic, robotic and complex hernia surgery.
             </p>
 
             <div class="flex flex-col sm:flex-row gap-3">
@@ -208,7 +208,7 @@ require __DIR__ . '/includes/header.php';
                     </h3>
 
                     <p class="text-slate-600 leading-relaxed mb-6 text-lg">
-                        <strong>Hernia Care 360</strong>, led by renowned hernia specialist <strong>Dr. Kumar</strong> at Billroth Hospitals, is Chennai's dedicated advanced center for complete hernia and abdominal wall care. Offering comprehensive solutions for complex and recurrent hernias, the center uses cutting-edge technologies such as <strong>robotic surgery, advanced laparoscopy, eTEP, TAR, and component separation</strong> to achieve durable results.
+                        <strong>Hernia Care 360</strong>, led by renowned hernia specialist <strong>Dr. Kumar of Billroth Hospitals</strong> at Billroth Hospitals, is Chennai's dedicated advanced center for complete hernia and abdominal wall care. Offering comprehensive solutions for complex and recurrent hernias, the center uses cutting-edge technologies such as <strong>robotic surgery, advanced laparoscopy, eTEP, TAR, and component separation</strong> to achieve durable results.
                     </p>
 
                     <div class="flex flex-wrap gap-3">
@@ -240,7 +240,7 @@ require __DIR__ . '/includes/header.php';
                         <ul class="space-y-3">
                             <?php
                             $care360 = [
-                                ['Consultation',  'Expert evaluation by Dr. Kumar and a personalized treatment roadmap.'],
+                                ['Consultation',  'Expert evaluation by Dr. Kumar of Billroth Hospitals and a personalized treatment roadmap.'],
                                 ['Diagnosis',      'Advanced imaging and clinical assessment for accurate staging.'],
                                 ['Treatment',      'Robotic, laparoscopic, eTEP, TAR &amp; component separation techniques.'],
                                 ['Recovery',       'Structured post-op protocols for faster, safer healing.'],
@@ -288,14 +288,14 @@ require __DIR__ . '/includes/header.php';
     <div class="relative max-w-7xl mx-auto px-4 grid lg:grid-cols-2 gap-12 items-center">
         <div>
             <div class="relative">
-                <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar, hernia surgeon at his Chennai clinic" width="1280" height="960" class="rounded-2xl shadow-xl w-full h-[650px] object-cover object-[center_28%]">
+                <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar of Billroth Hospitals, hernia surgeon at his Chennai clinic" width="1280" height="960" class="rounded-2xl shadow-xl w-full h-[650px] object-cover object-[center_28%]">
                 <div class="absolute -bottom-6 -right-6 bg-accent text-white rounded-2xl px-6 py-5 shadow-xl hidden md:block">
                     <p class="font-display text-3xl font-bold">29+</p>
                     <p class="text-sm">Years of Excellence</p>
                 </div>
             </div>
             <div class="mt-8 text-center">
-                <p class="font-display text-xl font-bold text-slate-900">Dr. Kumar, <span class="text-brand-700">Hernia Specialist</span></p>
+                <p class="font-display text-xl font-bold text-slate-900">Dr. Kumar of Billroth Hospitals, <span class="text-brand-700">Hernia Specialist</span></p>
             </div>
         </div>
 
@@ -305,7 +305,7 @@ require __DIR__ . '/includes/header.php';
                 Pioneer in Laparoscopic Hernia Surgery &amp; Expert in Robotic Hernia Surgery
             </h2>
             <p class="text-slate-600 mb-6 leading-relaxed text-lg">
-                With <strong>29+ years of experience</strong> and more than <strong>10,000 hernia surgeries</strong>, Dr. Kumar combines advanced laparoscopic and robotic techniques with a treatment plan tailored to each patient. His expertise includes eTEP, TEP, TAPP, TAR and complex abdominal wall reconstruction.
+                With <strong>29+ years of experience</strong> and more than <strong>10,000 hernia surgeries</strong>, Dr. Kumar of Billroth Hospitals combines advanced laparoscopic and robotic techniques with a treatment plan tailored to each patient. His expertise includes eTEP, TEP, TAPP, TAR and complex abdominal wall reconstruction.
             </p>
 
             <div class="grid grid-cols-2 gap-4 mb-7">
@@ -368,7 +368,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl font-bold text-slate-900 mt-3 mb-4">
                 Comprehensive Advanced Abdominal Hernia Care
             </h2>
-            <p class="text-slate-600">From complex incisional hernias to advanced abdominal wall reconstructions, Dr. Kumar offers the most sophisticated minimally invasive treatment options for all types of abdominal hernias.</p>
+            <p class="text-slate-600">From complex incisional hernias to advanced abdominal wall reconstructions, Dr. Kumar of Billroth Hospitals offers the most sophisticated minimally invasive treatment options for all types of abdominal hernias.</p>
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
@@ -465,7 +465,7 @@ require __DIR__ . '/includes/header.php';
 
                     <div class="relative mx-3 mb-3 rounded-xl overflow-hidden aspect-[4/3] bg-slate-100">
                         <img src="<?= $t['img'] ?>"
-                             alt="<?= $t['title'] ?> by Dr. Kumar Chennai"
+                             alt="<?= $t['title'] ?> by Dr. Kumar of Billroth Hospitals Chennai"
                              loading="lazy"
                              class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition duration-500">
                     </div>
@@ -498,7 +498,7 @@ require __DIR__ . '/includes/header.php';
 
             <div class="relative rounded-2xl overflow-hidden bg-slate-100 aspect-[16/10]">
                 <img src="assets/images/dr-kumar-office-wide.jpg"
-                     alt="Dr. Kumar - Senior Laparoscopic & Robotic Surgeon, Chennai"
+                     alt="Dr. Kumar of Billroth Hospitals - Senior Laparoscopic & Robotic Surgeon, Chennai"
                      width="1280" height="960"
                      class="absolute inset-0 w-full h-full object-cover object-[center_32%]"
                      loading="lazy">
@@ -598,7 +598,7 @@ require __DIR__ . '/includes/header.php';
                 ],
                 [
                     'title' => 'Patient-First Care',
-                    'desc'  => '5.0-star rating with 600+ verified Google reviews from patients who trust Dr. Kumar with their care.',
+                    'desc'  => '5.0-star rating with 600+ verified Google reviews from patients who trust Dr. Kumar of Billroth Hospitals with their care.',
                     'icon'  => '<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>',
                 ],
             ];
@@ -637,7 +637,7 @@ require __DIR__ . '/includes/header.php';
                         Expert Review
                     </span>
                     <h2 class="font-display text-2xl md:text-3xl font-bold leading-tight">Already advised surgery? Get a Second Opinion.</h2>
-                    <p class="text-slate-200 text-sm md:text-base mt-1 max-w-2xl">A thorough expert review from Dr. Kumar, 29+ years of experience, for clarity and confidence before you decide.</p>
+                    <p class="text-slate-200 text-sm md:text-base mt-1 max-w-2xl">A thorough expert review from Dr. Kumar of Billroth Hospitals, 29+ years of experience, for clarity and confidence before you decide.</p>
                 </div>
             </div>
             <div class="flex flex-wrap items-center justify-center gap-3 shrink-0">
@@ -681,20 +681,20 @@ require __DIR__ . '/includes/header.php';
 
         <?php
         $testimonials = [
-                        ['Ruby A.',      'Gallbladder & Hernia Patient', 'Chennai', 'Dr. Kumar at Billroth Hospital is an excellent surgeon. I recently underwent gallbladder and hernia surgery, and the entire experience was smooth and reassuring. Dr. Kumar explained everything clearly, made me feel comfortable, and the surgery went very well. My recovery has been quick and trouble-free thanks to his expertise and care. I am truly grateful for his professionalism and kindness. Highly recommended!', 'border-brand-700'],
-            ['Mercy F.',     'Local Guide · 4 reviews',  'Chennai', 'I underwent gall bladder surgery under Dr. Kumar. From the initial consultation to post-operative care, the doctor was extremely professional, patient, and reassuring. All my doubts were answered clearly, and I was guided properly regarding recovery and diet. The surgery went smoothly, and my recovery has been good. I truly appreciate the care and support provided. I highly recommend Dr. Kumar to anyone needing surgical care.', 'border-brand-700'],
+                        ['Ruby A.',      'Gallbladder & Hernia Patient', 'Chennai', 'Dr. Kumar of Billroth Hospitals is an excellent surgeon. I recently underwent gallbladder and hernia surgery, and the entire experience was smooth and reassuring. Dr. Kumar of Billroth Hospitals explained everything clearly, made me feel comfortable, and the surgery went very well. My recovery has been quick and trouble-free thanks to his expertise and care. I am truly grateful for his professionalism and kindness. Highly recommended!', 'border-brand-700'],
+            ['Mercy F.',     'Local Guide · 4 reviews',  'Chennai', 'I underwent gall bladder surgery under Dr. Kumar of Billroth Hospitals. From the initial consultation to post-operative care, the doctor was extremely professional, patient, and reassuring. All my doubts were answered clearly, and I was guided properly regarding recovery and diet. The surgery went smoothly, and my recovery has been good. I truly appreciate the care and support provided. I highly recommend Dr. Kumar of Billroth Hospitals to anyone needing surgical care.', 'border-brand-700'],
 
-            ['Thirulogachandar D.', 'Local Guide · 24 reviews', 'Chennai', 'Reviewing this doctor after a month of dad\'s surgery and follow ups. Had admitted my dad for Hernia Surgery. The treatment by Dr. Kumar was excellent, even at the follow-ups. Very clear on his suggestions, well mannered, explaining without jargons. Best and Go To doctor for Gastro related. Very polite and composed dr.', 'border-brand-700'],
-            ['AAA Electricals',     'Local Guide · 3 reviews',  'Chennai', 'I am proud to share my experience with Dr. Kumar from Billroth Hospital. He performed my grandfather\'s hernia operation, and it was a great success. My grandfather is now doing very well, thanks to Dr. Kumar\'s excellent treatment and successful surgery. I highly recommend him.', 'border-amber-500'],
-            ['Suresh A.',  'Local Guide · 19 reviews',  'Chennai', 'Exceptional surgeon with outstanding patient care. I am writing this review one month after my Supra Umbilical Hernia surgery, and I can confidently say that choosing Dr. Kumar Sir (Billroth Hospital) was the best decision. The surgery went smoothly and recovery has been excellent.', 'border-brand-700'],
-            ['Elango K.',  'Hernia Patient',            'Purasawalkam', '5/5 stars for Dr. Kumar at Billroth Hospitals. After a complicated gallbladder surgery at another hospital led to complications, Dr. Kumar completely turned things around. His professionalism, reassurance, and clear communication instantly put me at ease. The surgery was a success and recovery has been smooth sailing. Highly recommend!', 'border-amber-500'],
-            ['Anitha S.',  'Family Member',             'Chennai', 'My father underwent laparoscopic surgery with Dr. Kumar for colon growth and is absolutely normal now. Dr. Kumar is the best laparoscopic doctor. He is very friendly, interacts well with all patients, answers all our questions, and gives exceptional care to his patients. Highly recommend.', 'border-brand-700'],
-            ['Mubarak H.', 'Local Guide · 20 reviews',  'Chennai', 'Highly recommend Dr. Kumar at Billroth Hospital. He successfully performed a laparoscopic surgery for my father. Despite the risks and complications involved, Dr. Kumar performed the surgery with great success. His technical expertise is matched by his wonderful hospitality; he treated my father with immense patience and kindness, keeping our family informed at every step.', 'border-brand-700'],
-            ['Rajesh R.',  'Local Guide · 11 reviews',  'Chennai', 'I was admitted to Billroth Hospital under Dr. Kumar for a complicated appendix infection. I am extremely thankful to Dr. Kumar for his expert laparoscopic surgery and outstanding care throughout my treatment. The surgery was done with great precision, and my recovery was smooth and quick. Dr. Kumar is the best doctor for laparoscopic surgery.', 'border-amber-500'],
+            ['Thirulogachandar D.', 'Local Guide · 24 reviews', 'Chennai', 'Reviewing this doctor after a month of dad\'s surgery and follow ups. Had admitted my dad for Hernia Surgery. The treatment by Dr. Kumar of Billroth Hospitals was excellent, even at the follow-ups. Very clear on his suggestions, well mannered, explaining without jargons. Best and Go To doctor for Gastro related. Very polite and composed dr.', 'border-brand-700'],
+            ['AAA Electricals',     'Local Guide · 3 reviews',  'Chennai', 'I am proud to share my experience with Dr. Kumar of Billroth Hospitals. He performed my grandfather\'s hernia operation, and it was a great success. My grandfather is now doing very well, thanks to Dr. Kumar of Billroth Hospitals\'s excellent treatment and successful surgery. I highly recommend him.', 'border-amber-500'],
+            ['Suresh A.',  'Local Guide · 19 reviews',  'Chennai', 'Exceptional surgeon with outstanding patient care. I am writing this review one month after my Supra Umbilical Hernia surgery, and I can confidently say that choosing Dr. Kumar of Billroth Hospitals Sir (Billroth Hospital) was the best decision. The surgery went smoothly and recovery has been excellent.', 'border-brand-700'],
+            ['Elango K.',  'Hernia Patient',            'Purasawalkam', '5/5 stars for Dr. Kumar of Billroth Hospitals. After a complicated gallbladder surgery at another hospital led to complications, Dr. Kumar of Billroth Hospitals completely turned things around. His professionalism, reassurance, and clear communication instantly put me at ease. The surgery was a success and recovery has been smooth sailing. Highly recommend!', 'border-amber-500'],
+            ['Anitha S.',  'Family Member',             'Chennai', 'My father underwent laparoscopic surgery with Dr. Kumar of Billroth Hospitals for colon growth and is absolutely normal now. Dr. Kumar of Billroth Hospitals is the best laparoscopic doctor. He is very friendly, interacts well with all patients, answers all our questions, and gives exceptional care to his patients. Highly recommend.', 'border-brand-700'],
+            ['Mubarak H.', 'Local Guide · 20 reviews',  'Chennai', 'Highly recommend Dr. Kumar of Billroth Hospitals. He successfully performed a laparoscopic surgery for my father. Despite the risks and complications involved, Dr. Kumar of Billroth Hospitals performed the surgery with great success. His technical expertise is matched by his wonderful hospitality; he treated my father with immense patience and kindness, keeping our family informed at every step.', 'border-brand-700'],
+            ['Rajesh R.',  'Local Guide · 11 reviews',  'Chennai', 'I was admitted to Billroth Hospital under Dr. Kumar of Billroth Hospitals for a complicated appendix infection. I am extremely thankful to Dr. Kumar of Billroth Hospitals for his expert laparoscopic surgery and outstanding care throughout my treatment. The surgery was done with great precision, and my recovery was smooth and quick. Dr. Kumar of Billroth Hospitals is the best doctor for laparoscopic surgery.', 'border-amber-500'],
             ['Prakash M.',   'Son of Patient',          'Chennai', 'My mother was admitted for robotic ventral hernia surgery and it was gone well and my mother completely alright now and moreover the recovery took 1 to 2 weeks max. Highly recommend Dr. Kumaraguru at Billroth Hospitals for robotic ventral hernia surgery! Expertise and care were top-notch. Thanks to Dr. Kumaraguru and the amazing team.', 'border-amber-500'],
-            ['Annammal P.',  'Daughter of Patient',     'Chennai', 'Dad was suffering from Inguinal hernia and we consulted Dr. Kumar Hernia surgeon at Billroth hospitals. Dr. Kumar did laparoscopic Inguinal hernia surgery and dad was back on his feet in two days time, in spite of his age, he had a speedy recovery. Thanks to Dr. Kumar. Excellent Hernia surgeon for keyhole Inguinal hernia surgery.', 'border-brand-700'],
-            ['Saranya U.',   'Sister of Patient',       'Chennai', 'My brother had undergone complicated inguinal hernia surgery by keyhole method by Dr. Kumar with very less pain and fast recovery. Dr. Kumar clearly explained the procedure and the treatment and gave very good care. Dr. Kumar the very best doctor for keyhole inguinal hernia surgery.', 'border-amber-500'],
-            ['Vedamuthu Y.', 'Gallbladder Patient',     'Chennai', 'Dr. Kumar is an excellent doctor who made gallbladder stone surgery for me on 1st December of 2025. He was a caring doctor. I had gallbladder stone. I really thank Dr. Kumar for smooth and safely surgery. The doctor took great care of me. Once again I thank Dr. Kumar for my surgery.', 'border-brand-700'],
+            ['Annammal P.',  'Daughter of Patient',     'Chennai', 'Dad was suffering from Inguinal hernia and we consulted Dr. Kumar of Billroth Hospitals Hernia surgeon at Billroth hospitals. Dr. Kumar of Billroth Hospitals did laparoscopic Inguinal hernia surgery and dad was back on his feet in two days time, in spite of his age, he had a speedy recovery. Thanks to Dr. Kumar of Billroth Hospitals. Excellent Hernia surgeon for keyhole Inguinal hernia surgery.', 'border-brand-700'],
+            ['Saranya U.',   'Sister of Patient',       'Chennai', 'My brother had undergone complicated inguinal hernia surgery by keyhole method by Dr. Kumar of Billroth Hospitals with very less pain and fast recovery. Dr. Kumar of Billroth Hospitals clearly explained the procedure and the treatment and gave very good care. Dr. Kumar of Billroth Hospitals the very best doctor for keyhole inguinal hernia surgery.', 'border-amber-500'],
+            ['Vedamuthu Y.', 'Gallbladder Patient',     'Chennai', 'Dr. Kumar of Billroth Hospitals is an excellent doctor who made gallbladder stone surgery for me on 1st December of 2025. He was a caring doctor. I had gallbladder stone. I really thank Dr. Kumar of Billroth Hospitals for smooth and safely surgery. The doctor took great care of me. Once again I thank Dr. Kumar of Billroth Hospitals for my surgery.', 'border-brand-700'],
         ];
         ?>
 
@@ -834,7 +834,7 @@ require __DIR__ . '/includes/header.php';
                 Patient Awareness &amp; <span class="text-brand-700">Surgical Insights</span>
             </h2>
             <p class="text-slate-600 text-base md:text-lg">
-                Stay informed with educational videos, surgical insights, and patient success stories shared by <?= $site['doctor'] ?> on Instagram.
+                Stay informed with educational videos, surgical insights, and patient success stories shared by <?= $site['doctor_brand'] ?> on Instagram.
             </p>
         </div>
 
@@ -885,7 +885,7 @@ require __DIR__ . '/includes/header.php';
                 Clear Answers to <span class="text-red-400">Common Hernia Questions</span>
             </h2>
             <p class="text-slate-400 text-base md:text-lg">
-                Choose the question that matters to you. Each short video is explained by <?= $site['doctor'] ?> in patient-friendly language.
+                Choose the question that matters to you. Each short video is explained by <?= $site['doctor_brand'] ?> in patient-friendly language.
             </p>
         </div>
 
@@ -979,7 +979,7 @@ document.querySelectorAll('.youtube-lite button').forEach(function (button) {
 
                     <div class="p-5 flex flex-col flex-1">
                         <p class="text-xs font-semibold text-slate-400 mb-1.5">
-                            <?= $p['date'] ?> &middot; By <?= $site['doctor'] ?>
+                            <?= $p['date'] ?> &middot; By <?= $site['doctor_brand'] ?>
                         </p>
                         <h3 class="font-display font-bold text-lg md:text-xl text-slate-900 mb-2.5 leading-snug">
                             <?= $p['title'] ?>

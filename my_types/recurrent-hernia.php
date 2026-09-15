@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Recurrent Hernia Repair in Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia came back after surgery? Dr. Kumar performs expert revision repair in Chennai, using advanced techniques built to keep recurrence rates very low.';
+$page_title = 'Recurrent Hernia Repair in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia came back after surgery? Dr. Kumar of Billroth Hospitals performs expert revision repair in Chennai, using advanced techniques built to keep recurrence rates very low.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -306,7 +306,7 @@ require __DIR__ . '/../includes/header.php';
             A Recurrent Hernia Deserves a Specialist Opinion
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar for a CT-based evaluation and a tailored plan for durable re-repair.
+            Book an appointment with Dr. Kumar of Billroth Hospitals for a CT-based evaluation and a tailored plan for durable re-repair.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -318,7 +318,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -341,10 +341,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Recurrent Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Recurrent Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -365,7 +365,7 @@ require __DIR__ . '/../includes/header.php';
                     Minimally Invasive · Keyhole Surgery
                 </p>
                 <p class="text-slate-100 text-sm leading-relaxed mb-6">
-                    Dr. Kumar's first step is always a <strong>CT mapping</strong> of the abdominal wall to define the defect, prior mesh position, and tissue quality. Re-operative <strong>laparoscopic</strong> repair then uses a <strong>different anatomical plane</strong> with wide mesh overlap, avoiding the scar tissue of the previous repair for a durable, low-recurrence outcome.
+                    Dr. Kumar of Billroth Hospitals&rsquo; first step is always a <strong>CT mapping</strong> of the abdominal wall to define the defect, prior mesh position, and tissue quality. Re-operative <strong>laparoscopic</strong> repair then uses a <strong>different anatomical plane</strong> with wide mesh overlap, avoiding the scar tissue of the previous repair for a durable, low-recurrence outcome.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-100">
                     <li class="flex gap-2"><span class="text-accent">✓</span> CT mapping first</li>
@@ -388,7 +388,7 @@ require __DIR__ . '/../includes/header.php';
                     Latest Technology · 3D Vision
                 </p>
                 <p class="text-slate-200 text-sm leading-relaxed mb-6">
-                    State-of-the-art advanced robotic platform is <strong>the ideal choice</strong> for recurrent hernias. Superior 3D visualization and wristed instruments let Dr. Kumar dissect through scar tissue with unmatched precision, place large mesh in a clean tissue plane, and reconstruct the abdominal wall in layers, even in multiply recurrent cases.
+                    State-of-the-art advanced robotic platform is <strong>the ideal choice</strong> for recurrent hernias. Superior 3D visualization and wristed instruments let Dr. Kumar of Billroth Hospitals dissect through scar tissue with unmatched precision, place large mesh in a clean tissue plane, and reconstruct the abdominal wall in layers, even in multiply recurrent cases.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-200">
                     <li class="flex gap-2"><span class="text-accent">✓</span> Precision in scar tissue</li>
@@ -418,7 +418,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>treatment/etep-technique-expert-in-chennai" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">

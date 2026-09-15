@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Kilpauk, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Kilpauk patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. Two metro stops from Kilpauk Medical College. Book a consultation.';
-$page_keywords    = 'hernia surgeon in Kilpauk, hernia treatment Kilpauk Chennai, hernia specialist near Kilpauk, laparoscopic hernia surgery Kilpauk, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Kilpauk, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Kilpauk patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. Two metro stops from Kilpauk Medical College. Book a consultation.';
+$page_keywords    = 'hernia surgeon in Kilpauk, hernia treatment Kilpauk Chennai, hernia specialist near Kilpauk, laparoscopic hernia surgery Kilpauk, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-kilpauk';
 
 // This page serves the Kilpauk catchment. The medical depth lives on the Chennai
@@ -10,7 +10,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-kilpa
 $faqs = [
     ['q' => 'I already have a hernia diagnosis from another Kilpauk hospital. Should I still consult?', 'a' => 'Yes, a second opinion is reasonable before any operation. Bring the actual scan images along with the report so the defect can be assessed directly.'],
     ['q' => 'How do I reach Billroth Hospitals from Kilpauk by metro?', 'a' => 'Take the Green Line from Kilpauk Medical College toward Anna Nagar and get down at Shenoy Nagar. The hospital is on Gajapathy Street nearby.'],
-    ['q' => 'Does Dr. Kumar handle hernias that have come back after surgery?', 'a' => 'Yes. Recurrent hernia repair is a significant part of the practice and generally needs a different surgical plan than a first-time repair.'],
+    ['q' => 'Does Dr. Kumar of Billroth Hospitals handle hernias that have come back after surgery?', 'a' => 'Yes. Recurrent hernia repair is a significant part of the practice and generally needs a different surgical plan than a first-time repair.'],
 ];
 
 require __DIR__ . '/../includes/header.php';
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Kilpauk and the surrounding areas of Kilpauk Garden Road, Poonamallee High Road and the Kilpauk Medical College area.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Kilpauk and the surrounding areas of Kilpauk Garden Road, Poonamallee High Road and the Kilpauk Medical College area.
                         </p>
                     </div>
 
@@ -66,12 +66,12 @@ require __DIR__ . '/../includes/header.php';
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Kilpauk</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">Kilpauk Medical College station sits on the same Green Line corridor as Shenoy Nagar, with Pachaiyappa's College in between, so the metro journey is short and entirely underground.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">By road, Kilpauk connects to the hospital through Poonamallee High Road and Gajapathy Street. This is a busy stretch through the middle of the day, so for a first consultation many Kilpauk patients prefer the metro and an auto at the far end.</p>
-                    <p class="text-slate-600 leading-relaxed mb-5">Because Kilpauk is a hospital district, a fair number of patients reaching Dr. Kumar from here are coming for a second opinion on a hernia already diagnosed elsewhere. Bring the scan images themselves, not only the report, if you are in that position.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">Because Kilpauk is a hospital district, a fair number of patients reaching Dr. Kumar of Billroth Hospitals from here are coming for a second opinion on a hernia already diagnosed elsewhere. Bring the scan images themselves, not only the report, if you are in that position.</p>
 
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Kilpauk Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Kilpauk, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Kilpauk, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

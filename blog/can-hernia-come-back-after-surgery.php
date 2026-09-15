@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
-$page_title = 'Can a Hernia Come Back After Surgery? | Dr. Kumar Billroth';
+$page_title = 'Can a Hernia Come Back After Surgery? | Dr. Kumar of Billroth Hospitals';
 $page_image = $site['url'] . 'assets/images/hernia-come-back-after-surgery.jpg';
 $page_description = 'Can a hernia come back after surgery? What recurrence rates actually are, why repairs fail, and what you can do to lower your own risk of it happening.';
-$page_keywords = 'can a hernia come back after surgery, does hernia come back after surgery, after hernia surgery can it come back, how to prevent hernia from coming back, recurrent hernia treatment, Dr. Kumar Billroth Hospitals';
+$page_keywords = 'can a hernia come back after surgery, does hernia come back after surgery, after hernia surgery can it come back, how to prevent hernia from coming back, recurrent hernia treatment, Dr. Kumar of Billroth Hospitals';
 $page_published = '2026-07-09';
 $page_modified  = '2026-08-03';
 require_once __DIR__ . '/../includes/header.php';
@@ -33,7 +33,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By Dr. Kumar</span>
+                    <span>By Dr. Kumar of Billroth Hospitals</span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -236,7 +236,7 @@ require_once __DIR__ . '/../includes/header.php';
                         For complex recurrent ventral or incisional cases, advanced techniques like <strong>Abdominal Wall Reconstruction (AWR)</strong> are used. Using procedures like TAR (Transversus Abdominis Release), the surgeon separates the muscle layers of the abdomen, slides them back into their natural position, and places a large reinforcing mesh in a deep, protected layer.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        To guarantee a successful, permanent repair, you should consult an expert <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 hover:underline font-semibold">Hernia Surgeon in Chennai</a>. Senior specialists like <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 hover:underline font-semibold">Dr. Kumar</a> of Billroth Hospitals bring nearly three decades of clinical experience and advanced robotic/laparoscopic expertise to resolve complex recurrent hernia repairs safely.
+                        To achieve a successful, durable repair, you should consult an expert <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 hover:underline font-semibold">Hernia Surgeon in Chennai</a>. Senior specialists such as <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a> bring nearly three decades of clinical experience and advanced robotic/laparoscopic expertise to resolve complex recurrent hernia repairs safely.
                     </p>
 
                     <!-- Conclusion -->
@@ -310,11 +310,11 @@ require_once __DIR__ . '/../includes/header.php';
                 
                 <!-- Doctor Profile Callout -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="../assets/images/logo.png" alt="Dr. Kumar Logo" class="h-16 mx-auto mb-4 object-contain" />
-                    <h4 class="font-display text-lg font-bold text-slate-900 mb-1">Dr. Kumar</h4>
+                    <img src="../assets/images/logo.png" alt="Dr. Kumar of Billroth Hospitals Logo" class="h-16 mx-auto mb-4 object-contain" />
+                    <h4 class="font-display text-lg font-bold text-slate-900 mb-1">Dr. Kumar of Billroth Hospitals</h4>
                     <p class="text-xs text-brand-600 font-semibold uppercase tracking-wider mb-4">Senior Hernia Specialist</p>
                     <p class="text-sm text-slate-500 leading-relaxed mb-6">
-                        With over 29 years of surgical experience, Dr. Kumar provides advanced laparoscopic and robotic hernia treatments in Chennai.
+                        With over 29 years of surgical experience, Dr. Kumar of Billroth Hospitals provides advanced laparoscopic and robotic hernia treatments in Chennai.
                     </p>
                     <a href="<?= $base_path ?>contact.php" class="block w-full bg-brand-700 hover:bg-brand-850 text-white font-bold py-3 px-6 rounded-full text-sm transition text-center shadow-md">
                         Book Consultation

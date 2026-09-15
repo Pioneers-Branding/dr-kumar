@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Hernia During Pregnancy | Dr. Kumar Billroth, Chennai';
+$page_title = 'Hernia During Pregnancy | Dr. Kumar of Billroth Hospitals, Chennai';
 $page_description = 'Managing a hernia during pregnancy, what is safe to do while expecting, when repair should wait until after delivery, and when to seek urgent medical care.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -304,7 +304,7 @@ require __DIR__ . '/../includes/header.php';
                         <div>
                             <h4 class="font-bold text-lg text-white mb-2">Discuss Your Plans</h4>
                             <p class="text-slate-300 text-sm leading-relaxed">
-                                Always discuss future pregnancy plans with Dr. Kumar. In some cases, he may recommend specific mesh placement techniques or meshless repair options to optimize outcomes.
+                                Always discuss future pregnancy plans with Dr. Kumar of Billroth Hospitals. In some cases, he may recommend specific mesh placement techniques or meshless repair options to optimize outcomes.
                             </p>
                         </div>
                     </div>
@@ -354,7 +354,7 @@ require __DIR__ . '/../includes/header.php';
                     <text x="90" y="244" fill="#e2e8f0" font-size="10">Mesh provides support during pregnancy</text>
 
                     <circle cx="75" cy="265" r="5" fill="#0e7490"/>
-                    <text x="90" y="269" fill="#e2e8f0" font-size="10">Discuss timing with Dr. Kumar for personalized advice</text>
+                    <text x="90" y="269" fill="#e2e8f0" font-size="10">Discuss timing with Dr. Kumar of Billroth Hospitals for personalized advice</text>
                 </svg>
             </div>
         </div>
@@ -455,7 +455,7 @@ require __DIR__ . '/../includes/header.php';
             Safe Hernia Care During Pregnancy
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Get expert guidance on managing hernia during and after pregnancy. Dr. Kumar provides safe, compassionate care tailored to expecting mothers.
+            Get expert guidance on managing hernia during and after pregnancy. Dr. Kumar of Billroth Hospitals provides safe, compassionate care tailored to expecting mothers.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

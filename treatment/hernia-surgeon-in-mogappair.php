@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Mogappair, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Mogappair patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. Green Line metro from Thirumangalam. Book a consultation today.';
-$page_keywords    = 'hernia surgeon in Mogappair, hernia treatment Mogappair Chennai, hernia specialist near Mogappair, laparoscopic hernia surgery Mogappair, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Mogappair, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Mogappair patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. Green Line metro from Thirumangalam. Book a consultation today.';
+$page_keywords    = 'hernia surgeon in Mogappair, hernia treatment Mogappair Chennai, hernia specialist near Mogappair, laparoscopic hernia surgery Mogappair, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-mogappair';
 
 // This page serves the Mogappair catchment. The medical depth lives on the Chennai
@@ -9,7 +9,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-mogap
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
     ['q' => 'Which metro station is closest to Mogappair?', 'a' => 'Thirumangalam on the Green Line. From there the metro runs through Anna Nagar to Shenoy Nagar, the station nearest the hospital.'],
-    ['q' => 'Is keyhole hernia surgery available for Mogappair patients?', 'a' => 'Yes. Dr. Kumar performs laparoscopic and robotic hernia repair, and most patients are suitable for a keyhole approach rather than open surgery.'],
+    ['q' => 'Is keyhole hernia surgery available for Mogappair patients?', 'a' => 'Yes. Dr. Kumar of Billroth Hospitals performs laparoscopic and robotic hernia repair, and most patients are suitable for a keyhole approach rather than open surgery.'],
     ['q' => 'How long is recovery after keyhole hernia repair?', 'a' => 'Many people return to desk work within one to two weeks. Heavy lifting and strenuous work take longer and should be discussed at your review.'],
 ];
 
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Mogappair and the surrounding areas of Mogappair East, Mogappair West, Nolambur and the Thirumangalam approach.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Mogappair and the surrounding areas of Mogappair East, Mogappair West, Nolambur and the Thirumangalam approach.
                         </p>
                     </div>
 
@@ -71,7 +71,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Mogappair Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Mogappair, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Mogappair, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

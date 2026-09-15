@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Surgical Techniques in Chennai | Dr. Kumar Billroth';
-$page_description = 'The full range of hernia techniques Dr. Kumar performs in Chennai, from laparoscopic TEP and TAPP to robotic repair and abdominal wall reconstruction.';
+$page_title = 'Hernia Surgical Techniques in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'The full range of hernia techniques Dr. Kumar of Billroth Hospitals performs in Chennai, from laparoscopic TEP and TAPP to robotic repair and abdominal wall reconstruction.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -35,7 +35,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Treatment Options</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Explore the complete range of advanced hernia and laparoscopic treatments offered by Dr. Kumar - from daycare procedures to complex abdominal wall reconstruction.
+                Explore the complete range of advanced hernia and laparoscopic treatments offered by Dr. Kumar of Billroth Hospitals - from daycare procedures to complex abdominal wall reconstruction.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#all-treatments" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -275,7 +275,7 @@ require __DIR__ . '/../includes/header.php';
             Not Sure Which Treatment is Right for You?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-10 max-w-2xl mx-auto">
-            Schedule a consultation with Dr. Kumar to discuss your condition and find the best treatment approach for your specific needs.
+            Schedule a consultation with Dr. Kumar of Billroth Hospitals to discuss your condition and find the best treatment approach for your specific needs.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">

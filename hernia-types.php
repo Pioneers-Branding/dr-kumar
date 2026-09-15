@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Types of Hernia Explained | Dr. Kumar Billroth Chennai';
-$page_description = 'Inguinal, umbilical, incisional, ventral, femoral, hiatal and rare hernias, all explained by Dr. Kumar, hernia surgeon at Billroth Hospitals in Chennai.';
-$page_keywords = 'types of hernia, inguinal hernia, umbilical hernia, incisional hernia, ventral hernia, hiatal hernia, femoral hernia, recurrent hernia, sports hernia, strangulated hernia, rare hernias, Dr. Kumar Billroth Hospitals, Chennai';
+$page_title = 'Types of Hernia Explained | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'Inguinal, umbilical, incisional, ventral, femoral, hiatal and rare hernias, all explained by Dr. Kumar of Billroth Hospitals, hernia surgeon at Billroth Hospitals in Chennai.';
+$page_keywords = 'types of hernia, inguinal hernia, umbilical hernia, incisional hernia, ventral hernia, hiatal hernia, femoral hernia, recurrent hernia, sports hernia, strangulated hernia, rare hernias, Dr. Kumar of Billroth Hospitals, Chennai';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -29,7 +29,7 @@ require __DIR__ . '/includes/header.php';
                 <span class="text-accent">Abdominal Wall Defects</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Understanding your hernia is the first step to a durable recovery. Dr. Kumar treats all varieties of abdominal and groin hernias, from common umbilical defects to highly complex recurrent cases requiring specialized reconstruction.
+                Understanding your hernia is the first step to a durable recovery. Dr. Kumar of Billroth Hospitals treats all varieties of abdominal and groin hernias, from common umbilical defects to highly complex recurrent cases requiring specialized reconstruction.
             </p>
         </div>
     </div>
@@ -238,7 +238,7 @@ require __DIR__ . '/includes/header.php';
             Seek Professional Evaluation
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Discuss your symptoms, concerns, or previous surgical repairs with Dr. Kumar. Receive an accurate diagnosis, clear mesh choices, and an optimized recovery layout.
+            Discuss your symptoms, concerns, or previous surgical repairs with Dr. Kumar of Billroth Hospitals. Receive an accurate diagnosis, clear mesh choices, and an optimized recovery layout.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

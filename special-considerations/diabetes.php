@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Hernia Surgery with Diabetes | Dr. Kumar Billroth Chennai';
+$page_title = 'Hernia Surgery with Diabetes | Dr. Kumar of Billroth Hospitals Chennai';
 $page_description = 'How diabetes affects hernia surgery and wound healing, what blood sugar control is needed beforehand, and how infection risk is managed during recovery.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -498,7 +498,7 @@ require __DIR__ . '/../includes/header.php';
             Expert Care for Diabetic Patients
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Dr. Kumar has extensive experience treating diabetic patients with hernia conditions. Proper planning and coordination ensure excellent outcomes.
+            Dr. Kumar of Billroth Hospitals has extensive experience treating diabetic patients with hernia conditions. Proper planning and coordination ensure excellent outcomes.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

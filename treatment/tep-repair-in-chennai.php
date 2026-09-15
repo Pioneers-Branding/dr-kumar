@@ -1,6 +1,6 @@
 <?php
-$page_title = 'TEP Hernia Repair in Chennai | Dr. Kumar Billroth Hospitals';
-$page_description = 'Seeking TEP Hernia Repair in Chennai? Consult Dr. Kumar Billroth Hospitals, a top laparoscopic hernia surgeon for advanced, minimally invasive TEP repair.';
+$page_title = 'TEP Hernia Repair in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Seeking TEP Hernia Repair in Chennai? Consult Dr. Kumar of Billroth Hospitals, a top laparoscopic hernia surgeon for advanced, minimally invasive TEP repair.';
 $page_url = 'https://herniacare360.com/treatment/tep-repair-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -38,7 +38,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Repair in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Totally Extraperitoneal (TEP) repair is an advanced laparoscopic hernia surgery in Chennai. Consult Dr. Kumar, a premier hernia specialist in Chennai, for safe, organ-sparing TEP repair.
+                Totally Extraperitoneal (TEP) repair is an advanced laparoscopic hernia surgery in Chennai. Consult Dr. Kumar of Billroth Hospitals, a premier hernia specialist in Chennai, for safe, organ-sparing TEP repair.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#what-is-tep" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -323,7 +323,7 @@ require __DIR__ . '/../includes/header.php';
                     Who is a Candidate for TEP?
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-6">
-                    TEP is an outstanding option for the majority of patients suffering from groin (inguinal or femoral) hernias. Dr. Kumar reviews patient health indicators and hernia size during clinical consult to map your compatibility.
+                    TEP is an outstanding option for the majority of patients suffering from groin (inguinal or femoral) hernias. Dr. Kumar of Billroth Hospitals reviews patient health indicators and hernia size during clinical consult to map your compatibility.
                 </p>
 
                 <div class="space-y-4">
@@ -396,7 +396,7 @@ require __DIR__ . '/../includes/header.php';
                 <div class="mt-8 p-4 bg-brand-50 rounded-2xl border border-brand-100 flex items-start gap-3">
                     <span class="text-xl">💡</span>
                     <p class="text-xs text-slate-700 leading-relaxed font-medium">
-                        <strong>The right approach matches your anatomy.</strong> Dr. Kumar utilizes specialized physical screenings to select the entry method that guarantees the lowest recurrence and safest recovery.
+                        <strong>The right approach matches your anatomy.</strong> Dr. Kumar of Billroth Hospitals utilizes specialized physical screenings to select the entry method that guarantees the lowest recurrence and safest recovery.
                     </p>
                 </div>
             </div>
@@ -575,7 +575,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes. Rarely, if heavy scarring from previous pelvic surgery or bleeding limits visibility, Dr. Kumar converts to TAPP or open repair to keep the patient safe and the closure sound.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes. Rarely, if heavy scarring from previous pelvic surgery or bleeding limits visibility, Dr. Kumar of Billroth Hospitals converts to TAPP or open repair to keep the patient safe and the closure sound.</p>
                     </div>
                 </div>
             </div>
@@ -590,7 +590,7 @@ require __DIR__ . '/../includes/header.php';
             Is TEP Repair Right for Your Hernia?
         </h2>
         <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar will evaluate your condition and recommend the most appropriate surgical technique for your specific anatomical needs.
+            Dr. Kumar of Billroth Hospitals will evaluate your condition and recommend the most appropriate surgical technique for your specific anatomical needs.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition hover:scale-105 shadow-lg shadow-accent/20">
@@ -605,7 +605,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

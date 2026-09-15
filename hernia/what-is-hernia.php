@@ -1,5 +1,5 @@
 <?php
-$page_title = 'What Is a Hernia? Definition and Anatomy | Dr. Kumar';
+$page_title = 'What Is a Hernia? Definition and Anatomy | Dr. Kumar of Billroth Hospitals';
 $page_description = 'What a hernia actually is, how a gap forms in the muscle wall, why it cannot heal by itself, and when you should go and see a surgeon about one in Chennai.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -223,7 +223,7 @@ require __DIR__ . '/../includes/header.php';
             Concerned You Might Have a Hernia?
         </h2>
         <p class="text-slate-300 mb-8">
-            Early diagnosis and treatment prevent complications. Schedule a consultation with Dr. Kumar today.
+            Early diagnosis and treatment prevent complications. Schedule a consultation with Dr. Kumar of Billroth Hospitals today.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:+918925502759" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-500 text-white font-bold px-8 py-4 rounded-full transition shadow-lg hover:scale-105">

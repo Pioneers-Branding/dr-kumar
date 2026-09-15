@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Korattur, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Korattur patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. Suburban rail 12 km from Chennai Central. Book a consultation.';
-$page_keywords    = 'hernia surgeon in Korattur, hernia treatment Korattur Chennai, hernia specialist near Korattur, laparoscopic hernia surgery Korattur, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Korattur, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Korattur patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. Suburban rail 12 km from Chennai Central. Book a consultation.';
+$page_keywords    = 'hernia surgeon in Korattur, hernia treatment Korattur Chennai, hernia specialist near Korattur, laparoscopic hernia surgery Korattur, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-korattur';
 
 // This page serves the Korattur catchment. The medical depth lives on the Chennai
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Korattur and the surrounding areas of Korattur, the Ambattur Industrial Estate side, Padi border and Korattur lake area.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Korattur and the surrounding areas of Korattur, the Ambattur Industrial Estate side, Padi border and Korattur lake area.
                         </p>
                     </div>
 
@@ -71,7 +71,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Korattur Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Korattur, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Korattur, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

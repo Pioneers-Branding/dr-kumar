@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Blog and Surgical Insights | Dr. Kumar Billroth';
-$page_description = 'Articles on hernia symptoms, surgery, recovery and warning signs, written by Dr. Kumar, hernia and abdominal wall surgeon at Billroth Hospitals, Chennai.';
+$page_title = 'Hernia Blog and Surgical Insights | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Articles on hernia symptoms, surgery, recovery and warning signs, written by Dr. Kumar of Billroth Hospitals, hernia and abdominal wall surgeon at Billroth Hospitals, Chennai.';
 $page_keywords = 'hernia blog, medical insights Chennai, robotic surgery articles, laparoscopy guide, hernia recovery tips';
 require_once __DIR__ . '/includes/header.php';
 ?>
@@ -26,7 +26,7 @@ require_once __DIR__ . '/includes/header.php';
                 Surgical Insights & <span class="text-accent">Health Advice</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed max-w-2xl">
-                Stay updated with the latest advancements in minimally invasive, laparoscopic, and robotic hernia surgery, along with practical recovery tips from Dr. Kumar.
+                Stay updated with the latest advancements in minimally invasive, laparoscopic, and robotic hernia surgery, along with practical recovery tips from Dr. Kumar of Billroth Hospitals.
             </p>
         </div>
     </div>
@@ -450,7 +450,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/do-i-need-hernia-surgery" class="blog-title">Do I Need Hernia Surgery? A Surgeon's Honest Answer</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        When to operate, when it is safe to wait, and the warning signs that mean you need care today. A clear three-way decision guide from Dr. Kumar.
+                        When to operate, when it is safe to wait, and the warning signs that mean you need care today. A clear three-way decision guide from Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/do-i-need-hernia-surgery" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -476,7 +476,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/can-umbilical-hernia-be-treated-without-surgery.php" class="blog-title">Can Umbilical Hernia be Treated Without Surgery?</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        Read our complete 2026 medical guide on non-surgical navel hernia myths, risks of untreated hernias, and modern keyhole repairs by Dr. Kumar Billroth Hospitals.
+                        Read our complete 2026 medical guide on non-surgical navel hernia myths, risks of untreated hernias, and modern keyhole repairs by Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/can-umbilical-hernia-be-treated-without-surgery.php" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -500,7 +500,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/can-hernia-be-cured-without-surgery.php" class="blog-title">Can Hernia be Cured without Surgery? {In 2026}</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        Read our complete 2026 medical guide on non-surgical hernia management, home care, risks, and expert surgical advice by Dr. Kumar.
+                        Read our complete 2026 medical guide on non-surgical hernia management, home care, risks, and expert surgical advice by Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/can-hernia-be-cured-without-surgery.php" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -526,7 +526,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/what-not-to-eat-after-hernia-surgery.php" class="blog-title">What not to eat after Hernia Surgery?</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        Read our complete 2026 medical guide on foods to avoid after hernia surgery, post-op diet rules, and expert tips by Dr. Kumar.
+                        Read our complete 2026 medical guide on foods to avoid after hernia surgery, post-op diet rules, and expert tips by Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/what-not-to-eat-after-hernia-surgery.php" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -552,7 +552,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/is-hernia-surgery-dangerous.php" class="blog-title">Is Hernia Surgery Dangerous? {Key Insights}</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        Read our complete 2026 medical safety guide on hernia surgery risks, elective vs emergency repair, and expert advice by Dr. Kumar.
+                        Read our complete 2026 medical safety guide on hernia surgery risks, elective vs emergency repair, and expert advice by Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/is-hernia-surgery-dangerous.php" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -604,7 +604,7 @@ require_once __DIR__ . '/includes/header.php';
                         <a href="<?= $base_path ?>blog/can-hernia-come-back-after-surgery.php" class="blog-title">Can a Hernia Come Back After Surgery? {Complete Guide}</a>
                     </h3>
                     <p class="text-sm text-slate-600 mb-6 leading-relaxed flex-1 blog-excerpt">
-                        Read our complete medical guide on hernia recurrence, chances, causes, prevention, and treatment options by Dr. Kumar.
+                        Read our complete medical guide on hernia recurrence, chances, causes, prevention, and treatment options by Dr. Kumar of Billroth Hospitals.
                     </p>
                     <a href="<?= $base_path ?>blog/can-hernia-come-back-after-surgery.php" class="inline-flex items-center gap-2 text-brand-700 font-semibold text-sm hover:text-brand-900 group/link transition mt-auto">
                         Read Full Article
@@ -643,7 +643,7 @@ require_once __DIR__ . '/includes/header.php';
             Stay Updated with Medical Insights
         </h2>
         <p class="text-slate-200 max-w-2xl mx-auto mb-8 leading-relaxed">
-            Subscribe to our monthly newsletter to receive health tips, recovery checklists, and insights directly from Dr. Kumar.
+            Subscribe to our monthly newsletter to receive health tips, recovery checklists, and insights directly from Dr. Kumar of Billroth Hospitals.
         </p>
         
         <form class="max-w-lg mx-auto flex flex-col sm:flex-row gap-3" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">

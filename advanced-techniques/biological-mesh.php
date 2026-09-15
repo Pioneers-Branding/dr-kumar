@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Biological Mesh for Complex Hernia Repair | Dr. Kumar';
+$page_title = 'Biological Mesh for Complex Hernia Repair | Dr. Kumar of Billroth Hospitals';
 $page_description = 'When biological mesh is used in contaminated, infected or high-risk hernia repair, how it integrates with tissue, and which patients genuinely benefit.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -184,7 +184,7 @@ require __DIR__ . '/../includes/header.php';
                 </span>
                 <h2 class="font-display text-3xl lg:text-4xl font-bold text-slate-800 mb-6">When is Biological Mesh Recommended?</h2>
                 <p class="text-lg text-slate-600 mb-6">
-                    Biological mesh is typically reserved for complex situations where synthetic mesh may carry higher risks. Dr. Kumar will evaluate your case to determine if biological mesh is the best option for you.
+                    Biological mesh is typically reserved for complex situations where synthetic mesh may carry higher risks. Dr. Kumar of Billroth Hospitals will evaluate your case to determine if biological mesh is the best option for you.
                 </p>
 
                 <div class="space-y-4">
@@ -338,7 +338,7 @@ require __DIR__ . '/../includes/header.php';
             <div class="bg-white/10 backdrop-blur rounded-2xl p-6 border border-white/20">
                 <h3 class="text-xl font-bold text-white mb-4">Insurance & Coverage</h3>
                 <p class="text-slate-300 mb-4">
-                    Coverage for biological mesh varies by insurance plan. Dr. Kumar's office will help verify your benefits and discuss options.
+                    Coverage for biological mesh varies by insurance plan. Dr. Kumar of Billroth Hospitals&rsquo; office will help verify your benefits and discuss options.
                 </p>
                 <ul class="space-y-2 text-slate-300 text-sm">
                     <li class="flex items-center gap-2">
@@ -407,7 +407,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Biological mesh is typically reserved for specific clinical situations. For straightforward, clean hernia repairs, synthetic mesh is usually the standard of care. Dr. Kumar will recommend the most appropriate option for your individual case.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Biological mesh is typically reserved for specific clinical situations. For straightforward, clean hernia repairs, synthetic mesh is usually the standard of care. Dr. Kumar of Billroth Hospitals will recommend the most appropriate option for your individual case.</p>
                     </div>
                 </div>
 
@@ -436,7 +436,7 @@ require __DIR__ . '/../includes/header.php';
             Need a Complex Hernia Repair?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar has extensive experience with both standard and biological mesh for all types of hernia repairs.
+            Dr. Kumar of Billroth Hospitals has extensive experience with both standard and biological mesh for all types of hernia repairs.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -452,7 +452,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

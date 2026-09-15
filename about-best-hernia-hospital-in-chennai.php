@@ -1,6 +1,6 @@
 <?php
-$page_title = 'About Dr. Kumar | Hernia Surgeon, Billroth Hospitals';
-$page_description = 'Meet Dr. Kumar, hernia and abdominal wall surgeon at Billroth Hospitals in Chennai, with 29 years of practice and more than 10,000 hernia repairs behind him.';
+$page_title = 'About Dr. Kumar of Billroth Hospitals | Hernia Surgeon, Billroth Hospitals';
+$page_description = 'Meet Dr. Kumar of Billroth Hospitals, hernia and abdominal wall surgeon at Billroth Hospitals in Chennai, with 29 years of practice and more than 10,000 hernia repairs behind him.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -65,13 +65,13 @@ require __DIR__ . '/includes/header.php';
             
             <!-- Left Info Content -->
             <div class="lg:col-span-7">
-                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">About Dr. Kumar</span>
+                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">About Dr. Kumar of Billroth Hospitals</span>
                 <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
                     Pioneering Advanced Hernia & Laparoscopic Surgery
                 </h2>
                 
                 <p class="text-slate-600 leading-relaxed mb-5 text-lg">
-                    Dr. Kumar is a highly specialized Senior Consultant, HOD in Minimal Access, Robotic, Advanced Hernia, and Abdominal Wall Reconstruction Surgery, Billroth Hospitals. Throughout his three-decade career, his practice has been defined by anatomical precision, patient safety, and pioneering the latest surgical systems in South India.
+                    Dr. Kumar of Billroth Hospitals is a highly specialized Senior Consultant, HOD in Minimal Access, Robotic, Advanced Hernia, and Abdominal Wall Reconstruction Surgery, Billroth Hospitals. Throughout his three-decade career, his practice has been defined by anatomical precision, patient safety, and pioneering the latest surgical systems in South India.
                 </p>
                 
                 <p class="text-slate-600 leading-relaxed mb-6 text-base">
@@ -123,7 +123,7 @@ require __DIR__ . '/includes/header.php';
             <div class="lg:col-span-5 mt-8 lg:mt-0">
                 <div class="relative">
                     <div class="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[3/4]">
-                        <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar, hernia surgeon at his Chennai clinic" width="1280" height="960" class="w-full h-full object-cover object-[center_28%]">
+                        <img src="assets/images/dr-kumar-office-portrait.jpg" alt="Dr. Kumar of Billroth Hospitals, hernia surgeon at his Chennai clinic" width="1280" height="960" class="w-full h-full object-cover object-[center_28%]">
                         <div class="absolute inset-0 bg-gradient-to-t from-slate-950/40 via-transparent to-transparent"></div>
                     </div>
                     
@@ -141,7 +141,7 @@ require __DIR__ . '/includes/header.php';
                     </div>
                 </div>
                 <div class="mt-8 text-center">
-                    <p class="font-display text-xl font-bold text-slate-900">Dr. Kumar, <span class="text-brand-700">Hernia Specialist</span></p>
+                    <p class="font-display text-xl font-bold text-slate-900">Dr. Kumar of Billroth Hospitals, <span class="text-brand-700">Hernia Specialist</span></p>
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
                 Milestones of <span class="text-brand-700">Surgical Excellence</span>
             </h2>
-            <p class="text-slate-600 text-lg">A look back at the key certifications, records, and accomplishments defining Dr. Kumar's career.</p>
+            <p class="text-slate-600 text-lg">A look back at the key certifications, records, and accomplishments defining Dr. Kumar of Billroth Hospitals&rsquo; career.</p>
         </div>
 
         <div class="relative max-w-4xl mx-auto mt-20">
@@ -259,7 +259,7 @@ require __DIR__ . '/includes/header.php';
                     Accredited Credentials & Global Affiliations
                 </h2>
                 <p class="text-slate-600 text-lg mb-8 leading-relaxed">
-                    True medical mastery requires a lifelong commitment to training. Dr. Kumar maintains active liaison panels with international medical societies and updates surgical procedures annually to reflect SAGES guidelines.
+                    True medical mastery requires a lifelong commitment to training. Dr. Kumar of Billroth Hospitals maintains active liaison panels with international medical societies and updates surgical procedures annually to reflect SAGES guidelines.
                 </p>
                 
                 <div class="space-y-4">
@@ -418,7 +418,7 @@ require __DIR__ . '/includes/header.php';
                 
                 <div class="space-y-6 text-slate-200 leading-relaxed">
                     <p class="text-lg">
-                        <strong>Hernia Care 360</strong>, founded and led by senior consultant surgeon Dr. Kumar, is a dedicated clinical initiative designed to deliver state-of-the-art, comprehensive abdominal wall care. Operating out of the advanced infrastructure of Billroth Hospitals in Chennai, the center provides structured treatment pathways for simple, complex, and recurrent hernias.
+                        <strong>Hernia Care 360</strong>, founded and led by senior consultant surgeon Dr. Kumar of Billroth Hospitals, is a dedicated clinical initiative designed to deliver state-of-the-art, comprehensive abdominal wall care. Operating out of the advanced infrastructure of Billroth Hospitals in Chennai, the center provides structured treatment pathways for simple, complex, and recurrent hernias.
                     </p>
                     <p class="text-base">
                         Our core philosophy is centered on customization and absolute surgical precision. Rather than employing a single generic repair technique for all defects, Hernia Care 360 utilizes a personalized methodology. We analyze each patient's abdominal wall mechanics, lifestyle, and past surgical history to select the ideal repair, ranging from meshless tissue-based procedures (Desarda &amp; Shouldice) to advanced robotic-assisted eTEP and TAR reconstructions.
@@ -505,7 +505,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
                 Hospital Affiliations & <span class="text-brand-700">Practice</span>
             </h2>
-            <p class="text-slate-600 text-lg">Dr. Kumar operates exclusively at Billroth Hospital, Chennai, with state-of-the-art infrastructure.</p>
+            <p class="text-slate-600 text-lg">Dr. Kumar of Billroth Hospitals operates exclusively at Billroth Hospital, Chennai, with state-of-the-art infrastructure.</p>
         </div>
 
         <div class="max-w-4xl mx-auto">
@@ -520,7 +520,7 @@ require __DIR__ . '/includes/header.php';
                     </span>
                     <h3 class="font-display text-3xl font-bold mb-4 text-white">Billroth Hospital</h3>
                     <p class="text-slate-300 text-base leading-relaxed mb-6">
-                        Located at Shenoy Nagar & RA Puram, Chennai, Billroth Hospital serves as Dr. Kumar's primary surgical hub. It features state-of-the-art operative rooms, a dedicated surgical intensive care unit, Round the Clock availability of all Specialist and Medical Facilities under one Roof
+                        Located at Shenoy Nagar & RA Puram, Chennai, Billroth Hospital serves as Dr. Kumar of Billroth Hospitals&rsquo; primary surgical hub. It features state-of-the-art operative rooms, a dedicated surgical intensive care unit, Round the Clock availability of all Specialist and Medical Facilities under one Roof
 
  and specialized medical instrumentation including latest 4 K Surgical Laparoscopic units - Storz & Stryker  and Latest Robotic Systems and Instruments for advanced keyhole and robotic-assisted abdominal wall operations.
                     </p>
@@ -600,30 +600,30 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
                 Frequently Asked Questions
             </h2>
-            <p class="text-slate-600 text-lg">Clear clinical insights concerning Dr. Kumar's surgical practice in Chennai.</p>
+            <p class="text-slate-600 text-lg">Clear clinical insights concerning Dr. Kumar of Billroth Hospitals&rsquo; surgical practice in Chennai.</p>
         </div>
 
         <div class="grid md:grid-cols-2 gap-8 items-start max-w-5xl mx-auto">
             <div class="space-y-4">
                 <div class="faq-item active bg-brand-700 text-white rounded-2xl overflow-hidden transition-all duration-300 border border-transparent shadow-md">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-white text-base md:text-lg leading-snug transition-colors duration-300">What is Dr. Kumar's area of surgical specialization?</span>
+                        <span class="font-display font-bold text-white text-base md:text-lg leading-snug transition-colors duration-300">What is Dr. Kumar of Billroth Hospitals&rsquo; area of surgical specialization?</span>
                         <span class="faq-symbol text-2xl font-light bg-brand-800 text-white w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm transition-all duration-300">&minus;</span>
                     </button>
                     <div class="faq-content px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-white/20 mb-4 transition-all duration-300"></div>
-                        <p class="text-brand-50 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar specializes in Advanced Hernia Surgery, Abdominal Wall Reconstruction, and Minimally Invasive (Laparoscopic & Robotic) Surgery. He handles complex recurrent hernias using elite keyhole approaches like eTEP and TAR.</p>
+                        <p class="text-brand-50 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar of Billroth Hospitals specializes in Advanced Hernia Surgery, Abdominal Wall Reconstruction, and Minimally Invasive (Laparoscopic & Robotic) Surgery. He handles complex recurrent hernias using elite keyhole approaches like eTEP and TAR.</p>
                     </div>
                 </div>
 
                 <div class="faq-item bg-slate-50 hover:bg-slate-100/80 rounded-2xl overflow-hidden transition-all duration-300 border border-slate-100">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">What hospital does Dr. Kumar primarily operate at?</span>
+                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">What hospital does Dr. Kumar of Billroth Hospitals primarily operate at?</span>
                         <span class="faq-symbol text-2xl font-light bg-white text-brand-700 w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm transition-all duration-300">+</span>
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar primarily operates at Billroth Hospital, RA Puram & Shenoy Nagar, Chennai. All consultations and surgeries are conducted at this single, dedicated facility.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar of Billroth Hospitals primarily operates at Billroth Hospital, RA Puram & Shenoy Nagar, Chennai. All consultations and surgeries are conducted at this single, dedicated facility.</p>
                     </div>
                 </div>
 
@@ -634,7 +634,7 @@ require __DIR__ . '/includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">You can call Dr. Kumar's clinic directly at +91 89255 02759 or use our online appointment form. Booking in advance is recommended to ensure priority consulting times.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">You can call Dr. Kumar of Billroth Hospitals&rsquo; clinic directly at +91 89255 02759 or use our online appointment form. Booking in advance is recommended to ensure priority consulting times.</p>
                     </div>
                 </div>
             </div>
@@ -642,34 +642,34 @@ require __DIR__ . '/includes/header.php';
             <div class="space-y-4">
                 <div class="faq-item bg-slate-50 hover:bg-slate-100/80 rounded-2xl overflow-hidden transition-all duration-300 border border-slate-100">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">What advanced surgical techniques does Dr. Kumar offer?</span>
+                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">What advanced surgical techniques does Dr. Kumar of Billroth Hospitals offer?</span>
                         <span class="faq-symbol text-2xl font-light bg-white text-brand-700 w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm transition-all duration-300">+</span>
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar offers eTEP (Totally Extraperitoneal), TAR (Transversus Abdominis Release), robotic-assisted abdominal reconstructions, and daycare outpatient repairs. Meshless (Desarda) procedures are also provided for eligible patients.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Dr. Kumar of Billroth Hospitals offers eTEP (Totally Extraperitoneal), TAR (Transversus Abdominis Release), robotic-assisted abdominal reconstructions, and daycare outpatient repairs. Meshless (Desarda) procedures are also provided for eligible patients.</p>
                     </div>
                 </div>
 
                 <div class="faq-item bg-slate-50 hover:bg-slate-100/80 rounded-2xl overflow-hidden transition-all duration-300 border border-slate-100">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">Why choose Dr. Kumar for hernia surgery?</span>
+                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">Why choose Dr. Kumar of Billroth Hospitals for hernia surgery?</span>
                         <span class="faq-symbol text-2xl font-light bg-white text-brand-700 w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm transition-all duration-300">+</span>
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">With 29+ years of experience, 30,000+ completed minimal access procedures, MRCS English board certification, and a 5.0 Google Star Rating, Dr. Kumar stands out as a preeminent specialized hernia surgeon in Chennai.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">With 29+ years of experience, 30,000+ completed minimal access procedures, MRCS English board certification, and a 5.0 Google Star Rating, Dr. Kumar of Billroth Hospitals stands out as a preeminent specialized hernia surgeon in Chennai.</p>
                     </div>
                 </div>
 
                 <div class="faq-item bg-slate-50 hover:bg-slate-100/80 rounded-2xl overflow-hidden transition-all duration-300 border border-slate-100">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">Does Dr. Kumar offer second opinions?</span>
+                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug transition-colors duration-300">Does Dr. Kumar of Billroth Hospitals offer second opinions?</span>
                         <span class="faq-symbol text-2xl font-light bg-white text-brand-700 w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm transition-all duration-300">+</span>
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Yes, Dr. Kumar routinely provides comprehensive clinical evaluations and second opinions for complex, recurrent, failed-mesh, or large abdominal hernia cases.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Yes, Dr. Kumar of Billroth Hospitals routinely provides comprehensive clinical evaluations and second opinions for complex, recurrent, failed-mesh, or large abdominal hernia cases.</p>
                     </div>
                 </div>
             </div>
@@ -688,7 +688,7 @@ require __DIR__ . '/includes/header.php';
             Ready to Discuss Your Care?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-10 max-w-2xl mx-auto">
-            Schedule a clinical appointment with Dr. Kumar today in Chennai for a complete, evidence-based diagnostic evaluation.
+            Schedule a clinical appointment with Dr. Kumar of Billroth Hospitals today in Chennai for a complete, evidence-based diagnostic evaluation.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -735,7 +735,7 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

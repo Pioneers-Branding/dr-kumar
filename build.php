@@ -156,6 +156,7 @@ foreach ($phpFiles as $file) {
     $base_path = $prefix;
 
     // Load header (outputs DOCTYPE, <html>, <head>, opening <body>)
+    require_once $root . '/includes/blog-feed.php';
     require $root . '/includes/header.php';
 
     eval('?>' . $pageBody);
@@ -387,7 +388,7 @@ file_put_contents($dist . '/404.html', <<<'HTML'
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Not Found - Dr. Kumar</title>
+    <title>Page Not Found - Dr. Kumar of Billroth Hospitals</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>body{font-family:Inter,sans-serif}.font-display{font-family:Georgia,serif}</style>

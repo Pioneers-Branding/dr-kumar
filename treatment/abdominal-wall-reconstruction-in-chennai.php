@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Abdominal Wall Reconstruction in Chennai | Dr. Kumar';
-$page_description = 'Abdominal wall reconstruction in Chennai for large and complex hernias. Dr. Kumar performs TAR and component separation surgery at Billroth Hospitals.';
+$page_title = 'Abdominal Wall Reconstruction in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Abdominal wall reconstruction in Chennai for large and complex hernias. Dr. Kumar of Billroth Hospitals performs TAR and component separation surgery at Billroth Hospitals.';
 $page_url = 'https://herniacare360.com/treatment/abdominal-wall-reconstruction-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -38,7 +38,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Reconstruction in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get comprehensive abdominal wall reconstruction (AWR) in Chennai by Dr. Kumar. Benefit from advanced component separation and transversus abdominis release (TAR) from the leading complex hernia specialist in Chennai.
+                Get comprehensive abdominal wall reconstruction (AWR) in Chennai by Dr. Kumar of Billroth Hospitals. Benefit from advanced component separation and transversus abdominis release (TAR) from the leading complex hernia specialist in Chennai.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#what-is-awr" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -67,7 +67,7 @@ require __DIR__ . '/../includes/header.php';
                     <strong>Abdominal Wall Reconstruction (AWR)</strong> is a sophisticated surgical procedure designed to repair complex abdominal wall defects, including large incisional hernias, recurrent hernias, and abdominal wall disruptions that cannot be addressed with standard hernia repairs.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8 text-base">
-                    Dr. Kumar specializes in advanced AWR techniques, including Component Separation (CST), transverse abdominus release ( TAR) from the leading Complex Hernia & AWR Specialist in Chennai.
+                    Dr. Kumar of Billroth Hospitals specializes in advanced AWR techniques, including Component Separation (CST), transverse abdominus release ( TAR) from the leading Complex Hernia & AWR Specialist in Chennai.
                 </p>
 
                 <div class="grid sm:grid-cols-2 gap-4">
@@ -268,7 +268,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-5">
                     <div class="h-px bg-slate-200 mb-4"></div>
-                    <p class="text-slate-600 text-sm">Dr. Kumar offers both laparoscopic/robotic and open approaches. The choice depends on the complexity of your case, previous surgeries, and individual factors. Minimally invasive options are preferred when possible for faster recovery.</p>
+                    <p class="text-slate-600 text-sm">Dr. Kumar of Billroth Hospitals offers both laparoscopic/robotic and open approaches. The choice depends on the complexity of your case, previous surgeries, and individual factors. Minimally invasive options are preferred when possible for faster recovery.</p>
                 </div>
             </div>
 
@@ -279,7 +279,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-5">
                     <div class="h-px bg-slate-200 mb-4"></div>
-                    <p class="text-slate-600 text-sm">With advanced techniques and Dr. Kumar's expertise, AWR has a high success rate with recurrence rates significantly lower than standard repairs. Most patients experience lasting relief and improved quality of life.</p>
+                    <p class="text-slate-600 text-sm">With advanced techniques and Dr. Kumar of Billroth Hospitals&rsquo; expertise, AWR has a high success rate with recurrence rates significantly lower than standard repairs. Most patients experience lasting relief and improved quality of life.</p>
                 </div>
             </div>
 
@@ -290,7 +290,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-5">
                     <div class="h-px bg-slate-200 mb-4"></div>
-                    <p class="text-slate-600 text-sm">Most AWR procedures use mesh reinforcement for durability. Dr. Kumar will discuss mesh options (composite, biological, or self-gripping) during your consultation based on your specific needs.</p>
+                    <p class="text-slate-600 text-sm">Most AWR procedures use mesh reinforcement for durability. Dr. Kumar of Billroth Hospitals will discuss mesh options (composite, biological, or self-gripping) during your consultation based on your specific needs.</p>
                 </div>
             </div>
         </div>
@@ -340,7 +340,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">It can be performed using both open and minimally invasive (laparoscopic or robotic) techniques. Dr. Kumar specializes in advanced minimally invasive eTEP repairs and robotic-assisted reconstructions, which dramatically reduce post-operative pain, scarring, and wound complications.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">It can be performed using both open and minimally invasive (laparoscopic or robotic) techniques. Dr. Kumar of Billroth Hospitals specializes in advanced minimally invasive eTEP repairs and robotic-assisted reconstructions, which dramatically reduce post-operative pain, scarring, and wound complications.</p>
                     </div>
                 </div>
             </div>
@@ -398,7 +398,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss Your Treatment?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-10 max-w-2xl mx-auto">
-            Schedule a consultation with Dr. Kumar to evaluate your condition and determine the best treatment approach for your hernia.
+            Schedule a consultation with Dr. Kumar of Billroth Hospitals to evaluate your condition and determine the best treatment approach for your hernia.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">

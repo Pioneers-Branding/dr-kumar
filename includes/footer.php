@@ -1,5 +1,33 @@
 <?php require_once __DIR__ . '/config.php'; ?>
 
+<!-- ============== INSURANCE NETWORKS ============== -->
+<section class="bg-slate-50 border-t border-slate-200 py-12 md:py-16" aria-labelledby="insurance-networks-title">
+    <div class="max-w-7xl mx-auto px-4 lg:px-6">
+        <div class="max-w-3xl mb-8">
+            <span class="inline-flex items-center rounded-full bg-brand-100 text-brand-800 px-3 py-1 text-xs font-bold uppercase tracking-wider mb-3">Insurance Support</span>
+            <h2 id="insurance-networks-title" class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-3">Health Insurance Accepted at Billroth Hospitals</h2>
+            <p class="text-slate-600 leading-relaxed">We accept corporate health coverage, individual and family-floater policies, and leading private health-insurance networks for eligible treatment with <?= htmlspecialchars($site['doctor_brand']) ?>.</p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-5">
+            <?php
+            $insurance_groups = [
+                ['Private Insurers', $site['insurance']['private_insurers']],
+                ['Major TPAs', $site['insurance']['tpas']],
+                ['Government & PSU Networks', $site['insurance']['government_psu']],
+            ];
+            foreach ($insurance_groups as [$insurance_title, $insurance_names]): ?>
+                <div class="bg-white rounded-2xl border border-slate-200 p-5 shadow-sm">
+                    <h3 class="font-bold text-slate-900 mb-3"><?= htmlspecialchars($insurance_title) ?></h3>
+                    <p class="text-sm text-slate-600 leading-relaxed"><?= htmlspecialchars(implode(', ', $insurance_names)) ?>.</p>
+                </div>
+            <?php endforeach; ?>
+        </div>
+
+        <p class="mt-5 text-xs text-slate-500 leading-relaxed"><strong>Coverage note:</strong> Network participation, cashless authorization, waiting periods, exclusions, room eligibility, and final claim approval depend on your policy and the insurer or TPA. Please confirm coverage before admission.</p>
+    </div>
+</section>
+
 <!-- ============== FOOTER ============== -->
 <footer class="relative bg-slate-900 text-slate-300">
 
@@ -12,7 +40,7 @@
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
                 <div class="text-center sm:text-left">
                     <h2 class="text-white font-display text-xl lg:text-2xl font-bold leading-tight">Need a Hernia Consultation?</h2>
-                    <p class="text-slate-300 text-sm mt-0.5">Speak with Dr. Kumar today. 29+ years of surgical excellence.</p>
+                    <p class="text-slate-300 text-sm mt-0.5">Speak with Dr. Kumar of Billroth Hospitals today. 29+ years of surgical excellence.</p>
                 </div>
                 <div class="flex items-center gap-3 shrink-0">
                     <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold text-sm px-5 py-2.5 rounded-full transition-colors">
@@ -32,7 +60,7 @@
 
         <!-- BRAND + CONTACT -->
         <div class="col-span-2 lg:col-span-4">
-            <img src="<?= $base_path ?>assets/logo/herniacare-final-logo.png" alt="Dr. Kumar - Hernia Care 360" width="200" height="56" class="h-14 w-auto mb-4">
+            <img src="<?= $base_path ?>assets/logo/herniacare-final-logo.png" alt="Dr. Kumar of Billroth Hospitals - Hernia Care 360" width="200" height="56" class="h-14 w-auto mb-4">
 
             <p class="text-sm leading-relaxed text-slate-400 mb-4">
                 Clinical Lead &amp; HOD, Department of Minimal Access, Robotic, Hernia &amp; Abdominal Wall Reconstruction Surgery at Billroth Hospital, Chennai.
@@ -307,8 +335,16 @@
 
     @media (max-width: 1023px) {
         .floating-call-btn {
-            bottom: 80px;
+            bottom: calc(82px + env(safe-area-inset-bottom));
             right: 18px;
+        }
+    }
+
+    @media (max-width: 479px) {
+        .floating-call-btn {
+            width: 50px;
+            height: 50px;
+            right: 12px;
         }
     }
 
@@ -321,14 +357,14 @@
 </style>
 
 <!-- Mobile Sticky Bottom Navbar -->
-<div class="lg:hidden fixed bottom-0 left-0 right-0 z-50">
+<div class="lg:hidden fixed bottom-0 left-0 right-0 z-50 pb-[env(safe-area-inset-bottom)]">
     <!-- Backdrop with gradient + blur -->
     <div class="absolute inset-0 bg-white/95 backdrop-blur-md border-t border-slate-200/80 shadow-[0_-8px_24px_rgba(0,0,0,0.08)]"></div>
 
     <!-- Decorative top accent -->
     <div class="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-brand-400 via-cyan-400 to-brand-600"></div>
 
-    <div class="relative flex items-center justify-center max-w-md mx-auto px-2 py-2.5">
+    <nav class="relative flex items-center justify-center max-w-md mx-auto px-2 py-2.5" aria-label="Mobile quick actions">
         <div class="flex items-center justify-between w-full gap-1">
 
             <!-- Facebook -->
@@ -383,11 +419,11 @@
             </a>
 
         </div>
-    </div>
+    </nav>
 </div>
 
 <!-- Floating WhatsApp Button (Desktop View Only) -->
-<a href="https://wa.me/<?= $site['phone_link'] ?>" target="_blank" rel="noopener" class="hidden lg:flex fixed bottom-6 right-6 z-50 group" aria-label="WhatsApp Dr. Kumar">
+<a href="https://wa.me/<?= $site['phone_link'] ?>" target="_blank" rel="noopener" class="hidden lg:flex fixed bottom-6 right-6 z-50 group" aria-label="WhatsApp Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <!-- Hover tooltip/label -->
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">

@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Can an Umbilical Hernia Be Treated Without Surgery?';
 $page_image = $site['url'] . 'assets/images/can-umbilical-hernia-be-treated-without-surgery.png';
 $page_description = 'Can an umbilical hernia be treated without surgery? A surgeon separates the myths from the evidence, and explains when a belly button hernia needs repair.';
-$page_keywords = 'Can Umbilical Hernia be treated without Surgery, can umbilical hernia hernia be treated without operation, what happens if umbilical hernia is not treated, how to treat umbilical hernia, Inguinal Hernia treatment in Chennai, Dr. Kumar Billroth Hospitals';
+$page_keywords = 'Can Umbilical Hernia be treated without Surgery, can umbilical hernia hernia be treated without operation, what happens if umbilical hernia is not treated, how to treat umbilical hernia, Inguinal Hernia treatment in Chennai, Dr. Kumar of Billroth Hospitals';
 $page_published = '2026-08-03';
 $page_modified  = '2026-08-03';
 require_once __DIR__ . '/../includes/header.php';
@@ -33,7 +33,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By <a href="<?= $base_path ?>" class="text-accent hover:underline font-semibold">Dr. Kumar Billroth Hospitals</a></span>
+                    <span>By <a href="<?= $base_path ?>" class="text-accent hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a></span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -66,7 +66,7 @@ require_once __DIR__ . '/../includes/header.php';
                             <span>AEO Direct Medical Answer: Can Umbilical Hernia Be Treated Without Surgery?</span>
                         </div>
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>In adults, no. An umbilical hernia cannot be permanently cured or treated without surgery.</strong> Unlike infants (whose abdominal wall defects often close naturally before age 4 or 5), an adult umbilical hernia is a physical anatomical tear in the abdominal wall fascia that cannot close on its own. While non-surgical methods such as belly trusses, supportive binders, and lifestyle changes may temporarily ease discomfort, they cannot repair the muscle gap. Surgical repair, specifically modern laparoscopic keyhole or robotic mesh repair at <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar Billroth Hospitals</a></strong>, is the only definitive cure to prevent life-threatening complications like incarceration and strangulation.
+                            <strong>In adults, no. An umbilical hernia cannot be permanently cured or treated without surgery.</strong> Unlike infants (whose abdominal wall defects often close naturally before age 4 or 5), an adult umbilical hernia is a physical anatomical tear in the abdominal wall fascia that cannot close on its own. While non-surgical methods such as belly trusses, supportive binders, and lifestyle changes may temporarily ease discomfort, they cannot repair the muscle gap. Surgical repair, specifically modern laparoscopic keyhole or robotic mesh repair at <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a></strong>, is the only definitive cure to prevent life-threatening complications like incarceration and strangulation.
                         </p>
                     </div>
 
@@ -78,7 +78,7 @@ require_once __DIR__ . '/../includes/header.php';
                         Many patients diagnosed with a navel bulge wonder: <em>Can Umbilical Hernia be treated without Surgery?</em> Is it possible to avoid an operation through home remedies, physical exercise, supportive belts, or dietary modifications? 
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-8">
-                        In this comprehensive medical guide, <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar Billroth Hospitals</a></strong> breaks down the physiological facts behind umbilical hernias, evaluates non-surgical management myths, explains <em>what happens if umbilical hernia is not treated</em>, and outlines modern minimally invasive treatment options for a safe, permanent recovery.
+                        In this comprehensive medical guide, <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a></strong> breaks down the physiological facts behind umbilical hernias, evaluates non-surgical management myths, explains <em>what happens if umbilical hernia is not treated</em>, and outlines modern minimally invasive treatment options for a safe, permanent recovery.
                     </p>
 
                     <h2 class="text-xl md:text-2xl font-bold text-slate-900 mb-3 mt-8">Can Umbilical Hernia Be Treated Without Surgery? (Infants vs. Adults)</h2>
@@ -130,7 +130,7 @@ require_once __DIR__ . '/../includes/header.php';
                                 Think of an umbilical hernia like a tear in a tire. No amount of tire shine or inflation adjustment will seal a torn rubber wall, it requires a patch. Similarly, repairing a torn abdominal wall requires surgical closure with a tension-free mesh.
                             </p>
                             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-amber-500 hover:bg-amber-600 text-white font-bold px-6 py-3 rounded-full text-xs uppercase tracking-wider transition shadow-md">
-                                Consult Dr. Kumar Billroth Hospitals
+                                Consult Dr. Kumar of Billroth Hospitals
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
                             </a>
                         </div>
@@ -179,7 +179,7 @@ require_once __DIR__ . '/../includes/header.php';
 
                     <h3 class="text-base md:text-lg font-bold text-slate-900 mb-2 mt-4">1. Watchful Waiting (In Select Small Asymptomatic Cases)</h3>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        For adults with tiny, completely painless, reducible umbilical defects (< 1 cm) who have high surgical risk factors, short-term watchful waiting under strict clinical surveillance by <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar Billroth Hospitals</a></strong> may be considered until intervention is required.
+                        For adults with tiny, completely painless, reducible umbilical defects (< 1 cm) who have high surgical risk factors, short-term watchful waiting under strict clinical surveillance by <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a></strong> may be considered until intervention is required.
                     </p>
 
                     <h3 class="text-base md:text-lg font-bold text-slate-900 mb-2 mt-4">2. Laparoscopic Keyhole Umbilical Hernia Repair (IPOM Plus / eTEP)</h3>
@@ -202,9 +202,9 @@ require_once __DIR__ . '/../includes/header.php';
                         Abdominal wall hernias occur at several anatomically vulnerable zones. Just as umbilical hernias appear at the navel ring, groin hernias occur in the lower abdomen. If you or a family member are also experiencing discomfort or a bulge in the groin area, explore our comprehensive medical guide on <strong><a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai.php" class="text-brand-700 font-semibold hover:underline">Inguinal Hernia treatment in Chennai</a></strong> to learn about state-of-the-art TEP and TAPP keyhole repairs.
                     </p>
 
-                    <h2 class="text-xl md:text-2xl font-bold text-slate-900 mb-3 mt-8">Why Choose Dr. Kumar Billroth Hospitals for Hernia Care?</h2>
+                    <h2 class="text-xl md:text-2xl font-bold text-slate-900 mb-3 mt-8">Why Choose Dr. Kumar of Billroth Hospitals for Hernia Care?</h2>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        With over 29 years of surgical expertise and more than 10,000 successful hernia procedures, <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar Billroth Hospitals</a></strong> is recognized as a premier center for advanced hernia and abdominal wall reconstruction in Chennai.
+                        With over 29 years of surgical expertise and more than 10,000 successful hernia procedures, <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a></strong> is recognized as a premier center for advanced hernia and abdominal wall reconstruction in Chennai.
                     </p>
 
                     <div class="grid sm:grid-cols-2 gap-4 mb-8">
@@ -253,7 +253,7 @@ require_once __DIR__ . '/../includes/header.php';
                         <div class="faq-item bg-slate-50 rounded-2xl p-6 border border-slate-200/70">
                             <h3 class="font-bold text-slate-900 text-base mb-2">5. Is umbilical hernia repair performed as a daycare procedure?</h3>
                             <p class="text-slate-600 text-sm leading-relaxed m-0">
-                                Yes. At <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar Billroth Hospitals</a></strong>, laparoscopic umbilical hernia repair is typically performed as a daycare procedure, allowing patients to walk comfortably and return home the same or next day.
+                                Yes. At <strong><a href="<?= $base_path ?>" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a></strong>, laparoscopic umbilical hernia repair is typically performed as a daycare procedure, allowing patients to walk comfortably and return home the same or next day.
                             </p>
                         </div>
                     </div>
@@ -269,7 +269,7 @@ require_once __DIR__ . '/../includes/header.php';
 
                     <!-- Final CTA Box -->
                     <div class="bg-gradient-to-br from-brand-800 to-brand-950 text-white rounded-3xl p-8 text-center shadow-xl">
-                        <h3 class="font-display text-2xl font-bold mb-3">Schedule Your Evaluation at Dr. Kumar Billroth Hospitals</h3>
+                        <h3 class="font-display text-2xl font-bold mb-3">Schedule Your Evaluation at Dr. Kumar of Billroth Hospitals</h3>
                         <p class="text-slate-200 text-sm max-w-xl mx-auto mb-6">
                             Don't let an umbilical hernia compromise your safety or lifestyle. Consult our senior surgical team today for an accurate evaluation and personalized care plan.
                         </p>
@@ -290,8 +290,8 @@ require_once __DIR__ . '/../includes/header.php';
             <aside class="lg:col-span-4 space-y-8">
                 <!-- Doctor Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar Billroth Hospitals</h3>
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Consultant - Hernia & Abdominal Reconstruction</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29+ years of clinical mastery in keyhole laparoscopic and robotic hernia repairs.</p>
                     <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai.php" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">

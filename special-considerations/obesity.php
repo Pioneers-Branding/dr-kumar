@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Repair with High BMI or Obesity | Dr. Kumar';
-$page_description = 'Why a raised BMI makes hernia repair harder and recurrence more likely, and how Dr. Kumar prepares patients with obesity for safer keyhole surgery today.';
+$page_title = 'Hernia Repair with High BMI or Obesity | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Why a raised BMI makes hernia repair harder and recurrence more likely, and how Dr. Kumar of Billroth Hospitals prepares patients with obesity for safer keyhole surgery today.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -55,7 +55,7 @@ require __DIR__ . '/../includes/header.php';
                     Obesity is both a risk factor for developing hernias and a challenge when it comes to surgical repair. The increased intra-abdominal pressure from excess weight weakens the abdominal wall, making hernias more likely to develop and recur.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8">
-                    Understanding this relationship is crucial for effective treatment and long-term success. Dr. Kumar creates personalized treatment plans that address both the hernia and the underlying weight concerns.
+                    Understanding this relationship is crucial for effective treatment and long-term success. Dr. Kumar of Billroth Hospitals creates personalized treatment plans that address both the hernia and the underlying weight concerns.
                 </p>
 
                 <div class="space-y-4">
@@ -231,7 +231,7 @@ require __DIR__ . '/../includes/header.php';
                     Risks with <span class="text-accent">High BMI</span>
                 </h2>
                 <p class="text-slate-300 leading-relaxed mb-6">
-                    Understanding surgical risks helps in making informed decisions. Dr. Kumar assesses each patient individually to determine the safest approach.
+                    Understanding surgical risks helps in making informed decisions. Dr. Kumar of Billroth Hospitals assesses each patient individually to determine the safest approach.
                 </p>
 
                 <div class="space-y-4">
@@ -464,7 +464,7 @@ require __DIR__ . '/../includes/header.php';
                 <div class="text-center">
                     <div class="bg-white/10 backdrop-blur rounded-xl p-6">
                         <svg class="w-16 h-16 mx-auto mb-4 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-                        <p class="text-lg font-semibold">Dr. Kumar's Approach</p>
+                        <p class="text-lg font-semibold">Dr. Kumar of Billroth Hospitals&rsquo; Approach</p>
                         <p class="text-brand-200 text-sm mt-2">Comprehensive weight management support integrated with surgical care</p>
                     </div>
                 </div>
@@ -480,7 +480,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Start Your Journey?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Get personalized guidance on hernia treatment and weight management. Schedule your consultation with Dr. Kumar today.
+            Get personalized guidance on hernia treatment and weight management. Schedule your consultation with Dr. Kumar of Billroth Hospitals today.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

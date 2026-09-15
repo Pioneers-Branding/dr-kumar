@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Privacy Policy | HerniaCare 360, Dr. Kumar Chennai';
-$page_description = 'How HerniaCare 360 collects, uses and protects the personal and medical information you share with Dr. Kumar and the team at Billroth Hospitals, Chennai.';
+$page_title = 'Privacy Policy | HerniaCare 360, Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'How HerniaCare 360 collects, uses and protects the personal and medical information you share with Dr. Kumar of Billroth Hospitals and the team at Billroth Hospitals, Chennai.';
 // Kept out of the index by request. "follow" is retained so the page still
 // passes link equity through to the rest of the site.
 $page_robots = 'noindex, follow, max-image-preview:large';
@@ -45,7 +45,7 @@ require __DIR__ . '/includes/header.php';
                     Introduction
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    Dr. Kumar ("we," "our," or "us") is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you visit our website, use our services, or interact with us in connection with hernia treatment and related medical services.
+                    Dr. Kumar of Billroth Hospitals ("we," "our," or "us") is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard information when you visit our website, use our services, or interact with us in connection with hernia treatment and related medical services.
                 </p>
                 <p class="text-slate-600 leading-relaxed">
                     This policy complies with applicable data protection laws including the Information Technology Act, 2000, and the Digital Personal Data Protection Act, 2023 (DPDPA) of India, as well as general principles of data protection and privacy applicable to medical practices.
@@ -222,7 +222,7 @@ require __DIR__ . '/includes/header.php';
                     If you have questions about this Privacy Policy or wish to exercise your rights, please contact us:
                 </p>
                 <div class="bg-slate-50 rounded-xl p-6 space-y-2">
-                    <p class="text-slate-700"><strong>Dr. Kumar - Advanced Hernia & Laparoscopic Surgeon</strong></p>
+                    <p class="text-slate-700"><strong>Dr. Kumar of Billroth Hospitals - Advanced Hernia & Laparoscopic Surgeon</strong></p>
                     <p class="text-slate-600">Email: <a href="mailto:<?= $site['email'] ?>" class="text-brand-700 hover:underline"><?= $site['email'] ?></a></p>
                     <p class="text-slate-600">Phone: <a href="tel:<?= $site['phone_link'] ?>" class="text-brand-700 hover:underline"><?= $site['phone'] ?></a></p>
                     <p class="text-slate-600">Location: <?= $site['address'] ?></p>

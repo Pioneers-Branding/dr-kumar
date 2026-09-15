@@ -52,7 +52,7 @@ function hc360_latest_blog_posts(int $limit = 2): array
 
         $posts[] = [
             'title' => $title,
-            'desc' => $description ?: 'Read the latest guidance from Dr. Kumar.',
+            'desc' => $description ?: 'Read the latest guidance from Dr. Kumar of Billroth Hospitals.',
             'tag' => $tag,
             'date' => date('j F Y', strtotime($published)),
             'published' => $published,

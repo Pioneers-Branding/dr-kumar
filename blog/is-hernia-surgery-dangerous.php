@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 $page_title = 'Is Hernia Surgery Dangerous? A Surgeon Answers Honestly';
 $page_image = $site['url'] . 'assets/images/is-hernia-surgery-dangerous.jpg';
 $page_description = 'Is hernia surgery dangerous? A surgeon sets out the real risks of modern keyhole repair, and compares them against the risk of leaving a hernia alone.';
-$page_keywords = 'Is Hernia Surgery Dangerous, are hernias dangerous, is hernia dangerous, can a hernia be dangerous, how dangerous is a hernia, how dangerous is a hernia in the stomach, when is hernia dangerous, Best Hernia Surgeon in Chennai, Dr. Kumar Billroth Hospitals';
+$page_keywords = 'Is Hernia Surgery Dangerous, are hernias dangerous, is hernia dangerous, can a hernia be dangerous, how dangerous is a hernia, how dangerous is a hernia in the stomach, when is hernia dangerous, Best Hernia Surgeon in Chennai, Dr. Kumar of Billroth Hospitals';
 $page_published = '2026-07-14';
 $page_modified  = '2026-08-03';
 require_once __DIR__ . '/../includes/header.php';
@@ -33,7 +33,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar</a></span>
+                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a></span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -74,7 +74,7 @@ require_once __DIR__ . '/../includes/header.php';
                         Many people delay necessary treatment because they wonder, <strong>are hernias dangerous</strong> enough to warrant an operation, or whether <strong>is hernia dangerous</strong> if left alone. With an endless stream of medical opinions available online in 2026, understanding the medical reality behind surgical safety is essential for making informed healthcare decisions.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        In this comprehensive medical analysis, <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar</a>, recognized as the <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">Best Hernia Surgeon in Chennai</a>, provides clear, evidence-based insights into hernia surgery safety. We will explore what hernia surgery actually involves, evaluate why people fear it, contrast elective safety against untreated risks, and explain <strong>when is hernia dangerous</strong> enough to require immediate attention.
+                        In this comprehensive medical analysis, <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a>, recognized as the <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">Best Hernia Surgeon in Chennai</a>, provides clear, evidence-based insights into hernia surgery safety. We will explore what hernia surgery actually involves, evaluate why people fear it, contrast elective safety against untreated risks, and explain <strong>when is hernia dangerous</strong> enough to require immediate attention.
                     </p>
 
                     <!-- 2. What is Hernia Surgery -->
@@ -260,7 +260,7 @@ require_once __DIR__ . '/../includes/header.php';
                         To conclude: <strong>Is Hernia Surgery Dangerous?</strong> The medical facts demonstrate that planned, elective hernia repair is one of the safest, most standardized operations in modern medicine. With advanced keyhole laparoscopic and robotic procedures, patients experience minimal pain, zero blood loss, same-day daycare discharge, and a rapid return to active living.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-8">
-                        The true danger lies in ignoring an active hernia. Delaying treatment allows a simple, manageable condition to grow larger, increasing the risk of sudden bowel strangulation. If you or a loved one are experiencing an abdominal or groin hernia, schedule a clinical consultation with <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar</a>, the <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">Best Hernia Surgeon in Chennai</a>, to ensure safe, expert, and permanent repair.
+                        The true danger lies in ignoring an active hernia. Delaying treatment allows a simple, manageable condition to grow larger, increasing the risk of sudden bowel strangulation. If you or a loved one are experiencing an abdominal or groin hernia, schedule a clinical consultation with <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a>, the <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">Best Hernia Surgeon in Chennai</a>, to ensure safe, expert, and permanent repair.
                     </p>
 
                     <!-- 8. Frequently Asked Questions (AEO Schema Optimized) -->
@@ -304,7 +304,7 @@ require_once __DIR__ . '/../includes/header.php';
                     <!-- Consultation Banner -->
                     <div class="bg-gradient-to-r from-brand-900 to-slate-900 text-white rounded-3xl p-8 text-center shadow-xl">
                         <h3 class="font-display text-2xl font-bold mb-3">Worried About Hernia Surgery Safety?</h3>
-                        <p class="text-slate-300 text-sm max-w-xl mx-auto mb-6">Consult Dr. Kumar for a comprehensive, reassuring surgical evaluation today.</p>
+                        <p class="text-slate-300 text-sm max-w-xl mx-auto mb-6">Consult Dr. Kumar of Billroth Hospitals for a comprehensive, reassuring surgical evaluation today.</p>
                         <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition shadow-lg hover:scale-105">
                             <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
                             Book Appointment Now
@@ -317,8 +317,8 @@ require_once __DIR__ . '/../includes/header.php';
             <aside class="lg:col-span-4 space-y-8">
                 <!-- Author Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="../assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
+                    <img src="../assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Hernia & Abdominal Wall Surgeon</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29+ years of experience specializing in advanced laparoscopic and robotic hernia repairs.</p>
                     <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">

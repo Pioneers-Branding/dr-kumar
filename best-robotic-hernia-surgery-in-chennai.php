@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Robotic Hernia Surgery in Chennai | Dr. Kumar Billroth';
-$page_description = 'Robotic hernia surgery in Chennai by Dr. Kumar at Billroth Hospitals. Tiny incisions, high precision, less pain after surgery and a faster return to work.';
+$page_title = 'Robotic Hernia Surgery in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Robotic hernia surgery in Chennai by Dr. Kumar of Billroth Hospitals. Tiny incisions, high precision, less pain after surgery and a faster return to work.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -88,12 +88,12 @@ require __DIR__ . '/includes/header.php';
                     Why Choose Robotic<br>Hernia Surgery?
                 </h2>
                 <p class="text-slate-655 leading-relaxed text-sm md:text-base mb-6">
-                    Robotic surgery combines the benefits of minimally invasive keyhole procedures with advanced computer controls that give Dr. Kumar enhanced capabilities for meticulous abdominal reconstruction.
+                    Robotic surgery combines the benefits of minimally invasive keyhole procedures with advanced computer controls that give Dr. Kumar of Billroth Hospitals enhanced capabilities for meticulous abdominal reconstruction.
                 </p>
 
                 <div class="relative rounded-3xl overflow-hidden bg-slate-100 aspect-[735/548] border border-slate-200 shadow-xl group">
                     <img src="<?= $base_path ?>assets/latest-images/robotic-surgery-dr-kumar.png"
-                         alt="Dr. Kumar performing advanced robotic hernia surgery"
+                         alt="Dr. Kumar of Billroth Hospitals performing advanced robotic hernia surgery"
                          class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                          loading="lazy">
                     <div class="absolute inset-0 bg-gradient-to-t from-slate-950/40 via-transparent to-transparent"></div>
@@ -119,7 +119,7 @@ require __DIR__ . '/includes/header.php';
                         </div>
                         <div>
                             <h3 class="font-bold text-slate-900 text-base mb-0.5 group-hover:text-brand-700 transition">Enhanced 3D Visualization</h3>
-                            <p class="text-xs text-slate-600 leading-relaxed">15x magnification with true 3D systems. Dr. Kumar can view abdominal structures, nerves, and vessels with microscopic clarity for precise mesh placement.</p>
+                            <p class="text-xs text-slate-600 leading-relaxed">15x magnification with true 3D systems. Dr. Kumar of Billroth Hospitals can view abdominal structures, nerves, and vessels with microscopic clarity for precise mesh placement.</p>
                         </div>
                     </div>
 
@@ -141,7 +141,7 @@ require __DIR__ . '/includes/header.php';
                         </div>
                         <div>
                             <h3 class="font-bold text-slate-900 text-base mb-0.5 group-hover:text-brand-700 transition">Direct Surgeon Control</h3>
-                            <p class="text-xs text-slate-600 leading-relaxed">Every motion is performed dynamically by Dr. Kumar from the console. The robotic arms act as a direct extension of his hands, eliminating minor tremors and filtering movements.</p>
+                            <p class="text-xs text-slate-600 leading-relaxed">Every motion is performed dynamically by Dr. Kumar of Billroth Hospitals from the console. The robotic arms act as a direct extension of his hands, eliminating minor tremors and filtering movements.</p>
                         </div>
                     </div>
 
@@ -183,7 +183,7 @@ require __DIR__ . '/includes/header.php';
                     When Is Robotic Surgery Recommended?
                 </h2>
                 <p class="text-slate-655 leading-relaxed mb-8 text-sm md:text-base">
-                    While robotic surgery can be used for most standard hernia repairs, it offers particular clinical advantages in specific, demanding scenarios. Dr. Kumar recommends robotic intervention for:
+                    While robotic surgery can be used for most standard hernia repairs, it offers particular clinical advantages in specific, demanding scenarios. Dr. Kumar of Billroth Hospitals recommends robotic intervention for:
                 </p>
 
                 <div class="space-y-0 divide-y divide-slate-200 border-t border-b border-slate-200">
@@ -239,7 +239,7 @@ require __DIR__ . '/includes/header.php';
                     <div class="absolute inset-0 opacity-10 bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]"></div>
                     <div class="relative z-10">
                         <span class="text-accent text-xs font-bold uppercase tracking-wider bg-white/10 px-3.5 py-1.5 rounded-full mb-6 inline-block border border-white/10">Clinical Leadership</span>
-                        <h3 class="text-2xl font-bold font-display mb-6">Dr. Kumar's Robotic Experience</h3>
+                        <h3 class="text-2xl font-bold font-display mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Robotic Experience</h3>
 
                         <div class="space-y-5 mb-8">
                             <div class="flex items-center gap-4">
@@ -471,7 +471,7 @@ require __DIR__ . '/includes/header.php';
                     <div>
                         <h3 class="font-bold text-slate-900 text-sm mb-1 font-display">Clinical Care Note</h3>
                         <p class="text-slate-600 text-xs leading-relaxed">
-                            Recovery is highly individualized based on age, core physical strength, and hernia defect size. Always consult Dr. Kumar's clinical staff prior to resuming heavy core load workouts.
+                            Recovery is highly individualized based on age, core physical strength, and hernia defect size. Always consult Dr. Kumar of Billroth Hospitals&rsquo; clinical staff prior to resuming heavy core load workouts.
                         </p>
                     </div>
                 </div>
@@ -491,7 +491,7 @@ require __DIR__ . '/includes/header.php';
                     Complete Surgical<br>Recovery Arsenal
                 </h2>
                 <p class="text-slate-655 leading-relaxed text-sm md:text-base">
-                    Dr. Kumar utilizes a range of advanced materials science and clinical pathways to tailor the surgical procedure specifically to your body's structural needs.
+                    Dr. Kumar of Billroth Hospitals utilizes a range of advanced materials science and clinical pathways to tailor the surgical procedure specifically to your body's structural needs.
                 </p>
                 <div class="bg-slate-50 border border-slate-200 rounded-3xl p-6 shadow-sm">
                     <h3 class="font-bold text-slate-900 text-sm mb-1.5 font-display">Tailored Biomaterial Choices</h3>
@@ -577,7 +577,7 @@ require __DIR__ . '/includes/header.php';
                     </button>
                     <div class="faq-content px-6 pb-6">
                         <div class="h-px bg-white/20 mb-4"></div>
-                        <p class="text-brand-50 text-sm md:text-base leading-relaxed">No. The robotic system is computer-assisted but controlled entirely by Dr. Kumar. Every incision, dissection and suture is directed by your surgeon in real time.</p>
+                        <p class="text-brand-50 text-sm md:text-base leading-relaxed">No. The robotic system is computer-assisted but controlled entirely by Dr. Kumar of Billroth Hospitals. Every incision, dissection and suture is directed by your surgeon in real time.</p>
                     </div>
                 </div>
 
@@ -634,7 +634,7 @@ require __DIR__ . '/includes/header.php';
             Ready to Explore Robotic Surgery?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Schedule a clinical consultation with Dr. Kumar to assess your hernia and determine if a robotic-assisted repair is the ideal pathway for your recovery.
+            Schedule a clinical consultation with Dr. Kumar of Billroth Hospitals to assess your hernia and determine if a robotic-assisted repair is the ideal pathway for your recovery.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -649,7 +649,7 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

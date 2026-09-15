@@ -24,6 +24,7 @@ $site = [
     // and schema.org/Hospital resolve as two distinct entities.
     // TODO: replace with the full registered name once confirmed with the practice.
     'doctor'      => 'Dr. Kumar',
+    'doctor_brand'=> 'Dr. Kumar of Billroth Hospitals',
     'credentials' => 'MBBS, MS (Surgery), MRCS (England), FMAS, FIAGES',
     'job_title'   => 'Consultant Hernia, Laparoscopic & Robotic Surgeon',
     // TODO: add the Tamil Nadu Medical Council / NMC registration number here.
@@ -36,6 +37,23 @@ $site = [
     'address'     => '505, First Floor, OP Block, No: 11/59, Gajapathy Street, Shenoy Nagar, Chennai 600030',
     'url'         => 'https://herniacare360.com/',
     'logo'        => 'assets/images/logo.png',
+
+    // Insurance networks accepted through Billroth Hospitals. Final cashless
+    // approval remains subject to the patient's policy and insurer/TPA.
+    'insurance' => [
+        'private_insurers' => [
+            'Star Health', 'Care Health', 'HDFC ERGO', 'ICICI Lombard',
+            'Niva Bupa', 'Bajaj Allianz', 'Tata AIG', 'ManipalCigna',
+        ],
+        'tpas' => [
+            'Medi Assist', 'Vidal Health', 'MDIndia', 'Paramount TPA',
+            'Heritage Health', 'Raksha TPA', 'Family Health Plan Insurance (FHPL)',
+        ],
+        'government_psu' => [
+            'National Insurance', 'New India Assurance',
+            'Oriental Insurance', 'United India Insurance',
+        ],
+    ],
 
     // Practice location. This is the single source of truth for the address:
     // every page and every schema block reads from here, so the address is

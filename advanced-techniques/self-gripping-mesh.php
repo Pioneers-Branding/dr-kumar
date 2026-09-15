@@ -1,6 +1,6 @@
 <?php
-$page_title       = 'Self-Gripping Mesh for Hernia Repair | Dr. Kumar Chennai';
-$page_description = 'Self-gripping mesh attaches without tacks or sutures, which can reduce nerve irritation and chronic groin pain. How Dr. Kumar uses it in hernia repair.';
+$page_title       = 'Self-Gripping Mesh for Hernia Repair | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'Self-gripping mesh attaches without tacks or sutures, which can reduce nerve irritation and chronic groin pain. How Dr. Kumar of Billroth Hospitals uses it in hernia repair.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -88,7 +88,7 @@ require __DIR__ . '/../includes/header.php';
                     <div class="w-12 h-12 bg-brand-700 text-white rounded-2xl flex items-center justify-center font-bold flex-shrink-0 shadow-lg shadow-brand-700/25 group-hover:scale-110 transition-transform">2</div>
                     <div>
                         <h4 class="font-semibold text-slate-800 mb-1">Simple Placement</h4>
-                        <p class="text-slate-600 text-sm">Dr. Kumar positions the mesh and lightly presses it into place. The microgrips engage immediately, holding the mesh securely.</p>
+                        <p class="text-slate-600 text-sm">Dr. Kumar of Billroth Hospitals positions the mesh and lightly presses it into place. The microgrips engage immediately, holding the mesh securely.</p>
                     </div>
                 </div>
 
@@ -237,7 +237,7 @@ require __DIR__ . '/../includes/header.php';
                 <div class="space-y-4">
                     <div class="bg-white rounded-2xl p-6 shadow-lg border border-slate-100 hover:shadow-xl transition">
                         <h4 class="font-semibold text-slate-800 mb-2">Learning Curve</h4>
-                        <p class="text-slate-600 text-sm">Surgeons need training on proper placement technique. Dr. Kumar has extensive experience with self-gripping mesh technology and ensures optimal placement.</p>
+                        <p class="text-slate-600 text-sm">Surgeons need training on proper placement technique. Dr. Kumar of Billroth Hospitals has extensive experience with self-gripping mesh technology and ensures optimal placement.</p>
                     </div>
 
                     <div class="bg-white rounded-2xl p-6 shadow-lg border border-slate-100 hover:shadow-xl transition-cols">
@@ -327,7 +327,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                     <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                    <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Yes, one advantage of self-gripping mesh is that it can be lifted and repositioned before the microgrips fully engage. This allows Dr. Kumar to ensure optimal placement before final fixation.</p>
+                    <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Yes, one advantage of self-gripping mesh is that it can be lifted and repositioned before the microgrips fully engage. This allows Dr. Kumar of Billroth Hospitals to ensure optimal placement before final fixation.</p>
                 </div>
             </div>
 
@@ -349,7 +349,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                     <div class="h-px bg-slate-200 mb-4 transition-all duration-300"></div>
-                    <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">While primarily used in open surgery, self-gripping mesh can be adapted for laparoscopic approaches in certain situations. Dr. Kumar will recommend the most appropriate technique for your specific case.</p>
+                    <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">While primarily used in open surgery, self-gripping mesh can be adapted for laparoscopic approaches in certain situations. Dr. Kumar of Billroth Hospitals will recommend the most appropriate technique for your specific case.</p>
                 </div>
             </div>
         </div>
@@ -362,7 +362,7 @@ require __DIR__ . '/../includes/header.php';
     <div class="max-w-4xl mx-auto px-4 relative z-10">
         <span class="text-accent text-xs font-bold uppercase tracking-wider bg-white/10 px-4 py-1.5 rounded-full mb-4 inline-block border border-white/10">Personalized Consultations</span>
         <h2 class="font-display text-3xl lg:text-4xl font-bold mb-4">Interested in Self-Gripping Mesh?</h2>
-        <p class="text-xl text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">Dr. Kumar will evaluate your hernia and determine if self-gripping mesh is the best option for you.</p>
+        <p class="text-xl text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">Dr. Kumar of Billroth Hospitals will evaluate your hernia and determine if self-gripping mesh is the best option for you.</p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
                 Schedule Consultation
@@ -377,7 +377,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

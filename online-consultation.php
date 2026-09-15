@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Online Hernia Consultation with Dr. Kumar | Chennai';
-$page_description = 'Consult Dr. Kumar online from anywhere. Video consultation to review your scans and reports, discuss options and decide whether surgery is needed now.';
+$page_title = 'Online Hernia Consultation with Dr. Kumar of Billroth Hospitals | Chennai';
+$page_description = 'Consult Dr. Kumar of Billroth Hospitals online from anywhere. Video consultation to review your scans and reports, discuss options and decide whether surgery is needed now.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -29,7 +29,7 @@ require __DIR__ . '/includes/header.php';
                 <span class="text-accent">Consultation</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Expert surgical consultation from the comfort of your home. Connect with Dr. Kumar via secure video call for initial evaluations, second opinions, and follow-up appointments.
+                Expert surgical consultation from the comfort of your home. Connect with Dr. Kumar of Billroth Hospitals via secure video call for initial evaluations, second opinions, and follow-up appointments.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#consultation-form" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-6 py-3 rounded-full transition">
@@ -64,7 +64,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-7 h-7 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
                 </div>
                 <h3 class="font-bold text-lg text-slate-900 mb-2">Convenience</h3>
-                <p class="text-slate-600 text-sm">No travel required. Consult with Dr. Kumar from your home, office, or anywhere with an internet connection.</p>
+                <p class="text-slate-600 text-sm">No travel required. Consult with Dr. Kumar of Billroth Hospitals from your home, office, or anywhere with an internet connection.</p>
             </div>
 
             <div class="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition">
@@ -88,7 +88,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-7 h-7 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"/></svg>
                 </div>
                 <h3 class="font-bold text-lg text-slate-900 mb-2">Digital Reports</h3>
-                <p class="text-slate-600 text-sm">Securely upload your medical reports, images, and test results for Dr. Kumar to review before your consultation.</p>
+                <p class="text-slate-600 text-sm">Securely upload your medical reports, images, and test results for Dr. Kumar of Billroth Hospitals to review before your consultation.</p>
             </div>
 
             <div class="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition">
@@ -146,7 +146,7 @@ require __DIR__ . '/includes/header.php';
                 <div class="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-6 border border-emerald-100 h-full">
                     <div class="w-12 h-12 rounded-full bg-emerald-600 text-white flex items-center justify-center font-bold text-xl mb-5">3</div>
                     <h3 class="font-bold text-lg text-slate-900 mb-2">Video Consultation</h3>
-                    <p class="text-slate-600 text-sm">Connect via secure video link at your scheduled time. Dr. Kumar reviews your case and discusses treatment options.</p>
+                    <p class="text-slate-600 text-sm">Connect via secure video link at your scheduled time. Dr. Kumar of Billroth Hospitals reviews your case and discusses treatment options.</p>
                 </div>
                 <div class="hidden lg:block absolute top-1/2 -right-4 w-8 h-0.5 bg-emerald-300"></div>
             </div>
@@ -359,7 +359,7 @@ require __DIR__ . '/includes/header.php';
 <section class="py-16 bg-slate-50 text-center">
     <div class="max-w-3xl mx-auto px-4">
         <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Prefer an In-Person Visit?</h2>
-        <p class="text-slate-600 mb-6">If you would rather meet Dr. Kumar in person, we also offer in-clinic consultations at Billroth Hospital.</p>
+        <p class="text-slate-600 mb-6">If you would rather meet Dr. Kumar of Billroth Hospitals in person, we also offer in-clinic consultations at Billroth Hospital.</p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="book-appointment" class="inline-flex items-center gap-2 bg-brand-700 hover:bg-brand-800 text-white font-semibold px-6 py-3 rounded-full transition">
                 Book In-Person Appointment

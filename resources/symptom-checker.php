@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Interactive Hernia Symptom Checker | Dr. Kumar Chennai';
+$page_title = 'Interactive Hernia Symptom Checker | Dr. Kumar of Billroth Hospitals Chennai';
 $page_description = 'Answer a few questions about your symptoms to understand which hernia type may fit, and whether what you are describing needs urgent medical attention.';
 require __DIR__ . '/../includes/header.php';
 ?>

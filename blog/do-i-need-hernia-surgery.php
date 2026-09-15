@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title       = "Do I Need Hernia Surgery? A Surgeon's Honest Answer";
 $page_description = 'Do I need hernia surgery? A hernia surgeon explains when to operate, when it is safe to wait, and the warning signs that mean you need care right away.';
-$page_keywords    = 'do i need hernia surgery, when is hernia surgery necessary, how long can you wait to have hernia surgery, signs you need hernia surgery, what happens if a hernia is left untreated, watchful waiting hernia, hernia surgery decision, Best Hernia Surgeon in Chennai, Dr. Kumar Billroth Hospitals';
+$page_keywords    = 'do i need hernia surgery, when is hernia surgery necessary, how long can you wait to have hernia surgery, signs you need hernia surgery, what happens if a hernia is left untreated, watchful waiting hernia, hernia surgery decision, Best Hernia Surgeon in Chennai, Dr. Kumar of Billroth Hospitals';
 $page_image       = $site['url'] . 'assets/images/do-i-need-hernia-surgery.jpg';
 $page_published   = '2026-08-17';
 $page_modified    = '2026-08-17';
@@ -64,7 +64,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar</a></span>
+                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a></span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -83,7 +83,7 @@ require_once __DIR__ . '/../includes/header.php';
             <!-- Left Column: Article Body -->
             <article class="lg:col-span-8 bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-slate-100">
                 <div class="prose prose-slate max-w-none">
-                    <img src="<?= $base_path ?>assets/images/do-i-need-hernia-surgery.jpg" alt="Dr. Kumar discussing hernia surgery options with a patient during consultation" width="1600" height="900" class="w-full rounded-2xl mb-8 shadow-md object-cover max-h-[440px]">
+                    <img src="<?= $base_path ?>assets/images/do-i-need-hernia-surgery.jpg" alt="Dr. Kumar of Billroth Hospitals discussing hernia surgery options with a patient during consultation" width="1600" height="900" class="w-full rounded-2xl mb-8 shadow-md object-cover max-h-[440px]">
 
                     <!-- AEO Direct Answer Box -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-6 rounded-r-2xl mb-10 shadow-sm">
@@ -105,7 +105,7 @@ require_once __DIR__ . '/../includes/header.php';
                         So here is the honest version. For the large majority of patients who walk into a clinic with a lump they noticed in the shower, the answer is not "operate today." It is "operate at a time you choose, rather than at a time the hernia chooses for you." Those are genuinely different things, and the difference is what this article is about.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        Below, <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar</a>, with 29 years of surgical practice and more than 10,000 hernia repairs, sets out the framework used in clinic to sort a new hernia into one of three categories: operate now, plan repair soon, or reasonable to monitor.
+                        Below, <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a>, with 29 years of surgical practice and more than 10,000 hernia repairs, sets out the framework used in clinic to sort a new hernia into one of three categories: operate now, plan repair soon, or reasonable to monitor.
                     </p>
 
                     <!-- 2. The Three-Way Decision -->
@@ -285,7 +285,7 @@ require_once __DIR__ . '/../includes/header.php';
                     <!-- Consultation Banner -->
                     <div class="bg-gradient-to-r from-brand-900 to-slate-900 text-white rounded-3xl p-8 text-center shadow-xl">
                         <h3 class="font-display text-2xl font-bold mb-3">Not Sure Which Category You Are In?</h3>
-                        <p class="text-slate-300 text-sm max-w-xl mx-auto mb-6">A single examination with Dr. Kumar will tell you whether your hernia needs repair now, later, or simply monitoring.</p>
+                        <p class="text-slate-300 text-sm max-w-xl mx-auto mb-6">A single examination with Dr. Kumar of Billroth Hospitals will tell you whether your hernia needs repair now, later, or simply monitoring.</p>
                         <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition shadow-lg hover:scale-105">
                             <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
                             Book a Hernia Assessment
@@ -298,8 +298,8 @@ require_once __DIR__ . '/../includes/header.php';
             <aside class="lg:col-span-4 space-y-8">
                 <!-- Author Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals Specialist" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Hernia &amp; Abdominal Wall Surgeon</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29+ years of experience specializing in advanced laparoscopic and robotic hernia repairs.</p>
                     <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">

@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../includes/config.php';
 
-$page_title       = 'Hernia in Women: Symptoms and Why It Is Missed | Dr. Kumar';
+$page_title       = 'Hernia in Women: Symptoms and Why It Is Missed | Dr. Kumar of Billroth Hospitals';
 $page_description = 'Hernia in women is often missed because there is no obvious bulge. Learn the symptoms, how it differs from gynecologic and muscle pain, and what to do next.';
-$page_keywords    = 'hernia in women symptoms, can women get hernias, female hernia symptoms, femoral hernia in women, groin pain in women, hernia misdiagnosed women, Dr. Kumar Billroth Hospitals';
+$page_keywords    = 'hernia in women symptoms, can women get hernias, female hernia symptoms, femoral hernia in women, groin pain in women, hernia misdiagnosed women, Dr. Kumar of Billroth Hospitals';
 // PNG rather than the WebP used on the page: some social scrapers still do not
 // render WebP previews, and og:image is never downloaded by page visitors.
 $page_image       = $site['url'] . 'assets/images/hernia-in-women.png';
@@ -84,7 +84,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar</a></span>
+                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a></span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -252,7 +252,7 @@ require_once __DIR__ . '/../includes/header.php';
                         Short of that, ask for a surgical opinion within days rather than months if your groin or lower abdominal pain has persisted, if it is clearly worse on standing and better lying flat, if it worsens with coughing or lifting, or if you have already been investigated for gynecologic causes and nothing was found.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        A sentence that helps: <em>"I would like my groin examined for a hernia, standing up and with a cough."</em> It is specific, it names the test, and it is difficult to set aside. <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar</a>, with 29 years of practice and more than 10,000 hernia repairs at Billroth Hospitals in Chennai, sees a steady number of women who were told for months that their pain was something else.
+                        A sentence that helps: <em>"I would like my groin examined for a hernia, standing up and with a cough."</em> It is specific, it names the test, and it is difficult to set aside. <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a>, with 29 years of practice and more than 10,000 hernia repairs at Billroth Hospitals in Chennai, sees a steady number of women who were told for months that their pain was something else.
                     </p>
 
                     <!-- 8. FAQ -->
@@ -299,8 +299,8 @@ require_once __DIR__ . '/../includes/header.php';
 
                 <!-- Author Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Hernia &amp; Abdominal Wall Surgeon</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29 years of experience specializing in advanced laparoscopic and robotic hernia repairs at Billroth Hospitals, Chennai.</p>
                     <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">

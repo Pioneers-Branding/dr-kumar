@@ -1,5 +1,5 @@
 <?php
-$page_title = 'ERAS Protocol for Faster Hernia Recovery | Dr. Kumar';
+$page_title = 'ERAS Protocol for Faster Hernia Recovery | Dr. Kumar of Billroth Hospitals';
 $page_description = 'How the Enhanced Recovery After Surgery protocol shortens hernia recovery, from pre-operative preparation through early mobilization and pain control.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -28,7 +28,7 @@ require __DIR__ . '/../includes/header.php';
                     <span class="text-accent">After Surgery</span>
                 </h1>
                 <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                    ERAS protocols represent a paradigm shift in surgical care. By optimizing every phase of your surgical journey, Dr. Kumar helps you recover faster, with less pain and fewer complications.
+                    ERAS protocols represent a paradigm shift in surgical care. By optimizing every phase of your surgical journey, Dr. Kumar of Billroth Hospitals helps you recover faster, with less pain and fewer complications.
                 </p>
                 <div class="flex flex-wrap gap-4">
                     <a href="#eras-components" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -374,7 +374,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-white/20 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Your safety is paramount. Dr. Kumar will only recommend discharge when you are medically ready. You will receive detailed instructions, emergency contact numbers, and follow-up appointments to ensure peace of mind.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Your safety is paramount. Dr. Kumar of Billroth Hospitals will only recommend discharge when you are medically ready. You will receive detailed instructions, emergency contact numbers, and follow-up appointments to ensure peace of mind.</p>
                     </div>
                 </div>
 
@@ -403,7 +403,7 @@ require __DIR__ . '/../includes/header.php';
             Faster Recovery with ERAS Protocols
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar implements ERAS protocols to help you get back to your life sooner with less pain and fewer complications.
+            Dr. Kumar of Billroth Hospitals implements ERAS protocols to help you get back to your life sooner with less pain and fewer complications.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -419,7 +419,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

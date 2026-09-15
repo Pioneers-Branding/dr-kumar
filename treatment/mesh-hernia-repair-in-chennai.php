@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Mesh Hernia Repair in Chennai | Dr. Kumar Billroth';
-$page_description = 'How mesh hernia repair works, why mesh lowers recurrence, and which mesh types Dr. Kumar uses in Chennai. Answers to the common questions about safety.';
+$page_title = 'Mesh Hernia Repair in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'How mesh hernia repair works, why mesh lowers recurrence, and which mesh types Dr. Kumar of Billroth Hospitals uses in Chennai. Answers to the common questions about safety.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -364,7 +364,7 @@ require __DIR__ . '/../includes/header.php';
                 Mesh-Free Hernia Repair Options
             </h2>
             <p class="text-slate-600 leading-relaxed text-sm md:text-base">
-                For patients with small, primary groin hernias who prefer not to use synthetic materials, Dr. Kumar offers several specialized suture repairs.
+                For patients with small, primary groin hernias who prefer not to use synthetic materials, Dr. Kumar of Billroth Hospitals offers several specialized suture repairs.
             </p>
         </div>
 
@@ -435,7 +435,7 @@ require __DIR__ . '/../includes/header.php';
                     <div>
                         <h4 class="font-bold text-slate-900 text-sm mb-1 leading-snug">Key Recurrence Trade-off</h4>
                         <p class="text-xs text-slate-655 leading-relaxed">
-                            Suture-only repairs generally display significantly higher recurrence rates (above 15%) compared to mesh reinforcement (under 2%). Dr. Kumar will review your physical status to see if a suture repair is clinically viable.
+                            Suture-only repairs generally display significantly higher recurrence rates (above 15%) compared to mesh reinforcement (under 2%). Dr. Kumar of Billroth Hospitals will review your physical status to see if a suture repair is clinically viable.
                         </p>
                     </div>
                 </div>
@@ -537,7 +537,7 @@ require __DIR__ . '/../includes/header.php';
             Have Questions About Mesh Hernia Repair?
         </h2>
         <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar will explain all your options and recommend the most appropriate structural approach for your specific condition.
+            Dr. Kumar of Billroth Hospitals will explain all your options and recommend the most appropriate structural approach for your specific condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition hover:scale-105 shadow-lg shadow-accent/20">
@@ -552,7 +552,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

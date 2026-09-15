@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Best Hernia Surgeon in Chennai | Dr. Kumar Billroth';
-$page_description = 'Dr. Kumar is a hernia and abdominal wall surgeon in Chennai with 29 years of practice and over 10,000 repairs. Laparoscopic, robotic and complex surgery.';
-$page_keywords    = 'hernia surgeon in chennai, best hernia surgeon chennai, hernia specialist chennai, laparoscopic hernia surgeon chennai, robotic hernia surgery chennai, complex hernia surgeon, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Best Hernia Surgeon in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Dr. Kumar of Billroth Hospitals is a hernia and abdominal wall surgeon in Chennai with 29 years of practice and over 10,000 repairs. Laparoscopic, robotic and complex surgery.';
+$page_keywords    = 'hernia surgeon in chennai, best hernia surgeon chennai, hernia specialist chennai, laparoscopic hernia surgeon chennai, robotic hernia surgery chennai, complex hernia surgeon, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-chennai';
 
 // This is the city pillar page. It owns the "hernia surgeon in Chennai" term and
@@ -10,8 +10,8 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-chenn
 // restated, so this page does not compete with them.
 $faqs = [
     [
-        'q' => 'How many hernia surgeries has Dr. Kumar performed?',
-        'a' => 'Dr. Kumar has performed more than 10,000 hernia repairs across 29 years of practice, including over 12,000 laparoscopic procedures in total. Volume in hernia specifically matters.',
+        'q' => 'How many hernia surgeries has Dr. Kumar of Billroth Hospitals performed?',
+        'a' => 'Dr. Kumar of Billroth Hospitals has performed more than 10,000 hernia repairs across 29 years of practice, including over 12,000 laparoscopic procedures in total. Volume in hernia specifically matters.',
     ],
     [
         'q' => 'Is it always necessary to operate on a hernia?',
@@ -52,10 +52,10 @@ require __DIR__ . '/../includes/header.php';
 
         <div class="max-w-4xl">
             <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
-                Hernia Surgeon in Chennai:<br><span class="text-accent">Dr. Kumar</span>
+                Hernia Surgeon in Chennai:<br><span class="text-accent">Dr. Kumar of Billroth Hospitals</span>
             </h1>
             <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-3xl">
-                Dr. Kumar is Clinical Lead and Head of the Department of Minimal Access, Robotic, Hernia and Abdominal Wall Reconstruction Surgery at Billroth Hospitals, Chennai. He has spent 29 years in surgical practice and has performed more than 10,000 hernia repairs.
+                Dr. Kumar of Billroth Hospitals is Clinical Lead and Head of the Department of Minimal Access, Robotic, Hernia and Abdominal Wall Reconstruction Surgery at Billroth Hospitals, Chennai. He has spent 29 years in surgical practice and has performed more than 10,000 hernia repairs.
             </p>
 
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8 max-w-3xl">
@@ -106,19 +106,19 @@ require __DIR__ . '/../includes/header.php';
                         High volume in hernia specifically buys you three things. The surgeon has seen your variant before, including the awkward ones. They have a considered reason for choosing one technique over another rather than defaulting to the one technique they know. And when something unexpected appears during the operation, such as dense scar tissue from a previous repair, it is a familiar problem rather than a surprise.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Dr. Kumar holds MS and MRCS (England) qualifications along with FMAS and FIAGES fellowships, and heads the minimal access, robotic and abdominal wall reconstruction department at Billroth Hospitals. He has been performing laparoscopic hernia repair for more than 20 years, which predates its routine adoption in much of Indian practice.
+                        Dr. Kumar of Billroth Hospitals holds MS and MRCS (England) qualifications along with FMAS and FIAGES fellowships, and heads the minimal access, robotic and abdominal wall reconstruction department at Billroth Hospitals. He has been performing laparoscopic hernia repair for more than 20 years, which predates its routine adoption in much of Indian practice.
                     </p>
 
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-8">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Recognition:</strong> Dr. Kumar received the Times Health Award for Service Excellence in Laparoscopic Hernia and Gastrointestinal Surgery in 2025, and the Times Health Award for Service Excellence in Advanced Laparoscopy and Robotic Surgery in 2026.
+                            <strong>Recognition:</strong> Dr. Kumar of Billroth Hospitals received the Times Health Award for Service Excellence in Laparoscopic Hernia and Gastrointestinal Surgery in 2025, and the Times Health Award for Service Excellence in Advanced Laparoscopy and Robotic Surgery in 2026.
                         </p>
                     </div>
 
                     <!-- 2. The commercial-investigation payload -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Five Questions to Ask Any Hernia Surgeon</h2>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        If you are comparing surgeons, these are the questions that actually separate them. Ask them of anyone you consult, including Dr. Kumar. The answers below are his.
+                        If you are comparing surgeons, these are the questions that actually separate them. Ask them of anyone you consult, including Dr. Kumar of Billroth Hospitals. The answers below are his.
                     </p>
 
                     <div class="space-y-4 mb-8">
@@ -128,7 +128,7 @@ require __DIR__ . '/../includes/header.php';
                         </div>
                         <div class="bg-slate-50 rounded-2xl border border-slate-200 p-5">
                             <h3 class="font-bold text-slate-900 text-base mb-2">2. Which technique do you recommend for my hernia, and why that one?</h3>
-                            <p class="text-slate-600 text-sm leading-relaxed m-0">The answer should reference your specific defect, not a general preference. Dr. Kumar performs open, laparoscopic and robotic repair, which means the technique can be chosen on merit. A surgeon who offers only one approach can only ever recommend that one.</p>
+                            <p class="text-slate-600 text-sm leading-relaxed m-0">The answer should reference your specific defect, not a general preference. Dr. Kumar of Billroth Hospitals performs open, laparoscopic and robotic repair, which means the technique can be chosen on merit. A surgeon who offers only one approach can only ever recommend that one.</p>
                         </div>
                         <div class="bg-slate-50 rounded-2xl border border-slate-200 p-5">
                             <h3 class="font-bold text-slate-900 text-base mb-2">3. What happens if my hernia comes back?</h3>
@@ -208,7 +208,7 @@ require __DIR__ . '/../includes/header.php';
                     </p>
 
                     <!-- 6. Location -->
-                    <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Where Dr. Kumar Consults</h2>
+                    <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Where Dr. Kumar of Billroth Hospitals Consults</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
                         All consulting and surgery happens at <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. Shenoy Nagar is on the Chennai Metro Green Line, which makes the hospital reachable without driving from much of North and West Chennai.
                     </p>
@@ -244,8 +244,8 @@ require __DIR__ . '/../includes/header.php';
 
             <aside class="lg:col-span-4 space-y-6">
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3"><?= $site['credentials'] ?></p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Clinical Lead and HOD, Minimal Access, Robotic, Hernia and Abdominal Wall Reconstruction Surgery, Billroth Hospitals, Chennai.</p>
                     <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">

@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Hernia and Surgery Glossary | Dr. Kumar Billroth Chennai';
+$page_title = 'Hernia and Surgery Glossary | Dr. Kumar of Billroth Hospitals Chennai';
 $page_description = 'Plain-language definitions of hernia and surgical terms, covering anatomy, mesh types, laparoscopic and robotic techniques, and post-operative language.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -568,7 +568,7 @@ require __DIR__ . '/../includes/header.php';
 <section class="bg-gradient-to-r from-brand-700 to-brand-800 py-16">
     <div class="max-w-4xl mx-auto px-4 text-center">
         <h2 class="text-3xl font-bold text-white mb-4">Need More Information?</h2>
-        <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">Schedule a consultation to discuss your specific condition and treatment options with Dr. Kumar.</p>
+        <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">Schedule a consultation to discuss your specific condition and treatment options with Dr. Kumar of Billroth Hospitals.</p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center justify-center gap-2 bg-white text-brand-800 font-semibold px-8 py-4 rounded-xl hover:bg-brand-50 transition">
                 Book Appointment

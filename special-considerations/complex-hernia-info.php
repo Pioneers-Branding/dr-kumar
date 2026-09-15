@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Complex Hernia Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Giant, multi-recurrent and loss of domain hernias need a different plan. How Dr. Kumar approaches complex abdominal wall reconstruction surgery in Chennai.';
+$page_title = 'Complex Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Giant, multi-recurrent and loss of domain hernias need a different plan. How Dr. Kumar of Billroth Hospitals approaches complex abdominal wall reconstruction surgery in Chennai.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -27,7 +27,7 @@ require __DIR__ . '/../includes/header.php';
                     Complex Hernia Information
                 </h1>
                 <p class="text-lg text-slate-300 leading-relaxed mb-8">
-                    Dr. Kumar uses Advanced surgical techniques for challenging Complex Hernia cases. Dr.Kumar has huge experience in Complex Hernia Surgeries and uses eTEP, TAR, and Component separation.
+                    Dr. Kumar of Billroth Hospitals uses Advanced surgical techniques for challenging Complex Hernia cases. Dr.Kumar has huge experience in Complex Hernia Surgeries and uses eTEP, TAR, and Component separation.
                 </p>
                 <div class="flex flex-wrap gap-4">
                     <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-500 text-slate-900 font-semibold px-6 py-3 rounded-lg transition shadow-lg shadow-amber-500/30">
@@ -345,7 +345,7 @@ require __DIR__ . '/../includes/header.php';
                 <!-- CTA Card -->
                 <div class="bg-gradient-to-br from-brand-700 to-brand-800 rounded-2xl p-6 text-white sticky top-24">
                     <h3 class="text-xl font-bold mb-3">Expert Complex Hernia Care</h3>
-                    <p class="text-brand-100 text-sm mb-6">Get specialized treatment for your complex hernia from Dr. Kumar's extensive experience in advanced abdominal wall reconstruction.</p>
+                    <p class="text-brand-100 text-sm mb-6">Get specialized treatment for your complex hernia from Dr. Kumar of Billroth Hospitals&rsquo; extensive experience in advanced abdominal wall reconstruction.</p>
                     <a href="tel:<?= $site['phone_link'] ?>" class="flex items-center justify-center gap-2 bg-accent hover:bg-amber-500 text-slate-900 font-semibold py-3 rounded-lg transition shadow-lg">
                         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
                         Call Now
@@ -420,7 +420,7 @@ require __DIR__ . '/../includes/header.php';
 <section class="bg-gradient-to-r from-slate-800 to-slate-900 py-12">
     <div class="max-w-4xl mx-auto px-4 text-center">
         <h2 class="text-2xl md:text-3xl font-display font-bold text-white mb-4">Facing a Complex Hernia?</h2>
-        <p class="text-slate-300 mb-8">Dr. Kumar has extensive experience with advanced hernia repair techniques. Get the expert care you need.</p>
+        <p class="text-slate-300 mb-8">Dr. Kumar of Billroth Hospitals has extensive experience with advanced hernia repair techniques. Get the expert care you need.</p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-500 text-slate-900 font-semibold px-8 py-4 rounded-lg transition shadow-lg shadow-amber-500/30">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>

@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Shenoy Nagar | Dr. Kumar Billroth';
-$page_description = 'Dr. Kumar treats hernia patients at Billroth Hospitals on Gajapathy Street, Shenoy Nagar. Walking distance from Shenoy Nagar metro. Book a consultation.';
-$page_keywords    = 'hernia surgeon in Shenoy Nagar, hernia treatment Shenoy Nagar Chennai, hernia specialist near Shenoy Nagar, laparoscopic hernia surgery Shenoy Nagar, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Shenoy Nagar | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Dr. Kumar of Billroth Hospitals treats hernia patients at Billroth Hospitals on Gajapathy Street, Shenoy Nagar. Walking distance from Shenoy Nagar metro. Book a consultation.';
+$page_keywords    = 'hernia surgeon in Shenoy Nagar, hernia treatment Shenoy Nagar Chennai, hernia specialist near Shenoy Nagar, laparoscopic hernia surgery Shenoy Nagar, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-shenoy-nagar';
 
 // This page serves the Shenoy Nagar catchment. The medical depth lives on the Chennai
@@ -9,7 +9,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-sheno
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
     ['q' => 'How far is Billroth Hospitals from Shenoy Nagar metro station?', 'a' => 'The hospital is on Gajapathy Street in Shenoy Nagar, close enough to the station that most patients walk it or take a short auto ride.'],
-    ['q' => 'Can I come in for a same-day hernia consultation?', 'a' => 'Often yes, since you are local. Call the helpline first so the team can tell you which sessions Dr. Kumar is consulting that day.'],
+    ['q' => 'Can I come in for a same-day hernia consultation?', 'a' => 'Often yes, since you are local. Call the helpline first so the team can tell you which sessions Dr. Kumar of Billroth Hospitals is consulting that day.'],
     ['q' => 'Do I need someone with me for day-care hernia surgery?', 'a' => 'Yes. Even for a keyhole repair with same-day discharge, you should not travel home alone after a general anesthetic, however short the journey is.'],
 ];
 
@@ -58,20 +58,20 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Shenoy Nagar and the surrounding areas of Gajapathy Street, Nelson Manickam Road and the Shenoy Nagar metro corridor.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Shenoy Nagar and the surrounding areas of Gajapathy Street, Nelson Manickam Road and the Shenoy Nagar metro corridor.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Getting to Billroth Hospitals from Shenoy Nagar</h2>
-                    <p class="text-slate-600 leading-relaxed mb-5">You have the shortest journey of any patient Dr. Kumar sees. Billroth Hospitals sits on Gajapathy Street, inside Shenoy Nagar, so there is no cross-city travel involved at all.</p>
+                    <p class="text-slate-600 leading-relaxed mb-5">You have the shortest journey of any patient Dr. Kumar of Billroth Hospitals sees. Billroth Hospitals sits on Gajapathy Street, inside Shenoy Nagar, so there is no cross-city travel involved at all.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">Shenoy Nagar metro station on the Green Line is the closest station to the hospital, which makes this the easiest address in North Chennai to reach on the day of surgery. For an early morning admission, that matters more than most people expect, because it removes traffic from the equation entirely.</p>
                     <p class="text-slate-600 leading-relaxed mb-5">If someone is bringing you in after a procedure, Gajapathy Street is reachable from Nelson Manickam Road and from the Anna Nagar side without going through the heavier Poonamallee High Road traffic.</p>
 
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Shenoy Nagar Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Shenoy Nagar, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Shenoy Nagar, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

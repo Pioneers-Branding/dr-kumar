@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Sports Hernia Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Sports hernia and athletic pubalgia treatment in Chennai. Dr. Kumar offers precise diagnosis and minimally invasive repair to get athletes moving again.';
+$page_title = 'Sports Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Sports hernia and athletic pubalgia treatment in Chennai. Dr. Kumar of Billroth Hospitals offers precise diagnosis and minimally invasive repair to get athletes moving again.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -24,7 +24,7 @@ require __DIR__ . '/../includes/header.php';
                 Sports <span class="text-accent">Hernia</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                A sports hernia is a painful soft-tissue injury of the groin region common in athletes. Unlike a true hernia, there is no visible bulge, but the underlying abdominal wall or adductor tendons are strained or torn. Get expert treatment for Sports Hernia from Hernia Specialist - Dr Kumar.
+                A sports hernia is a painful soft-tissue injury of the groin region common in athletes. Unlike a true hernia, there is no visible bulge, but the underlying abdominal wall or adductor tendons are strained or torn. Get expert treatment for Sports Hernia from Hernia Specialist - Dr. Kumar of Billroth Hospitals.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -362,7 +362,7 @@ require __DIR__ . '/../includes/header.php';
             Don't Let Groin Pain End Your Season
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar for a comprehensive evaluation and a return-to-sport plan tailored to your sport.
+            Book an appointment with Dr. Kumar of Billroth Hospitals for a comprehensive evaluation and a return-to-sport plan tailored to your sport.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -374,7 +374,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -397,10 +397,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Sports Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Sports Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -421,7 +421,7 @@ require __DIR__ . '/../includes/header.php';
                     Minimally Invasive · Keyhole Surgery
                 </p>
                 <p class="text-slate-100 text-sm leading-relaxed mb-6">
-                    For refractory sports hernias not responding to rest and rehab, <strong>laparoscopic mesh reinforcement</strong> of the posterior inguinal wall is Dr. Kumar's preferred surgical approach. 3 tiny incisions, minimal downtime, and return to sport in 6–12 weeks. Often combined with targeted adductor release.
+                    For refractory sports hernias not responding to rest and rehab, <strong>laparoscopic mesh reinforcement</strong> of the posterior inguinal wall is Dr. Kumar of Billroth Hospitals&rsquo; preferred surgical approach. 3 tiny incisions, minimal downtime, and return to sport in 6–12 weeks. Often combined with targeted adductor release.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-100">
                     <li class="flex gap-2"><span class="text-accent">✓</span> Mesh reinforcement of posterior wall</li>

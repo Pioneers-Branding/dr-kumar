@@ -3,7 +3,7 @@ require_once __DIR__ . '/../includes/config.php';
 
 $page_title       = 'Hernia Emergency Warning Signs: When to Go to the ER';
 $page_description = 'Know the hernia emergency warning signs that mean go to the ER now, how fast a hernia turns dangerous, and what not to do while you wait for help in Chennai.';
-$page_keywords    = 'hernia emergency warning signs, when is a hernia an emergency, strangulated hernia symptoms, incarcerated hernia symptoms, hernia pain when to worry, hernia emergency, emergency hernia surgery Chennai, Dr. Kumar Billroth Hospitals';
+$page_keywords    = 'hernia emergency warning signs, when is a hernia an emergency, strangulated hernia symptoms, incarcerated hernia symptoms, hernia pain when to worry, hernia emergency, emergency hernia surgery Chennai, Dr. Kumar of Billroth Hospitals';
 // PNG rather than the WebP used on the page: some social scrapers still do not
 // render WebP previews, and og:image is never downloaded by page visitors.
 $page_image       = $site['url'] . 'assets/images/hernia-emergency-warning-signs.png';
@@ -85,7 +85,7 @@ require_once __DIR__ . '/../includes/header.php';
             <div class="flex flex-wrap items-center gap-6 text-sm text-slate-300 mt-6">
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/></svg>
-                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar</a></span>
+                    <span>By <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-accent hover:underline font-semibold">Dr. Kumar of Billroth Hospitals</a></span>
                 </div>
                 <div class="flex items-center gap-2">
                     <svg class="w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -106,7 +106,7 @@ require_once __DIR__ . '/../includes/header.php';
                 <div class="prose prose-slate max-w-none">
 
                     <!-- Banner sits first; the emergency box follows directly beneath it. -->
-                    <img src="<?= $base_path ?>assets/images/hernia-emergency-warning-signs.webp" alt="Hernia Warning Signs: When It Becomes an Emergency, with Dr. Kumar reviewing a patient's symptoms" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-6 shadow-md">
+                    <img src="<?= $base_path ?>assets/images/hernia-emergency-warning-signs.webp" alt="Hernia Warning Signs: When It Becomes an Emergency, with Dr. Kumar of Billroth Hospitals reviewing a patient's symptoms" width="1600" height="900" fetchpriority="high" class="w-full h-auto rounded-2xl mb-6 shadow-md">
 
                     <!-- EMERGENCY BOX: kept compact so it sits fully in view under the banner -->
                     <div class="bg-red-50 border-2 border-red-500 p-5 rounded-2xl mb-10 shadow-sm">
@@ -318,7 +318,7 @@ require_once __DIR__ . '/../includes/header.php';
                         An emergency repair on a strangulated hernia is a different operation with the same name. The surgeon is working on inflamed tissue, often through a larger incision, sometimes at night, and has to judge whether the trapped bowel is still viable. If it is not, that segment has to be removed and the two healthy ends rejoined. Contaminated tissue may also rule out using mesh at that sitting, which raises the chance of the hernia coming back later.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-6">
-                        This is the honest reason surgeons press patients not to postpone a symptomatic hernia. <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar</a>, who leads the hernia and abdominal wall reconstruction service at Billroth Hospitals in Chennai with 29 years of practice and more than 10,000 hernia repairs behind him, sees both versions of this operation. The difference between them is usually decided by how quickly the patient came in.
+                        This is the honest reason surgeons press patients not to postpone a symptomatic hernia. <a href="<?= $base_path ?>about-best-hernia-hospital-in-chennai" class="text-brand-700 font-semibold hover:underline">Dr. Kumar of Billroth Hospitals</a>, who leads the hernia and abdominal wall reconstruction service at Billroth Hospitals in Chennai with 29 years of practice and more than 10,000 hernia repairs behind him, sees both versions of this operation. The difference between them is usually decided by how quickly the patient came in.
                     </p>
 
                     <!-- 9. FAQ -->
@@ -364,8 +364,8 @@ require_once __DIR__ . '/../includes/header.php';
 
                 <!-- Author Profile Card -->
                 <div class="bg-white rounded-3xl p-6 border border-slate-100 shadow-sm text-center">
-                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
-                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar</h3>
+                    <img src="<?= $base_path ?>assets/images/dr-kumar-headshot-2026.jpg" alt="Dr. Kumar of Billroth Hospitals, hernia and abdominal wall surgeon in Chennai" width="96" height="96" class="w-24 h-24 rounded-full mx-auto object-cover border-4 border-brand-50 shadow-md mb-4">
+                    <h3 class="font-bold text-slate-900 text-lg mb-1">Dr. Kumar of Billroth Hospitals</h3>
                     <p class="text-xs text-brand-700 font-semibold mb-3">Senior Hernia &amp; Abdominal Wall Surgeon</p>
                     <p class="text-xs text-slate-600 leading-relaxed mb-4">Over 29 years of experience specializing in advanced laparoscopic and robotic hernia repairs at Billroth Hospitals, Chennai.</p>
                     <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="inline-flex items-center justify-center w-full bg-brand-50 hover:bg-brand-100 text-brand-800 text-xs font-bold py-2.5 rounded-xl border border-brand-100 transition">
@@ -429,7 +429,7 @@ $page_schema = [
         [
             '@type'       => 'EmergencyService',
             '@id'         => $page_url . '#emergency',
-            'name'        => 'Emergency Hernia Care, Dr. Kumar at Billroth Hospitals',
+            'name'        => 'Emergency Hernia Care, Dr. Kumar of Billroth Hospitals',
             'description' => 'Round-the-clock assessment and emergency surgery for incarcerated and strangulated hernias in Chennai.',
             'telephone'   => $site['phone'],
             'url'         => rtrim($site['url'], '/') . '/emergency-hernia-care',

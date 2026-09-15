@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Perambur, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Perambur patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. Direct suburban rail from Perambur station. Book a consultation.';
-$page_keywords    = 'hernia surgeon in Perambur, hernia treatment Perambur Chennai, hernia specialist near Perambur, laparoscopic hernia surgery Perambur, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Perambur, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Perambur patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. Direct suburban rail from Perambur station. Book a consultation.';
+$page_keywords    = 'hernia surgeon in Perambur, hernia treatment Perambur Chennai, hernia specialist near Perambur, laparoscopic hernia surgery Perambur, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-perambur';
 
 // This page serves the Perambur catchment. The medical depth lives on the Chennai
@@ -9,7 +9,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-peram
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
     ['q' => 'What is the easiest way to reach the hospital from Perambur?', 'a' => 'Take a suburban train from Perambur station to Chennai Central, then the Green Line metro to Shenoy Nagar, or travel by road through Kilpauk.'],
-    ['q' => 'Does Dr. Kumar treat hernias in older patients?', 'a' => 'Yes. Age alone rarely rules out repair. Fitness for anesthesia matters more, and that is assessed before surgery is planned.'],
+    ['q' => 'Does Dr. Kumar of Billroth Hospitals treat hernias in older patients?', 'a' => 'Yes. Age alone rarely rules out repair. Fitness for anesthesia matters more, and that is assessed before surgery is planned.'],
     ['q' => 'What happens if a hernia is left untreated?', 'a' => 'Most enlarge slowly over time. The main risk is tissue becoming trapped in the defect, which turns a planned keyhole operation into emergency surgery.'],
 ];
 
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Perambur and the surrounding areas of Perambur Barracks Road, Jamalia, Sembiam and the Perambur station area.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Perambur and the surrounding areas of Perambur Barracks Road, Jamalia, Sembiam and the Perambur station area.
                         </p>
                     </div>
 
@@ -71,7 +71,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Perambur Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Perambur, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Perambur, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

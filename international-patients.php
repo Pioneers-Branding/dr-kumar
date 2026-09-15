@@ -1,7 +1,7 @@
 <?php
 $page_title = 'Hernia Surgery in India for International Patients';
-$page_description = 'Robotic and laparoscopic hernia surgery in Chennai for overseas patients. Medical visa support, airport pickup and treatment planning with Dr. Kumar today.';
-$page_keywords = 'international patient hernia surgery India, medical tourism hernia repair Chennai, robotic hernia surgery cost India, best laparoscopic surgeon Chennai, Dr. Kumar Billroth Hospitals';
+$page_description = 'Robotic and laparoscopic hernia surgery in Chennai for overseas patients. Medical visa support, airport pickup and treatment planning with Dr. Kumar of Billroth Hospitals today.';
+$page_keywords = 'international patient hernia surgery India, medical tourism hernia repair Chennai, robotic hernia surgery cost India, best laparoscopic surgeon Chennai, Dr. Kumar of Billroth Hospitals';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -55,7 +55,7 @@ require __DIR__ . '/includes/header.php';
                 Standards of Care
             </span>
             <h2 class="font-display text-3xl md:text-4xl font-bold text-slate-900 mt-6 mb-4">
-                Why International Patients Choose<br><span class="text-brand-700">Dr. Kumar &amp; Billroth Hospitals</span>
+                Why International Patients Choose<br><span class="text-brand-700">Dr. Kumar of Billroth Hospitals</span>
             </h2>
             <p class="text-slate-600 text-lg">We deliver clinical care matching the highest global standards at a fraction of the cost in Western countries.</p>
         </div>
@@ -68,7 +68,7 @@ require __DIR__ . '/includes/header.php';
                 </div>
                 <h3 class="font-display text-xl font-bold text-slate-900 mb-3">Elite Surgical Expertise</h3>
                 <p class="text-slate-600 text-sm leading-relaxed">
-                    Under the care of Dr. Kumar, with over 29 years of surgical experience and 10,000+ hernia repairs, you receive state-of-the-art techniques such as eTEP, TAR, and robotic-assisted surgeries.
+                    Under the care of Dr. Kumar of Billroth Hospitals, with over 29 years of surgical experience and 10,000+ hernia repairs, you receive state-of-the-art techniques such as eTEP, TAR, and robotic-assisted surgeries.
                 </p>
             </div>
 
@@ -118,7 +118,7 @@ require __DIR__ . '/includes/header.php';
                         <div class="w-10 h-10 rounded-full bg-cyan-100 text-cyan-800 flex items-center justify-center shrink-0 font-bold">1</div>
                         <div>
                             <h4 class="font-bold text-slate-900">Virtual Case Evaluation</h4>
-                            <p class="text-sm text-slate-600">Send your ultrasound, CT scan, or medical summary. Dr. Kumar will review it and discuss options with you via video consultation.</p>
+                            <p class="text-sm text-slate-600">Send your ultrasound, CT scan, or medical summary. Dr. Kumar of Billroth Hospitals will review it and discuss options with you via video consultation.</p>
                         </div>
                     </div>
                     <div class="flex items-start gap-4">
@@ -222,7 +222,7 @@ require __DIR__ . '/includes/header.php';
                         <svg class="w-5 h-5 text-brand-700 shrink-0 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </summary>
                     <div class="px-6 pb-6 text-slate-600 leading-relaxed">
-                        <p>Once Dr. Kumar confirms your treatment plan, our international office sends you an official **Medical Visa Invitation Letter** showing your diagnosis and schedule. You present this to the Indian Embassy or apply online for an e-Medical Visa, which is typically processed in 3 to 5 business days.</p>
+                        <p>Once Dr. Kumar of Billroth Hospitals confirms your treatment plan, our international office sends you an official **Medical Visa Invitation Letter** showing your diagnosis and schedule. You present this to the Indian Embassy or apply online for an e-Medical Visa, which is typically processed in 3 to 5 business days.</p>
                     </div>
                 </details>
             </div>

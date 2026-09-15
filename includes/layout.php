@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/config.php';
 
-$page_title       ??= 'Advanced Hernia, Laparoscopic & Robotic Surgery | Dr. Kumar';
-$page_description ??= 'Expert hernia treatment by Dr. Kumar in Chennai. Advanced laparoscopic, robotic & eTEP hernia surgery with 29+ years of experience.';
+$page_title       ??= 'Advanced Hernia, Laparoscopic & Robotic Surgery | Dr. Kumar of Billroth Hospitals';
+$page_description ??= 'Expert hernia treatment by Dr. Kumar of Billroth Hospitals in Chennai. Advanced laparoscopic, robotic & eTEP hernia surgery with 29+ years of experience.';
 $page_keywords    ??= 'hernia surgery Chennai, best hernia surgeon Chennai, laparoscopic hernia repair';
 $page_url         ??= $site['url'] . basename(dirname($_SERVER['PHP_SELF'])) . '/';
 $page_image       ??= $site['url'] . 'assets/images/dr-kumar-office-portrait.jpg';
@@ -183,7 +183,7 @@ $page_image       ??= $site['url'] . 'assets/images/dr-kumar-office-portrait.jpg
     <div class="relative max-w-7xl mx-auto px-4 lg:px-6">
         <nav class="flex items-center justify-between gap-6 py-3">
             <a href="<?= $base_path ?>" class="flex items-center shrink-0">
-                <img src="<?= $base_path . $site['logo'] ?>" alt="Dr. Kumar" width="220" height="56" class="h-14 w-auto">
+                <img src="<?= $base_path . $site['logo'] ?>" alt="Dr. Kumar of Billroth Hospitals" width="220" height="56" class="h-14 w-auto">
             </a>
 
             <!-- DESKTOP NAV -->

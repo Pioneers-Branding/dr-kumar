@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Chronic Pain After Hernia Surgery | Dr. Kumar Chennai';
-$page_description = 'Understanding chronic groin pain after hernia repair, how nerve pain differs from tissue pain, and the treatment options available with Dr. Kumar in Chennai.';
-$page_keywords = 'chronic pain after hernia surgery, CPIP, post-operative groin pain, nerve entrapment groin, triple neurectomy Chennai, mesh removal Chennai, Dr. Kumar Billroth Hospitals';
+$page_title = 'Chronic Pain After Hernia Surgery | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'Understanding chronic groin pain after hernia repair, how nerve pain differs from tissue pain, and the treatment options available with Dr. Kumar of Billroth Hospitals in Chennai.';
+$page_keywords = 'chronic pain after hernia surgery, CPIP, post-operative groin pain, nerve entrapment groin, triple neurectomy Chennai, mesh removal Chennai, Dr. Kumar of Billroth Hospitals';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -376,7 +376,7 @@ require __DIR__ . '/../includes/header.php';
             Struggling with Persistent Groin Pain?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Get evaluated by Dr. Kumar. Benefit from advanced diagnostic nerve mapping and personalized multidisciplinary treatment plans to reclaim a pain-free life.
+            Get evaluated by Dr. Kumar of Billroth Hospitals. Benefit from advanced diagnostic nerve mapping and personalized multidisciplinary treatment plans to reclaim a pain-free life.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

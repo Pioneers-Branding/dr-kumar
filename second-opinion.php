@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Surgery Second Opinion in Chennai | Dr. Kumar';
-$page_description = 'Been told you need hernia surgery? Get an independent second opinion from Dr. Kumar in Chennai before you commit to an operation. Bring your scans along.';
+$page_title = 'Hernia Surgery Second Opinion in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Been told you need hernia surgery? Get an independent second opinion from Dr. Kumar of Billroth Hospitals in Chennai before you commit to an operation. Bring your scans along.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -29,8 +29,7 @@ require __DIR__ . '/includes/header.php';
                 <span class="text-accent">Second Opinion</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                When facing hernia surgery, getting another expert perspective can provide clarity and confidence. Dr.
-                Kumar offers thorough second opinion consultations to help you make informed decisions about your
+                When facing hernia surgery, getting another expert perspective can provide clarity and confidence. Dr. Kumar of Billroth Hospitals offers thorough second opinion consultations to help you make informed decisions about your
                 health.
             </p>
             <div class="flex flex-wrap gap-4">
@@ -65,7 +64,7 @@ require __DIR__ . '/includes/header.php';
                 Why Seek Another<br><span class="text-brand-700">Expert Perspective?</span>
             </h2>
             <p class="text-slate-600 text-lg">A second opinion can be invaluable when it comes to surgical decisions.
-                Here is why many patients choose to consult Dr. Kumar.</p>
+                Here is why many patients choose to consult Dr. Kumar of Billroth Hospitals.</p>
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
@@ -155,7 +154,7 @@ require __DIR__ . '/includes/header.php';
                     What is Covered in a<br><span class="text-brand-700">Second Opinion?</span>
                 </h2>
                 <p class="text-slate-600 mb-8">
-                    Dr. Kumar provides comprehensive second opinion consultations reviewing all aspects of your hernia
+                    Dr. Kumar of Billroth Hospitals provides comprehensive second opinion consultations reviewing all aspects of your hernia
                     case to help you make an informed decision.
                 </p>
 
@@ -387,7 +386,7 @@ require __DIR__ . '/includes/header.php';
                         class="w-12 h-12 rounded-full bg-brand-700 text-white flex items-center justify-center font-bold text-xl mb-5">
                         2</div>
                     <h3 class="font-bold text-lg text-slate-900 mb-2">Records Review</h3>
-                    <p class="text-slate-600 text-sm">Dr. Kumar reviews your case history, imaging, and current
+                    <p class="text-slate-600 text-sm">Dr. Kumar of Billroth Hospitals reviews your case history, imaging, and current
                         recommendations in detail.</p>
                 </div>
                 <div class="hidden lg:block absolute top-1/2 -right-4 w-8 h-0.5 bg-brand-300"></div>
@@ -427,7 +426,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl font-bold mb-4">
                 Request a Second Opinion
             </h2>
-            <p class="text-brand-100 text-lg">Share your case details and Dr. Kumar will review your situation and
+            <p class="text-brand-100 text-lg">Share your case details and Dr. Kumar of Billroth Hospitals will review your situation and
                 provide an expert opinion.</p>
         </div>
 
@@ -513,7 +512,7 @@ require __DIR__ . '/includes/header.php';
                 </svg>
             </div>
             <h3 class="font-display text-2xl font-bold text-slate-900 mb-3">Request Received!</h3>
-            <p class="text-slate-600 mb-4">Thank you for seeking a second opinion. Dr. Kumar will review your case and
+            <p class="text-slate-600 mb-4">Thank you for seeking a second opinion. Dr. Kumar of Billroth Hospitals will review your case and
                 our team will contact you within 24-48 hours.</p>
             <p class="text-slate-500">For urgent inquiries, call <a href="tel:<?= $site['phone_link'] ?>"
                     class="text-brand-700 font-semibold"><?= $site['phone'] ?></a></p>

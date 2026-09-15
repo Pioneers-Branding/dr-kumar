@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Ventral Hernia Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Ventral hernia treatment in Chennai by Dr. Kumar at Billroth Hospitals. Advanced laparoscopic and robotic repair for anterior abdominal wall hernia types.';
+$page_title = 'Ventral Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Ventral hernia treatment in Chennai by Dr. Kumar of Billroth Hospitals. Advanced laparoscopic and robotic repair for anterior abdominal wall hernia types.';
 $page_url = 'https://herniacare360.com/my_types/ventral-hernia-treatment-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -26,7 +26,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Treatment Doctor in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get the best Ventral Hernia treatment in Chennai from Dr. Kumar, the leading anterior abdominal wall hernia specialist. Experience advanced keyhole and robotic ventral repairs.
+                Get the best Ventral Hernia treatment in Chennai from Dr. Kumar of Billroth Hospitals, the leading anterior abdominal wall hernia specialist. Experience advanced keyhole and robotic ventral repairs.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -242,7 +242,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss Your Treatment?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar today for a comprehensive evaluation of your condition.
+            Book an appointment with Dr. Kumar of Billroth Hospitals today for a comprehensive evaluation of your condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -254,7 +254,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -277,10 +277,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Ventral Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Ventral Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -354,7 +354,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>treatment/etep-technique-expert-in-chennai" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">
@@ -406,7 +406,7 @@ require __DIR__ . '/../includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 leading-tight">
                 What Our Patients Say
             </h2>
-            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Ventral Hernia treatment with Dr. Kumar.</p>
+            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Ventral Hernia treatment with Dr. Kumar of Billroth Hospitals.</p>
         </div>
     </div>
 
@@ -431,7 +431,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "I had a midline ventral hernia that was causing discomfort. I consulted Dr. Kumar, the best Ventral Hernia Treatment Doctor in Chennai. He performed a laparoscopic IPOM repair using a dual-layer mesh. The procedure went beautifully and my recovery was virtually painless."
+                        "I had a midline ventral hernia that was causing discomfort. I consulted Dr. Kumar of Billroth Hospitals, the best Ventral Hernia Treatment Doctor in Chennai. He performed a laparoscopic IPOM repair using a dual-layer mesh. The procedure went beautifully and my recovery was virtually painless."
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -455,7 +455,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "I noticed a midline abdominal swelling that got worse during daily chores. Dr. Kumar, a premier anterior abdominal wall hernia specialist, performed my Ventral Hernia treatment in Chennai. Recovery was quick, and the aesthetic result is amazing. Excellent experience!"
+                        "I noticed a midline abdominal swelling that got worse during daily chores. Dr. Kumar of Billroth Hospitals, a premier anterior abdominal wall hernia specialist, performed my Ventral Hernia treatment in Chennai. Recovery was quick, and the aesthetic result is amazing. Excellent experience!"
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -479,7 +479,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "A persistent cough led to a ventral hernia. Dr. Kumar used the eTEP technique for a highly stable repair. He gave great post-op lifestyle advice to prevent future recurrence. A very knowledgeable surgeon."
+                        "A persistent cough led to a ventral hernia. Dr. Kumar of Billroth Hospitals used the eTEP technique for a highly stable repair. He gave great post-op lifestyle advice to prevent future recurrence. A very knowledgeable surgeon."
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -503,7 +503,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "Had a small ventral defect in the upper abdomen. Dr. Kumar performed a meshless suture repair. I really appreciate his conservative approach where mesh is only used when strictly required. 5-star treatment!"
+                        "Had a small ventral defect in the upper abdomen. Dr. Kumar of Billroth Hospitals performed a meshless suture repair. I really appreciate his conservative approach where mesh is only used when strictly required. 5-star treatment!"
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -527,7 +527,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "A large ventral hernia was causing drag and discomfort. Dr. Kumar used keyhole surgery. I was discharged within 2 days, and my recovery has been incredibly smooth. Highly professional clinic."
+                        "A large ventral hernia was causing drag and discomfort. Dr. Kumar of Billroth Hospitals used keyhole surgery. I was discharged within 2 days, and my recovery has been incredibly smooth. Highly professional clinic."
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -551,7 +551,7 @@ require __DIR__ . '/../includes/header.php';
                         </span>
                     </div>
                     <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                        "Had severe swelling on the midline of the abdominal wall. Dr. Kumar performed a robotic repair. His surgical team and clinic staff were extremely supportive. Highly recommended!"
+                        "Had severe swelling on the midline of the abdominal wall. Dr. Kumar of Billroth Hospitals performed a robotic repair. His surgical team and clinic staff were extremely supportive. Highly recommended!"
                     </p>
                 </div>
                 <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -675,7 +675,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Ventral hernias are repaired open or by keyhole and robotic techniques. Dr. Kumar favors retrorectus mesh placement, eTEP RS and robotic TAR, putting mesh between muscle layers for strength.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Ventral hernias are repaired open or by keyhole and robotic techniques. Dr. Kumar of Billroth Hospitals favors retrorectus mesh placement, eTEP RS and robotic TAR, putting mesh between muscle layers for strength.</p>
                     </div>
                 </div>
 

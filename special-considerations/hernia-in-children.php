@@ -252,7 +252,7 @@ require __DIR__ . '/../includes/header.php';
                         <div>
                             <h4 class="font-bold text-lg text-white mb-2">Umbilical Hernia, Watchful Waiting</h4>
                             <p class="text-slate-300 text-sm leading-relaxed">
-                                Most small umbilical hernias in infants close on their own by age 4–5. Dr. Kumar monitors your child and only recommends surgery if the opening is large, painful, or has not closed by school age.
+                                Most small umbilical hernias in infants close on their own by age 4–5. Dr. Kumar of Billroth Hospitals monitors your child and only recommends surgery if the opening is large, painful, or has not closed by school age.
                             </p>
                         </div>
                     </div>
@@ -371,7 +371,7 @@ require __DIR__ . '/../includes/header.php';
                         <svg class="w-5 h-5 text-brand-700 shrink-0 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </summary>
                     <div class="px-6 pb-6 text-slate-600 leading-relaxed">
-                        <p>Most children experience only mild discomfort that responds well to children's paracetamol or ibuprofen. Dr. Kumar uses regional nerve blocks during surgery so your child wakes up comfortable. Most are back to normal activities within 3–5 days.</p>
+                        <p>Most children experience only mild discomfort that responds well to children's paracetamol or ibuprofen. Dr. Kumar of Billroth Hospitals uses regional nerve blocks during surgery so your child wakes up comfortable. Most are back to normal activities within 3–5 days.</p>
                     </div>
                 </details>
             </div>
@@ -383,7 +383,7 @@ require __DIR__ . '/../includes/header.php';
                         <svg class="w-5 h-5 text-brand-700 shrink-0 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </summary>
                     <div class="px-6 pb-6 text-slate-600 leading-relaxed">
-                        <p>Recurrence after pediatric hernia repair is very rare, less than 1% in experienced hands. Dr. Kumar uses careful technique to ensure the hernia sac is completely closed, and follow-up visits confirm lasting healing.</p>
+                        <p>Recurrence after pediatric hernia repair is very rare, less than 1% in experienced hands. Dr. Kumar of Billroth Hospitals uses careful technique to ensure the hernia sac is completely closed, and follow-up visits confirm lasting healing.</p>
                     </div>
                 </details>
             </div>
@@ -407,7 +407,7 @@ require __DIR__ . '/../includes/header.php';
                         <svg class="w-5 h-5 text-brand-700 shrink-0 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </summary>
                     <div class="px-6 pb-6 text-slate-600 leading-relaxed">
-                        <p>With the laparoscopic approach, Dr. Kumar can examine the opposite side for a hidden hernia and repair it in the same sitting if found. This avoids the need for a second anesthesia and surgery later in childhood. We discuss this option with parents in detail before the operation.</p>
+                        <p>With the laparoscopic approach, Dr. Kumar of Billroth Hospitals can examine the opposite side for a hidden hernia and repair it in the same sitting if found. This avoids the need for a second anesthesia and surgery later in childhood. We discuss this option with parents in detail before the operation.</p>
                     </div>
                 </details>
             </div>
@@ -422,7 +422,7 @@ require __DIR__ . '/../includes/header.php';
             Compassionate Care for Your Child
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            If your child has been diagnosed with a hernia, or you have noticed a bulge that concerns you, Dr. Kumar and team provide gentle, expert evaluation and surgical care for children of all ages.
+            If your child has been diagnosed with a hernia, or you have noticed a bulge that concerns you, Dr. Kumar of Billroth Hospitals and team provide gentle, expert evaluation and surgical care for children of all ages.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

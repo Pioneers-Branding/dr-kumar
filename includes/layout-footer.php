@@ -7,7 +7,7 @@
             Ready to Discuss Your Hernia Treatment?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Schedule a consultation with Dr. Kumar to explore your treatment options and get personalized care.
+            Schedule a consultation with Dr. Kumar of Billroth Hospitals to explore your treatment options and get personalized care.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

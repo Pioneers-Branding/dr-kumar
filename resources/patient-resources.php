@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Patient Resources and Guides | Dr. Kumar Chennai';
-$page_description = 'Preparation checklists, post-operative instructions and recovery guides for the hernia surgery patients of Dr. Kumar at Billroth Hospitals in Chennai.';
+$page_title = 'Hernia Patient Resources and Guides | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'Preparation checklists, post-operative instructions and recovery guides for the hernia surgery patients of Dr. Kumar of Billroth Hospitals in Chennai.';
 require __DIR__ . '/../includes/header.php';
 ?>
 

@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Intra-Operative Hernia Techniques | Dr. Kumar, Chennai';
-$page_description = 'The specialized techniques Dr. Kumar uses during hernia and abdominal wall surgery, chosen according to the defect, the anatomy and the patient in front.';
+$page_title = 'Intra-Operative Hernia Techniques | Dr. Kumar of Billroth Hospitals, Chennai';
+$page_description = 'The specialized techniques Dr. Kumar of Billroth Hospitals uses during hernia and abdominal wall surgery, chosen according to the defect, the anatomy and the patient in front.';
 $page_keywords = 'intra operative techniques hernia, special surgical techniques, defect closure, component separation, TAR, nerve preservation, intraoperative decision making hernia, chennai hernia surgeon';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -64,7 +64,7 @@ require __DIR__ . '/../includes/header.php';
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-4">No two hernias are identical. The broad approach is chosen in clinic, but sac handling, defect closure, mesh plane, component separation and nerve preservation are decided during the operation itself.</p>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    These intra-operative decisions are what separate a routine hernia repair from a durable reconstruction - and they require both training and judgement. The list below covers the special techniques most often deployed in Dr. Kumar's practice.
+                    These intra-operative decisions are what separate a routine hernia repair from a durable reconstruction - and they require both training and judgement. The list below covers the special techniques most often deployed in Dr. Kumar of Billroth Hospitals&rsquo; practice.
                 </p>
             </div>
             <div class="grid grid-cols-2 gap-4">
@@ -202,7 +202,7 @@ require __DIR__ . '/../includes/header.php';
                         Call: <?= $site['phone'] ?>
                     </a>
                     <a href="mailto:<?= $site['email'] ?>" class="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 backdrop-blur text-white font-bold px-7 py-3.5 rounded-full border border-white/30 transition duration-300">
-                        Email Dr. Kumar
+                        Email Dr. Kumar of Billroth Hospitals
                     </a>
                 </div>
             </div>

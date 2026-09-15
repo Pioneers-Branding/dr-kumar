@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Book a Hernia Consultation in Chennai | Dr. Kumar Billroth';
-$page_description = 'Book an appointment with Dr. Kumar at Billroth Hospitals, Shenoy Nagar, Chennai. Consultations for hernia assessment, second opinions and surgery planning.';
+$page_title = 'Book a Hernia Consultation in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Book an appointment with Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. Consultations for hernia assessment, second opinions and surgery planning.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -69,7 +69,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-7 h-7 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
                 </div>
                 <h3 class="font-bold text-lg text-slate-900 mb-2">Expert Consultation</h3>
-                <p class="text-slate-600 text-sm">Direct access to Dr. Kumar with 29+ years of specialized hernia and laparoscopic surgery experience.</p>
+                <p class="text-slate-600 text-sm">Direct access to Dr. Kumar of Billroth Hospitals with 29+ years of specialized hernia and laparoscopic surgery experience.</p>
             </div>
 
             <div class="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition">
@@ -85,7 +85,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-7 h-7 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
                 </div>
                 <h3 class="font-bold text-lg text-slate-900 mb-2">Insurance Accepted</h3>
-                <p class="text-slate-600 text-sm">We work with major insurance providers. Cashless treatment available at network hospitals.</p>
+                <p class="text-slate-600 text-sm">Accepted networks include Star Health, Care Health, HDFC ERGO, ICICI Lombard, Niva Bupa, Bajaj Allianz, Tata AIG, ManipalCigna, major TPAs, and government/PSU insurers. Cashless approval is subject to policy and network authorization.</p>
             </div>
         </div>
     </div>
@@ -145,7 +145,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
                 </div>
                 <h3 class="font-display text-2xl font-bold text-slate-900 mb-3">Online Consultation</h3>
-                <p class="text-slate-600 mb-6">Connect with Dr. Kumar from anywhere via secure video call. Ideal for initial evaluations, second opinions, and follow-up appointments.</p>
+                <p class="text-slate-600 mb-6">Connect with Dr. Kumar of Billroth Hospitals from anywhere via secure video call. Ideal for initial evaluations, second opinions, and follow-up appointments.</p>
                 <ul class="space-y-3 mb-6">
                     <li class="flex items-center gap-3">
                         <svg class="w-5 h-5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
@@ -265,7 +265,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-10 h-10 text-emerald-600" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
                 </div>
                 <h3 class="font-display text-2xl font-bold text-slate-900 mb-3">Appointment Request Received!</h3>
-                <p class="text-slate-600 mb-6">Thank you for choosing Dr. Kumar. Our team will contact you within 24 hours to confirm your appointment.</p>
+                <p class="text-slate-600 mb-6">Thank you for choosing Dr. Kumar of Billroth Hospitals. Our team will contact you within 24 hours to confirm your appointment.</p>
                 <p class="text-slate-500">For urgent matters, please call us directly at <a href="tel:<?= $site['phone_link'] ?>" class="text-brand-700 font-semibold"><?= $site['phone'] ?></a></p>
             </div>
         </div>
@@ -310,7 +310,7 @@ require __DIR__ . '/includes/header.php';
                     <div class="hidden md:block absolute top-1/2 left-full w-full h-0.5 bg-brand-200 -translate-y-1/2"></div>
                 </div>
                 <h3 class="font-bold text-lg text-slate-900 mb-2">Consultation</h3>
-                <p class="text-slate-600 text-sm">Meet Dr. Kumar for comprehensive evaluation and personalized treatment discussion.</p>
+                <p class="text-slate-600 text-sm">Meet Dr. Kumar of Billroth Hospitals for comprehensive evaluation and personalized treatment discussion.</p>
             </div>
 
             <div class="text-center">

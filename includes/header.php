@@ -20,8 +20,8 @@ if (isset($_SERVER['REQUEST_URI'])) {
 
 require_once __DIR__ . '/config.php';
 
-$page_title       ??= 'Advanced Hernia, Laparoscopic & Robotic Surgery | Dr. Kumar Billroth Hospitals';
-$page_description ??= 'Dr. Kumar Billroth Hospitals - Senior Consultant in Advanced Hernia, Abdominal Wall Reconstruction & Laparoscopic Surgery in Chennai. 29+ years of expertise, 10,000+ hernia surgeries. Book your appointment today.';
+$page_title       ??= 'Advanced Hernia, Laparoscopic & Robotic Surgery | Dr. Kumar of Billroth Hospitals';
+$page_description ??= 'Dr. Kumar of Billroth Hospitals - Senior Consultant in Advanced Hernia, Abdominal Wall Reconstruction & Laparoscopic Surgery in Chennai. 29+ years of expertise, 10,000+ hernia surgeries. Book your appointment today.';
 $page_keywords    ??= 'best hernia surgeon Chennai, advanced hernia surgery Chennai, laparoscopic surgeon Chennai, robotic hernia surgeon Chennai, abdominal wall reconstruction Chennai, eTEP TAR surgery Chennai, incisional hernia Chennai, umbilical hernia, inguinal hernia surgery, complex hernia repair';
 
 // Robots directive. Pages that should stay out of the index set
@@ -695,6 +695,71 @@ $schema_payload = ['@context' => 'https://schema.org', '@graph' => $graph];
         [class*="bg-slate-900"] .faq-item:not(.active) .faq-content p {
             color: #f1f5f9 !important; /* text-slate-100 */
         }
+
+        /* ===== Site-wide responsive baseline =====
+           These rules protect every template (including long-form blog posts)
+           from intrinsic-width overflow while preserving intentional carousels. */
+        *, *::before, *::after { box-sizing: border-box; }
+        html { overflow-x: clip; -webkit-text-size-adjust: 100%; }
+        body { min-width: 320px; overflow-x: clip; }
+        img, video, canvas, svg { max-width: 100%; }
+        img, video { height: auto; }
+        iframe { max-width: 100%; }
+        main, section, article, aside, header, footer, nav, form,
+        .grid, .flex { min-width: 0; }
+        h1, h2, h3, h4, p, li, a, td, th, label {
+            overflow-wrap: break-word;
+        }
+        table { border-collapse: collapse; }
+        .overflow-x-auto {
+            max-width: 100%;
+            overscroll-behavior-inline: contain;
+            -webkit-overflow-scrolling: touch;
+        }
+        input, select, textarea, button { max-width: 100%; }
+
+        @media (max-width: 1023px) {
+            .site-header nav { gap: 0.75rem; }
+            .site-header nav > a img { width: auto; height: 3rem; }
+            .mobile-drawer {
+                width: min(92vw, 400px);
+                height: 100dvh;
+                max-height: 100dvh;
+            }
+        }
+
+        @media (max-width: 767px) {
+            body { padding-bottom: calc(72px + env(safe-area-inset-bottom)); }
+            body.sub-page section:first-of-type,
+            body.sub-page main > section:first-of-type {
+                padding-top: 92px !important;
+            }
+            section[class*="py-16"], section[class*="py-20"], section[class*="py-24"] {
+                padding-top: 3.5rem;
+                padding-bottom: 3.5rem;
+            }
+            article[class*="p-8"], article[class*="p-10"], article[class*="p-12"] {
+                padding: 1.25rem;
+                border-radius: 1rem;
+            }
+            .prose { font-size: 1rem; line-height: 1.75; }
+            .prose h2 { line-height: 1.25; }
+            .prose h3 { line-height: 1.35; }
+            .prose ul, .prose ol { padding-left: 1.25rem; }
+            .prose pre { max-width: 100%; overflow-x: auto; }
+            input:not([type="checkbox"]):not([type="radio"]), select, textarea {
+                font-size: 16px;
+            }
+            button, a { touch-action: manipulation; }
+        }
+
+        @media (max-width: 479px) {
+            .site-header > div { padding-left: 0.75rem; padding-right: 0.75rem; }
+            .site-header nav > a img { height: 2.65rem; max-width: 190px; object-fit: contain; }
+            .mobile-drawer { width: 100%; }
+            .mobile-link { padding: 0.85rem 1rem; }
+            h1 { hyphens: auto; }
+        }
     </style>
 </head>
 <body class="bg-white text-slate-800 antialiased <?= ($is_home ?? false) ? 'home-page' : 'sub-page' ?>">
@@ -706,7 +771,7 @@ $schema_payload = ['@context' => 'https://schema.org', '@graph' => $graph];
 
             <!-- LOGO -->
             <a href="<?= $base_path ?>" class="flex items-center shrink-0">
-                <img src="<?= $base_path ?>assets/logo/herniacare-final-logo.png" alt="Dr. Kumar" width="260" height="70" class="h-20 w-auto">
+                <img src="<?= $base_path ?>assets/logo/herniacare-final-logo.png" alt="Dr. Kumar of Billroth Hospitals" width="260" height="70" class="h-20 w-auto">
             </a>
 
             <!-- DESKTOP NAV -->

@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Umbilical Hernia Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Umbilical hernia treatment in Chennai by Dr. Kumar at Billroth Hospitals. Keyhole belly button hernia repair with mesh and a quick return to work life.';
+$page_title = 'Umbilical Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Umbilical hernia treatment in Chennai by Dr. Kumar of Billroth Hospitals. Keyhole belly button hernia repair with mesh and a quick return to work life.';
 $page_url = 'https://herniacare360.com/my_types/umbilical-hernia-treatment-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -51,7 +51,7 @@ require __DIR__ . '/../includes/header.php';
                     An umbilical hernia occurs when part of the intestine or abdominal tissue pushes through the abdominal wall near the belly button (umbilicus). It appears as a bulge at or near the navel.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8 text-base">
-                    Common in infants, but also affects adults, especially women, particularly after pregnancy, weight gain, or previous surgery. Dr. Kumar offers both mesh and non-mesh repair options. Dr Kumar- Billroth has experience of more than 4000+ umbilical Hernia Surgeries making him a true Umbilical Hernia Specialist.
+                    Common in infants, but also affects adults, especially women, particularly after pregnancy, weight gain, or previous surgery. Dr. Kumar of Billroth Hospitals offers both mesh and non-mesh repair options. Dr. Kumar of Billroth Hospitals- Billroth has experience of more than 4000+ umbilical Hernia Surgeries making him a true Umbilical Hernia Specialist.
                 </p>
                 <div class="flex flex-wrap gap-3 mb-8">
                     <span class="px-4 py-2 bg-brand-100 text-brand-800 rounded-full text-sm font-medium">Daycare Available</span>
@@ -182,12 +182,12 @@ require __DIR__ . '/../includes/header.php';
     <div class="max-w-7xl mx-auto px-4">
         <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">Why Dr. Kumar</span>
+                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">Why Dr. Kumar of Billroth Hospitals</span>
                 <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mt-3 mb-6">
                     Expert Care for Umbilical Hernia
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-8 text-lg">
-                    With extensive experience in umbilical hernia repair, Dr. Kumar provides personalized treatment plans with excellent outcomes. Most procedures can be done as daycare surgery.
+                    With extensive experience in umbilical hernia repair, Dr. Kumar of Billroth Hospitals provides personalized treatment plans with excellent outcomes. Most procedures can be done as daycare surgery.
                 </p>
                 <div class="space-y-4">
                     <div class="flex items-start gap-4">
@@ -255,7 +255,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss Your Treatment?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar today for a comprehensive evaluation of your condition.
+            Book an appointment with Dr. Kumar of Billroth Hospitals today for a comprehensive evaluation of your condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -267,7 +267,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -290,10 +290,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Umbilical Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Umbilical Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -367,7 +367,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>my_types/recurrent-hernia" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">
@@ -392,7 +392,7 @@ require __DIR__ . '/../includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 leading-tight">
                 What Our Patients Say
             </h2>
-            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Umbilical Hernia treatment with Dr. Kumar.</p>
+            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Umbilical Hernia treatment with Dr. Kumar of Billroth Hospitals.</p>
         </div>
     </div>
 
@@ -417,7 +417,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I developed an umbilical hernia after my pregnancy. I was conscious of the bulge, but I consulted Dr. Kumar, the best Umbilical Hernia Treatment Doctor in Chennai. He performed a daycare laparoscopic repair. The cosmetic result is perfect, and my belly button looks normal again. Excellent doctor!"
+                            "I developed an umbilical hernia after my pregnancy. I was conscious of the bulge, but I consulted Dr. Kumar of Billroth Hospitals, the best Umbilical Hernia Treatment Doctor in Chennai. He performed a daycare laparoscopic repair. The cosmetic result is perfect, and my belly button looks normal again. Excellent doctor!"
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -441,7 +441,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "A belly button hernia due to heavy lifting was causing constant pain. I chose Dr. Kumar, a top belly button hernia specialist, who performed my Umbilical Hernia treatment in Chennai. Highly professional care, was back to office work in just 4 days."
+                            "A belly button hernia due to heavy lifting was causing constant pain. I chose Dr. Kumar of Billroth Hospitals, a top belly button hernia specialist, who performed my Umbilical Hernia treatment in Chennai. Highly professional care, was back to office work in just 4 days."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -465,7 +465,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a small navel hernia. Dr. Kumar suggested a suture-only (meshless) repair because the defect was minimal. It is rare to find surgeons who don't push for unnecessary procedures. Very honest and skilled."
+                            "I had a small navel hernia. Dr. Kumar of Billroth Hospitals suggested a suture-only (meshless) repair because the defect was minimal. It is rare to find surgeons who don't push for unnecessary procedures. Very honest and skilled."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -489,7 +489,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had persistent discomfort near my belly button. Dr. Kumar performed a robotic navel hernia repair with 3D mesh. The technology is amazing, and the healing was incredibly fast. Thanks to the whole team."
+                            "I had persistent discomfort near my belly button. Dr. Kumar of Billroth Hospitals performed a robotic navel hernia repair with 3D mesh. The technology is amazing, and the healing was incredibly fast. Thanks to the whole team."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -513,7 +513,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "At 52, I was quite anxious about surgery for my umbilical hernia. Dr. Kumar explained the daycare procedure and put me at complete ease. Excellent pre-op and post-op care."
+                            "At 52, I was quite anxious about surgery for my umbilical hernia. Dr. Kumar of Billroth Hospitals explained the daycare procedure and put me at complete ease. Excellent pre-op and post-op care."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -537,7 +537,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Seamless experience from admission to discharge. Dr. Kumar's keyhole navel hernia repair is practically painless, and the scars are minimal. The staff helped a lot with fast insurance approval."
+                            "Seamless experience from admission to discharge. Dr. Kumar of Billroth Hospitals&rsquo; keyhole navel hernia repair is practically painless, and the scars are minimal. The staff helped a lot with fast insurance approval."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -561,7 +561,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Outstanding surgery results. The belly button bulge is completely gone and there is no discomfort now. I am very happy I consulted Dr. Kumar for my umbilical hernia."
+                            "Outstanding surgery results. The belly button bulge is completely gone and there is no discomfort now. I am very happy I consulted Dr. Kumar of Billroth Hospitals for my umbilical hernia."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -588,7 +588,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I developed an umbilical hernia after my pregnancy. I was conscious of the bulge, but Dr. Kumar performed a daycare laparoscopic repair. The cosmetic result is perfect, and my belly button looks normal again. Excellent doctor!"
+                            "I developed an umbilical hernia after my pregnancy. I was conscious of the bulge, but Dr. Kumar of Billroth Hospitals performed a daycare laparoscopic repair. The cosmetic result is perfect, and my belly button looks normal again. Excellent doctor!"
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -612,7 +612,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "A belly button hernia due to heavy lifting was causing constant pain. Dr. Kumar performed a daycare mesh repair. Highly professional care, was back to office work in just 4 days. Highly recommend his services."
+                            "A belly button hernia due to heavy lifting was causing constant pain. Dr. Kumar of Billroth Hospitals performed a daycare mesh repair. Highly professional care, was back to office work in just 4 days. Highly recommend his services."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -636,7 +636,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a small navel hernia. Dr. Kumar suggested a suture-only (meshless) repair because the defect was minimal. It is rare to find surgeons who don't push for unnecessary procedures. Very honest and skilled."
+                            "I had a small navel hernia. Dr. Kumar of Billroth Hospitals suggested a suture-only (meshless) repair because the defect was minimal. It is rare to find surgeons who don't push for unnecessary procedures. Very honest and skilled."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -660,7 +660,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had persistent discomfort near my belly button. Dr. Kumar performed a robotic navel hernia repair with 3D mesh. The technology is amazing, and the healing was incredibly fast. Thanks to the whole team."
+                            "I had persistent discomfort near my belly button. Dr. Kumar of Billroth Hospitals performed a robotic navel hernia repair with 3D mesh. The technology is amazing, and the healing was incredibly fast. Thanks to the whole team."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -684,7 +684,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "At 52, I was quite anxious about surgery for my umbilical hernia. Dr. Kumar explained the daycare procedure and put me at complete ease. Excellent pre-op and post-op care."
+                            "At 52, I was quite anxious about surgery for my umbilical hernia. Dr. Kumar of Billroth Hospitals explained the daycare procedure and put me at complete ease. Excellent pre-op and post-op care."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -708,7 +708,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Seamless experience from admission to discharge. Dr. Kumar's keyhole navel hernia repair is practically painless, and the scars are minimal. The staff helped a lot with fast insurance approval."
+                            "Seamless experience from admission to discharge. Dr. Kumar of Billroth Hospitals&rsquo; keyhole navel hernia repair is practically painless, and the scars are minimal. The staff helped a lot with fast insurance approval."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -732,7 +732,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Outstanding surgery results. The belly button bulge is completely gone and there is no discomfort now. I am very happy I consulted Dr. Kumar for my umbilical hernia."
+                            "Outstanding surgery results. The belly button bulge is completely gone and there is no discomfort now. I am very happy I consulted Dr. Kumar of Billroth Hospitals for my umbilical hernia."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">

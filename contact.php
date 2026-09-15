@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Contact Dr. Kumar | Hernia Surgeon, Shenoy Nagar Chennai';
-$page_description = 'Contact Dr. Kumar at Billroth Hospitals, 505 OP Block, Gajapathy Street, Shenoy Nagar, Chennai 600030. Call, message or book a hernia consultation online.';
+$page_title = 'Contact Dr. Kumar of Billroth Hospitals | Hernia Surgeon, Shenoy Nagar Chennai';
+$page_description = 'Contact Dr. Kumar of Billroth Hospitals, 505 OP Block, Gajapathy Street, Shenoy Nagar, Chennai 600030. Call, message or book a hernia consultation online.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -247,7 +247,7 @@ require __DIR__ . '/includes/header.php';
                     <svg class="w-5 h-5 text-slate-400 shrink-0 faq-icon transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                 </button>
                 <div id="faq3" class="hidden px-6 pb-5">
-                    <p class="text-slate-600 text-sm leading-relaxed">Yes, we accept most major health insurance providers. Please contact our office to verify coverage for your specific procedure. We also offer flexible payment options for non-insured patients.</p>
+                    <p class="text-slate-600 text-sm leading-relaxed">Yes. Accepted networks include Star Health, Care Health, HDFC ERGO, ICICI Lombard, Niva Bupa, Bajaj Allianz, Tata AIG, ManipalCigna, major TPAs, and government/PSU insurers. Please contact us to verify network status, cashless eligibility, and coverage for your procedure.</p>
                 </div>
             </div>
 

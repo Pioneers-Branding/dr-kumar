@@ -1,6 +1,6 @@
 <?php
-$page_title = 'TAPP Hernia Repair in Chennai | Dr. Kumar Billroth';
-$page_description = 'TAPP hernia repair in Chennai by Dr. Kumar. How this laparoscopic approach works from inside the abdomen, and when it is chosen instead of a TEP repair.';
+$page_title = 'TAPP Hernia Repair in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'TAPP hernia repair in Chennai by Dr. Kumar of Billroth Hospitals. How this laparoscopic approach works from inside the abdomen, and when it is chosen instead of a TEP repair.';
 $page_url = 'https://herniacare360.com/treatment/tapp-repair-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -38,7 +38,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Repair in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Transabdominal Preperitoneal (TAPP) repair is a highly versatile laparoscopic hernia surgery in Chennai. Consult Dr. Kumar, the leading hernia specialist in Chennai, for expert TAPP repair.
+                Transabdominal Preperitoneal (TAPP) repair is a highly versatile laparoscopic hernia surgery in Chennai. Consult Dr. Kumar of Billroth Hospitals, the leading hernia specialist in Chennai, for expert TAPP repair.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#what-is-tapp" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -352,7 +352,7 @@ require __DIR__ . '/../includes/header.php';
         <div class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
             <div class="flex flex-col md:flex-row items-center gap-8">
                 <div class="flex-1">
-                    <h3 class="text-xl font-bold text-slate-900 mb-4">When to Contact Dr. Kumar</h3>
+                    <h3 class="text-xl font-bold text-slate-900 mb-4">When to Contact Dr. Kumar of Billroth Hospitals</h3>
                     <div class="grid md:grid-cols-2 gap-4">
                         <div class="flex items-center gap-3">
                             <span class="text-red-500 font-bold">⚠</span>
@@ -407,7 +407,7 @@ require __DIR__ . '/../includes/header.php';
 
                 <div class="faq-item bg-brand-50/60 hover:bg-brand-100/60 rounded-2xl overflow-hidden transition-all duration-300 border border-brand-100/20">
                     <button class="faq-toggle w-full px-6 py-5 text-left flex items-center justify-between gap-4 select-none focus:outline-none">
-                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug">When does Dr. Kumar prefer TAPP over TEP repair?</span>
+                        <span class="font-display font-bold text-slate-900 text-base md:text-lg leading-snug">When does Dr. Kumar of Billroth Hospitals prefer TAPP over TEP repair?</span>
                         <span class="faq-symbol text-2xl font-light bg-white text-brand-700 w-8 h-8 rounded-full flex items-center justify-center shrink-0 shadow-sm">+</span>
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
@@ -496,7 +496,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss TAPP Repair?
         </h2>
         <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar will evaluate your condition and recommend the most appropriate surgical technique for your specific needs.
+            Dr. Kumar of Billroth Hospitals will evaluate your condition and recommend the most appropriate surgical technique for your specific needs.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition hover:scale-105 shadow-lg shadow-accent/20">
@@ -511,7 +511,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

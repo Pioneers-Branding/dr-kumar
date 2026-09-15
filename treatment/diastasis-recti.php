@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Diastasis Recti Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Diastasis recti repair in Chennai. Dr. Kumar explains the symptoms, how it differs from a hernia, and the SCOLA and robotic plication techniques used.';
-$page_keywords = 'diastasis recti Chennai, divarication of recti, abdominal muscle separation, SCOLA surgery Chennai, rectus plication, tummy tuck, Dr. Kumar Billroth Hospitals';
+$page_title = 'Diastasis Recti Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Diastasis recti repair in Chennai. Dr. Kumar of Billroth Hospitals explains the symptoms, how it differs from a hernia, and the SCOLA and robotic plication techniques used.';
+$page_keywords = 'diastasis recti Chennai, divarication of recti, abdominal muscle separation, SCOLA surgery Chennai, rectus plication, tummy tuck, Dr. Kumar of Billroth Hospitals';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -38,7 +38,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">(Divarication of Recti)</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Dr. Kumar offers Comprehensive recovery for abdominal muscle separation and expert treatment (Diastasis of Recti). Divarication of Recti Correction in Chennai. Restore your core support, relieve persistent back pain, and regain abdominal wall function.
+                Dr. Kumar of Billroth Hospitals offers Comprehensive recovery for abdominal muscle separation and expert treatment (Diastasis of Recti). Divarication of Recti Correction in Chennai. Restore your core support, relieve persistent back pain, and regain abdominal wall function.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#what-is" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -251,7 +251,7 @@ require __DIR__ . '/../includes/header.php';
                 </button>
                 <div class="faq-content hidden px-6 pb-6 text-slate-600 leading-relaxed">
                     <div class="h-px bg-slate-200 mb-4"></div>
-                    <p>Yes. Because the central fascia is thin and weak, umbilical or epigastric hernias often develop alongside it. Dr. Kumar repairs the diastasis and the hernia in one operation.</p>
+                    <p>Yes. Because the central fascia is thin and weak, umbilical or epigastric hernias often develop alongside it. Dr. Kumar of Billroth Hospitals repairs the diastasis and the hernia in one operation.</p>
                 </div>
             </div>
 
@@ -287,7 +287,7 @@ require __DIR__ . '/../includes/header.php';
             Reclaim Your Core Strength &amp; Stability
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Consult Dr. Kumar in Chennai for a personalized evaluation of your abdominal separation. Get an accurate diagnostic check and review customized repair solutions.
+            Consult Dr. Kumar of Billroth Hospitals in Chennai for a personalized evaluation of your abdominal separation. Get an accurate diagnostic check and review customized repair solutions.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

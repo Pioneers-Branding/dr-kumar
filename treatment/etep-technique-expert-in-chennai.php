@@ -1,6 +1,6 @@
 <?php
-$page_title = 'eTEP Hernia Repair in Chennai | Dr. Kumar Billroth Hospitals';
-$page_description = 'Seeking eTEP Hernia Repair in Chennai? Consult Dr. Kumar Billroth Hospitals, a top laparoscopic hernia surgeon for advanced, minimally invasive eTEP repair.';
+$page_title = 'eTEP Hernia Repair in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Seeking eTEP Hernia Repair in Chennai? Consult Dr. Kumar of Billroth Hospitals, a top laparoscopic hernia surgeon for advanced, minimally invasive eTEP repair.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -284,7 +284,7 @@ require __DIR__ . '/../includes/header.php';
                     <div>
                         <h4 class="font-bold text-slate-900 text-sm mb-1">Clinical Expertise Matters</h4>
                         <p class="text-xs text-slate-655 leading-relaxed font-medium">
-                            eTEP is technically demanding and requires advanced, specialized training. Dr. Kumar has extensive experience in complex abdominal wall reconstruction.
+                            eTEP is technically demanding and requires advanced, specialized training. Dr. Kumar of Billroth Hospitals has extensive experience in complex abdominal wall reconstruction.
                         </p>
                     </div>
                 </div>
@@ -344,7 +344,7 @@ require __DIR__ . '/../includes/header.php';
                         <li class="flex items-start gap-2"><span>✓</span> Wear your fitted abdominal binder support belt continuously as directed (usually 4 to 6 weeks).</li>
                         <li class="flex items-start gap-2"><span>✓</span> Sleep with your chest elevated slightly to relieve core abdominal skin tension.</li>
                         <li class="flex items-start gap-2"><span>✓</span> Maintain a healthy, fiber-rich diet to promote smooth digestion and avoid core strain.</li>
-                        <li class="flex items-start gap-2"><span>✓</span> Attend your planned clinical follow-ups with Dr. Kumar to verify healing.</li>
+                        <li class="flex items-start gap-2"><span>✓</span> Attend your planned clinical follow-ups with Dr. Kumar of Billroth Hospitals to verify healing.</li>
                     </ul>
                 </div>
                 <div>
@@ -457,7 +457,7 @@ require __DIR__ . '/../includes/header.php';
             Do You Have a Complex Hernia?
         </h2>
         <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar specializes in advanced hernia reconstruction including eTEP. If you've been told your hernia is too complex, schedule an expert evaluation.
+            Dr. Kumar of Billroth Hospitals specializes in advanced hernia reconstruction including eTEP. If you've been told your hernia is too complex, schedule an expert evaluation.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition hover:scale-105 shadow-lg shadow-accent/20">
@@ -472,7 +472,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

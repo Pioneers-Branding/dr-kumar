@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Strangulated Hernia Surgery in Chennai | 24/7 Emergency';
-$page_description = 'Suspect a strangulated hernia? Dr. Kumar provides emergency hernia surgery in Chennai around the clock. Call now if the bulge is hard, dark and painful.';
+$page_description = 'Suspect a strangulated hernia? Dr. Kumar of Billroth Hospitals provides emergency hernia surgery in Chennai around the clock. Call now if the bulge is hard, dark and painful.';
 $page_url = 'https://herniacare360.com/my_types/strangulated-hernia-surgery-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -26,7 +26,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-red-400">Surgery in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get prompt, emergency strangulated hernia surgery in Chennai from Dr. Kumar, the leading hernia specialist in Chennai. Immediate minimally invasive or open surgical care is available 24/7 to treat compromised hernia tissue.
+                Get prompt, emergency strangulated hernia surgery in Chennai from Dr. Kumar of Billroth Hospitals, the leading hernia specialist in Chennai. Immediate minimally invasive or open surgical care is available 24/7 to treat compromised hernia tissue.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-red-500 hover:bg-red-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg hover:scale-105">
@@ -211,7 +211,7 @@ require __DIR__ . '/../includes/header.php';
         </div>
         <div>
             <h3 class="font-bold text-lg text-red-900 mb-1">Strangulated Hernia, A Surgical Emergency</h3>
-            <p class="text-red-800 text-sm leading-relaxed">A strangulated hernia cuts off blood supply to the trapped tissue and requires immediate surgical intervention to prevent tissue death. Dr. Kumar performs emergency hernia repair with the same minimally invasive expertise as planned cases, when clinically appropriate.</p>
+            <p class="text-red-800 text-sm leading-relaxed">A strangulated hernia cuts off blood supply to the trapped tissue and requires immediate surgical intervention to prevent tissue death. Dr. Kumar of Billroth Hospitals performs emergency hernia repair with the same minimally invasive expertise as planned cases, when clinically appropriate.</p>
         </div>
     </div>
 </section>
@@ -291,7 +291,7 @@ require __DIR__ . '/../includes/header.php';
                     Emergency Care Available
                 </h2>
                 <p class="text-slate-600 text-lg">
-                    If you suspect a strangulated hernia, seek immediate medical attention. Dr. Kumar's team is available for emergency consultations.
+                    If you suspect a strangulated hernia, seek immediate medical attention. Dr. Kumar of Billroth Hospitals&rsquo; team is available for emergency consultations.
                 </p>
             </div>
             <div class="grid md:grid-cols-3 gap-8 text-center">
@@ -322,7 +322,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -345,10 +345,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Strangulated Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Strangulated Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Open</strong> approaches are standard for emergency cases. <strong>Robotic</strong> repair is reserved for select complex scenarios.
             </p>
         </div>
@@ -369,7 +369,7 @@ require __DIR__ . '/../includes/header.php';
                     Minimally Invasive · Keyhole Surgery
                 </p>
                 <p class="text-slate-100 text-sm leading-relaxed mb-6">
-                    When the patient is stable and there are no contraindications, Dr. Kumar prefers <strong>laparoscopic</strong> emergency repair of strangulated hernias. 3 tiny incisions allow inspection of the bowel viability, release of the constriction, mesh repair, and bowel resection (if needed), all through the same keyhole access.
+                    When the patient is stable and there are no contraindications, Dr. Kumar of Billroth Hospitals prefers <strong>laparoscopic</strong> emergency repair of strangulated hernias. 3 tiny incisions allow inspection of the bowel viability, release of the constriction, mesh repair, and bowel resection (if needed), all through the same keyhole access.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-100">
                     <li class="flex gap-2"><span class="text-accent">✓</span> Inspects bowel viability</li>
@@ -422,7 +422,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>special-considerations/complex-hernia-info" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">
@@ -499,7 +499,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes. When the patient is stable and reaches hospital early, Dr. Kumar can operate laparoscopically or robotically, inspecting the bowel, releasing the constriction and placing mesh through keyhole incisions.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes. When the patient is stable and reaches hospital early, Dr. Kumar of Billroth Hospitals can operate laparoscopically or robotically, inspecting the bowel, releasing the constriction and placing mesh through keyhole incisions.</p>
                     </div>
                 </div>
 

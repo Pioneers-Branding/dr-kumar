@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Hernia Complications and Risks | Dr. Kumar, Chennai';
+$page_title = 'Hernia Complications and Risks | Dr. Kumar of Billroth Hospitals, Chennai';
 $page_description = 'What can go wrong with an untreated hernia, including incarceration, bowel obstruction and strangulation, and the warning signs that need urgent care.';
 require __DIR__ . '/../includes/header.php';
 ?>

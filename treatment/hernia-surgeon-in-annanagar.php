@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Anna Nagar, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Anna Nagar patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. One metro stop from Anna Nagar East. Book a consultation today.';
-$page_keywords    = 'hernia surgeon in Anna Nagar, hernia treatment Anna Nagar Chennai, hernia specialist near Anna Nagar, laparoscopic hernia surgery Anna Nagar, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Anna Nagar, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Anna Nagar patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. One metro stop from Anna Nagar East. Book a consultation today.';
+$page_keywords    = 'hernia surgeon in Anna Nagar, hernia treatment Anna Nagar Chennai, hernia specialist near Anna Nagar, laparoscopic hernia surgery Anna Nagar, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-annanagar';
 
 // This page serves the Anna Nagar catchment. The medical depth lives on the Chennai
@@ -9,7 +9,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-annan
 // than restated here, so each neighborhood page stays genuinely about its own area.
 $faqs = [
     ['q' => 'Which metro station should I use from Anna Nagar?', 'a' => 'Take the Green Line from Anna Nagar East or Anna Nagar Tower toward Chennai Central and get down at Shenoy Nagar, the station closest to the hospital.'],
-    ['q' => 'Is there a hernia specialist closer than Shenoy Nagar?', 'a' => 'There are general surgeons nearer, but Dr. Kumar is a dedicated hernia and abdominal wall specialist with 29 years of practice, which matters for complex or recurrent repairs.'],
+    ['q' => 'Is there a hernia specialist closer than Shenoy Nagar?', 'a' => 'There are general surgeons nearer, but Dr. Kumar of Billroth Hospitals is a dedicated hernia and abdominal wall specialist with 29 years of practice, which matters for complex or recurrent repairs.'],
     ['q' => 'Can Anna Nagar patients get same-day discharge?', 'a' => 'Most keyhole hernia repairs are day-care procedures, so patients living this close to the hospital usually go home the same evening with someone accompanying them.'],
 ];
 
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Anna Nagar and the surrounding areas of Anna Nagar East, Anna Nagar West, Tower Park, the Roundtana and Shanthi Colony.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Anna Nagar and the surrounding areas of Anna Nagar East, Anna Nagar West, Tower Park, the Roundtana and Shanthi Colony.
                         </p>
                     </div>
 
@@ -71,7 +71,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Anna Nagar Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Anna Nagar, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Anna Nagar, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

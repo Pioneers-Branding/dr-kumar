@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Treatments and Procedures | Dr. Kumar, Chennai';
-$page_description = 'Laparoscopic, robotic and open hernia repair, mesh techniques and abdominal wall reconstruction, all performed by Dr. Kumar at Billroth Hospitals, Chennai.';
+$page_title = 'Hernia Treatments and Procedures | Dr. Kumar of Billroth Hospitals, Chennai';
+$page_description = 'Laparoscopic, robotic and open hernia repair, mesh techniques and abdominal wall reconstruction, all performed by Dr. Kumar of Billroth Hospitals, Chennai.';
 $page_keywords = 'hernia treatments Chennai, laparoscopic surgery, robotic hernia repair, abdominal wall reconstruction, diastasis recti repair, SCOLA, eTEP, TAPP, TEP';
 require __DIR__ . '/includes/header.php';
 ?>
@@ -29,7 +29,7 @@ require __DIR__ . '/includes/header.php';
                 <span class="text-accent">Treatments &amp; Techniques</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Chennai's leading center for minimally invasive and complex abdominal wall repairs. Under the direction of Dr. Kumar, we combine robotic precision and decades of surgical mastery to achieve durable, patient-first results.
+                Chennai's leading center for minimally invasive and complex abdominal wall repairs. Under the direction of Dr. Kumar of Billroth Hospitals, we combine robotic precision and decades of surgical mastery to achieve durable, patient-first results.
             </p>
         </div>
     </div>
@@ -238,7 +238,7 @@ require __DIR__ . '/includes/header.php';
             Need an Expert Assessment?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Discuss your condition with Dr. Kumar. Receive an accurate diagnosis, customized surgical options, and a comprehensive care roadmap.
+            Discuss your condition with Dr. Kumar of Billroth Hospitals. Receive an accurate diagnosis, customized surgical options, and a comprehensive care roadmap.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

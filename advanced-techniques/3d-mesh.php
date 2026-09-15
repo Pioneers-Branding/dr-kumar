@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Advanced 3D Mesh for Hernia Repair | Dr. Kumar Chennai';
-$page_description = 'How anatomically contoured 3D mesh works in hernia repair, why its shape reduces pain and recurrence, and when Dr. Kumar would choose it over a flat mesh.';
+$page_title = 'Advanced 3D Mesh for Hernia Repair | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'How anatomically contoured 3D mesh works in hernia repair, why its shape reduces pain and recurrence, and when Dr. Kumar of Billroth Hospitals would choose it over a flat mesh.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -185,7 +185,7 @@ require __DIR__ . '/../includes/header.php';
                         <div class="w-10 h-10 bg-brand-600 text-white rounded-xl flex items-center justify-center font-bold flex-shrink-0 shadow-md">1</div>
                         <div>
                             <h4 class="font-semibold text-slate-800 mb-1">Placement</h4>
-                            <p class="text-slate-600 text-sm">Dr. Kumar positions the 3D mesh in the pre-peritoneal space, exactly where it provides maximum support.</p>
+                            <p class="text-slate-600 text-sm">Dr. Kumar of Billroth Hospitals positions the 3D mesh in the pre-peritoneal space, exactly where it provides maximum support.</p>
                         </div>
                     </div>
                     <div class="flex gap-4 items-start p-4 bg-brand-50/50 rounded-2xl border border-brand-100 hover:shadow-md transition">
@@ -372,7 +372,7 @@ require __DIR__ . '/../includes/header.php';
             Is 3D Mesh Right for Your Hernia?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar will evaluate your case and recommend the best mesh option for your specific situation.
+            Dr. Kumar of Billroth Hospitals will evaluate your case and recommend the best mesh option for your specific situation.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -388,7 +388,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

@@ -1,7 +1,7 @@
 <?php
-$page_title = 'Hernia Surgery with COPD or Chronic Cough | Dr. Kumar';
-$page_description = 'A chronic cough raises abdominal pressure and threatens a hernia repair. How Dr. Kumar optimizes patients with COPD or asthma before and after surgery.';
-$page_keywords = 'hernia surgery chronic cough, COPD hernia repair, asthma hernia surgery, intra-abdominal pressure hernia, hernia recurrence coughing Chennai, Dr. Kumar Billroth Hospitals';
+$page_title = 'Hernia Surgery with COPD or Chronic Cough | Dr. Kumar of Billroth Hospitals';
+$page_description = 'A chronic cough raises abdominal pressure and threatens a hernia repair. How Dr. Kumar of Billroth Hospitals optimizes patients with COPD or asthma before and after surgery.';
+$page_keywords = 'hernia surgery chronic cough, COPD hernia repair, asthma hernia surgery, intra-abdominal pressure hernia, hernia recurrence coughing Chennai, Dr. Kumar of Billroth Hospitals';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -220,7 +220,7 @@ require __DIR__ . '/../includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold mb-4">
                 How We Customize Surgery for Respiratory Patients
             </h2>
-            <p class="text-slate-300 text-lg">Dr. Kumar employs specialized techniques to protect repairs in patients with high chronic airway pressure.</p>
+            <p class="text-slate-300 text-lg">Dr. Kumar of Billroth Hospitals employs specialized techniques to protect repairs in patients with high chronic airway pressure.</p>
         </div>
 
         <div class="grid lg:grid-cols-2 gap-12 items-center">
@@ -433,7 +433,7 @@ require __DIR__ . '/../includes/header.php';
                         <svg class="w-5 h-5 text-brand-700 shrink-0 group-open:rotate-180 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                     </summary>
                     <div class="px-6 pb-6 text-slate-600 leading-relaxed">
-                        <p>Generally, patients with chronic cough or COPD are advised to wear a supportive abdominal binder for 6 to 8 weeks post-surgery. It should be worn during all daytime activities, walking, and standing, but can be loosened or removed when sleeping, as directed by Dr. Kumar.</p>
+                        <p>Generally, patients with chronic cough or COPD are advised to wear a supportive abdominal binder for 6 to 8 weeks post-surgery. It should be worn during all daytime activities, walking, and standing, but can be loosened or removed when sleeping, as directed by Dr. Kumar of Billroth Hospitals.</p>
                     </div>
                 </details>
             </div>
@@ -448,7 +448,7 @@ require __DIR__ . '/../includes/header.php';
             Do You Need a Hernia Repair While Managing a Chronic Cough?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar. Receive an individualized care plan featuring close collaboration with respiratory specialists and advanced, high-durability surgical techniques.
+            Book an appointment with Dr. Kumar of Billroth Hospitals. Receive an individualized care plan featuring close collaboration with respiratory specialists and advanced, high-durability surgical techniques.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

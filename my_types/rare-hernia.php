@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Rare and Complex Hernia Treatment in Chennai | Dr. Kumar';
-$page_description = 'Specialist diagnosis and repair of rare hernias in Chennai, including Spigelian, obturator, lumbar and internal types, by Dr. Kumar at Billroth Hospitals.';
+$page_title = 'Rare and Complex Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Specialist diagnosis and repair of rare hernias in Chennai, including Spigelian, obturator, lumbar and internal types, by Dr. Kumar of Billroth Hospitals.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -52,7 +52,7 @@ require __DIR__ . '/../includes/header.php';
                     While inguinal, umbilical, and incisional hernias account for the vast majority of abdominal wall hernias, several rarer types occur in specific anatomical sites and present unique diagnostic and surgical challenges.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8 text-base">
-                    Because these hernias are uncommon, they are frequently misdiagnosed or overlooked. Dr. Kumar has particular expertise in recognizing and repairing these rare presentations, including epigastric, supraumbilical, lumbar, spigelian, and diaphragmatic hernias.
+                    Because these hernias are uncommon, they are frequently misdiagnosed or overlooked. Dr. Kumar of Billroth Hospitals has particular expertise in recognizing and repairing these rare presentations, including epigastric, supraumbilical, lumbar, spigelian, and diaphragmatic hernias.
                 </p>
 
                 <div class="border-t border-slate-200/80 pt-8">
@@ -118,7 +118,7 @@ require __DIR__ . '/../includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
                 The Five <span class="text-brand-700">Rare Hernia Types</span>
             </h2>
-            <p class="text-slate-600 text-lg">A concise guide to the rare hernia types Dr. Kumar diagnoses and repairs.</p>
+            <p class="text-slate-600 text-lg">A concise guide to the rare hernia types Dr. Kumar of Billroth Hospitals diagnoses and repairs.</p>
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -360,7 +360,7 @@ require __DIR__ . '/../includes/header.php';
             Unexplained Pain or an Unusual Bulge?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar for an accurate diagnosis and a tailored surgical plan for any uncommon hernia presentation.
+            Book an appointment with Dr. Kumar of Billroth Hospitals for an accurate diagnosis and a tailored surgical plan for any uncommon hernia presentation.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -372,7 +372,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -395,10 +395,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Rare Hernias</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Rare Hernias</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -419,7 +419,7 @@ require __DIR__ . '/../includes/header.php';
                     Minimally Invasive · Keyhole Surgery
                 </p>
                 <p class="text-slate-100 text-sm leading-relaxed mb-6">
-                    For most rare hernias (Spigelian, lumbar, supraumbilical, obturator), Dr. Kumar's preferred approach is <strong>laparoscopic</strong>, typically <strong>TEP</strong> or <strong>TAPP</strong>. Keyhole access allows inspection of the <strong>entire abdominal wall</strong>, detecting occult defects that single-incision open surgery would miss, with wide mesh overlap for a durable repair.
+                    For most rare hernias (Spigelian, lumbar, supraumbilical, obturator), Dr. Kumar of Billroth Hospitals&rsquo; preferred approach is <strong>laparoscopic</strong>, typically <strong>TEP</strong> or <strong>TAPP</strong>. Keyhole access allows inspection of the <strong>entire abdominal wall</strong>, detecting occult defects that single-incision open surgery would miss, with wide mesh overlap for a durable repair.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-100">
                     <li class="flex gap-2"><span class="text-accent">✓</span> Inspects entire abdominal wall</li>
@@ -472,7 +472,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>treatment/etep-technique-expert-in-chennai" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">

@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia Surgery for Elderly Patients | Dr. Kumar Chennai';
-$page_description = 'Age alone rarely rules out hernia repair. How Dr. Kumar assesses fitness for anesthesia and plans safer, minimally invasive surgery for older patients.';
+$page_title = 'Hernia Surgery for Elderly Patients | Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'Age alone rarely rules out hernia repair. How Dr. Kumar of Billroth Hospitals assesses fitness for anesthesia and plans safer, minimally invasive surgery for older patients.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -106,7 +106,7 @@ require __DIR__ . '/../includes/header.php';
 
                     <div class="mt-4 p-4 bg-brand-50 rounded-xl border border-brand-100">
                         <p class="text-sm text-brand-800 font-medium">
-                            <strong>Dr. Kumar's Approach:</strong> Every elderly patient undergoes thorough cardiac, pulmonary, and functional assessment before surgery to ensure maximum safety.
+                            <strong>Dr. Kumar of Billroth Hospitals&rsquo; Approach:</strong> Every elderly patient undergoes thorough cardiac, pulmonary, and functional assessment before surgery to ensure maximum safety.
                         </p>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ require __DIR__ . '/../includes/header.php';
                     <div>
                         <h4 class="font-semibold text-slate-900 text-lg mb-2">Cardiovascular Considerations</h4>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Age-related cardiovascular changes require careful evaluation. Dr. Kumar works with cardiologists to optimize heart health before surgery, ensuring safe anesthesia and recovery.
+                            Age-related cardiovascular changes require careful evaluation. Dr. Kumar of Billroth Hospitals works with cardiologists to optimize heart health before surgery, ensuring safe anesthesia and recovery.
                         </p>
                     </div>
                 </div>
@@ -458,7 +458,7 @@ require __DIR__ . '/../includes/header.php';
                 <div>
                     <h3 class="font-display text-2xl font-bold mb-2">Important Consideration</h3>
                     <p class="text-brand-100 leading-relaxed">
-                        Age alone is not a contraindication for hernia surgery. With proper assessment and planning, elderly patients can safely undergo hernia repair with excellent outcomes. The decision is based on overall health status, not chronological age. Dr. Kumar has successfully treated patients well into their 80s and 90s with appropriate precautions.
+                        Age alone is not a contraindication for hernia surgery. With proper assessment and planning, elderly patients can safely undergo hernia repair with excellent outcomes. The decision is based on overall health status, not chronological age. Dr. Kumar of Billroth Hospitals has successfully treated patients well into their 80s and 90s with appropriate precautions.
                     </p>
                 </div>
             </div>
@@ -473,7 +473,7 @@ require __DIR__ . '/../includes/header.php';
             Compassionate Care for Every Age
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Dr. Kumar specializes in providing safe, effective hernia treatment for elderly patients with comprehensive pre-operative assessment and personalized care plans.
+            Dr. Kumar of Billroth Hospitals specializes in providing safe, effective hernia treatment for elderly patients with comprehensive pre-operative assessment and personalized care plans.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">

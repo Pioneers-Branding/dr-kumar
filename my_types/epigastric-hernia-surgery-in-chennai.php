@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Epigastric Hernia Surgery in Chennai | Dr. Kumar Billroth';
-$page_description = 'Epigastric hernia surgery in Chennai by Dr. Kumar at Billroth Hospitals. Advanced keyhole repair for upper abdominal hernias, with same-day discharge.';
+$page_title = 'Epigastric Hernia Surgery in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Epigastric hernia surgery in Chennai by Dr. Kumar of Billroth Hospitals. Advanced keyhole repair for upper abdominal hernias, with same-day discharge.';
 $page_url = 'https://herniacare360.com/my_types/epigastric-hernia-surgery-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -26,7 +26,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Surgery in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get the best epigastric hernia surgery in Chennai from Dr. Kumar, the leading upper abdomen hernia specialist in Chennai. Experience advanced keyhole and robotic repairs for optimal recovery.
+                Get the best epigastric hernia surgery in Chennai from Dr. Kumar of Billroth Hospitals, the leading upper abdomen hernia specialist in Chennai. Experience advanced keyhole and robotic repairs for optimal recovery.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -322,7 +322,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss Your Treatment?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar today for a comprehensive evaluation of your condition.
+            Book an appointment with Dr. Kumar of Billroth Hospitals today for a comprehensive evaluation of your condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -334,7 +334,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -357,10 +357,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Epigastric Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Epigastric Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -495,7 +495,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Laparoscopic or robotic repair suits most cases. Dr. Kumar places mesh behind the rectus muscles, the sublay technique, which gives strong reinforcement, low recurrence and a quick recovery.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Laparoscopic or robotic repair suits most cases. Dr. Kumar of Billroth Hospitals places mesh behind the rectus muscles, the sublay technique, which gives strong reinforcement, low recurrence and a quick recovery.</p>
                     </div>
                 </div>
 

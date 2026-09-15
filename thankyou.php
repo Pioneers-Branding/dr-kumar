@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Thank You for Contacting Dr. Kumar | Hernia Chennai';
-$page_description = 'Thank you for contacting Dr. Kumar at Billroth Hospitals in Chennai. Your enquiry has reached our team and someone will get back to you again very shortly.';
+$page_title = 'Thank You for Contacting Dr. Kumar of Billroth Hospitals | Hernia Chennai';
+$page_description = 'Thank you for contacting Dr. Kumar of Billroth Hospitals in Chennai. Your enquiry has reached our team and someone will get back to you again very shortly.';
 // Post-submission confirmation page. No search intent, and it should never be
 // a landing page from search results, so it stays out of the index.
 $page_robots = 'noindex, follow, max-image-preview:large';
@@ -72,7 +72,7 @@ require __DIR__ . '/includes/header.php';
                     <div class="shrink-0 w-10 h-10 rounded-full bg-brand-100 text-brand-700 flex items-center justify-center font-bold text-sm">1</div>
                     <div class="flex-1 pt-1">
                         <h3 class="font-semibold text-slate-900 mb-1">Review of Your Request</h3>
-                        <p class="text-slate-600 text-sm leading-relaxed">Dr. Kumar's team will review your details and medical concern to understand your case.</p>
+                        <p class="text-slate-600 text-sm leading-relaxed">Dr. Kumar of Billroth Hospitals&rsquo; team will review your details and medical concern to understand your case.</p>
                     </div>
                 </div>
                 <div class="flex items-start gap-4">
@@ -86,7 +86,7 @@ require __DIR__ . '/includes/header.php';
                     <div class="shrink-0 w-10 h-10 rounded-full bg-brand-100 text-brand-700 flex items-center justify-center font-bold text-sm">3</div>
                     <div class="flex-1 pt-1">
                         <h3 class="font-semibold text-slate-900 mb-1">Visit Billroth Hospital</h3>
-                        <p class="text-slate-600 text-sm leading-relaxed">Arrive at the scheduled time for your consultation with Dr. Kumar.</p>
+                        <p class="text-slate-600 text-sm leading-relaxed">Arrive at the scheduled time for your consultation with Dr. Kumar of Billroth Hospitals.</p>
                     </div>
                 </div>
             </div>

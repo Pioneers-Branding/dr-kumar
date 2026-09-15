@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Frequently Asked Questions on Hernia Surgery | Chennai';
-$page_description = 'Answers to common hernia questions on symptoms, mesh safety, keyhole versus robotic repair, recovery times, costs and insurance, from Dr. Kumar in Chennai.';
+$page_description = 'Answers to common hernia questions on symptoms, mesh safety, keyhole versus robotic repair, recovery times, costs and insurance, from Dr. Kumar of Billroth Hospitals in Chennai.';
 require __DIR__ . '/../includes/header.php';
 ?>
 
@@ -190,7 +190,7 @@ require __DIR__ . '/../includes/header.php';
                             <li><strong>TAPP (Transabdominal Preperitoneal)</strong> - Laparoscopic transabdominal approach</li>
                             <li><strong>Robotic Hernia Repair</strong> - Precision robotic-assisted surgery</li>
                         </ul>
-                        <p class="text-slate-600 mt-3">Dr. Kumar will recommend the best approach based on your hernia type, size, location, and overall health.</p>
+                        <p class="text-slate-600 mt-3">Dr. Kumar of Billroth Hospitals will recommend the best approach based on your hernia type, size, location, and overall health.</p>
                     </div>
                 </div>
 
@@ -209,7 +209,7 @@ require __DIR__ . '/../includes/header.php';
                             <li><strong>Biological mesh</strong> - Made from human or animal tissue, used in contaminated fields</li>
                             <li><strong>Coated/composite mesh</strong> - Anti-adhesion barriers for intra-abdominal placement</li>
                         </ul>
-                        <p class="text-brand-700 font-medium mt-3">The FDA has cleared all meshes used by Dr. Kumar. Mesh-related complications are rare (&lt;1%) when placed by experienced surgeons.</p>
+                        <p class="text-brand-700 font-medium mt-3">The FDA has cleared all meshes used by Dr. Kumar of Billroth Hospitals. Mesh-related complications are rare (&lt;1%) when placed by experienced surgeons.</p>
                     </div>
                 </div>
 
@@ -437,7 +437,8 @@ require __DIR__ . '/../includes/header.php';
                             <li>Government schemes (CGHS, ECHS,ESIS)</li>
                             <li>Ayushman Bharat Yojana (for eligible patients)</li>
                         </ul>
-                        <p class="text-slate-600 mt-3">Coverage may vary for laparoscopic vs. open surgery, pre-existing conditions, and policy terms. Dr. Kumar's team will help verify your coverage and assist with insurance processing.</p>
+                        <p class="text-slate-600 mt-3"><strong>Accepted networks:</strong> Star Health, Care Health, HDFC ERGO, ICICI Lombard, Niva Bupa, Bajaj Allianz, Tata AIG, ManipalCigna; Medi Assist, Vidal Health, MDIndia, Paramount TPA, Heritage Health, Raksha TPA and FHPL; National Insurance, New India Assurance, Oriental Insurance and United India Insurance.</p>
+                        <p class="text-slate-600 mt-3">Coverage may vary by procedure, pre-existing conditions, waiting periods, room eligibility, and policy terms. The team of Dr. Kumar of Billroth Hospitals will help verify your coverage and assist with insurance processing.</p>
                     </div>
                 </div>
 

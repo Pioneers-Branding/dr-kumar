@@ -1,7 +1,7 @@
 <?php
-$page_title       = 'Hernia Surgeon in Ayanavaram, Chennai | Dr. Kumar Billroth';
-$page_description = 'Hernia treatment for Ayanavaram and ICF colony patients by Dr. Kumar at Billroth Hospitals, Shenoy Nagar. Close to Perambur rail. Book a consultation today.';
-$page_keywords    = 'hernia surgeon in Ayanavaram, hernia treatment Ayanavaram Chennai, hernia specialist near Ayanavaram, laparoscopic hernia surgery Ayanavaram, Dr. Kumar Billroth Hospitals';
+$page_title       = 'Hernia Surgeon in Ayanavaram, Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Hernia treatment for Ayanavaram and ICF colony patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar. Close to Perambur rail. Book a consultation today.';
+$page_keywords    = 'hernia surgeon in Ayanavaram, hernia treatment Ayanavaram Chennai, hernia specialist near Ayanavaram, laparoscopic hernia surgery Ayanavaram, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-ayanavaram';
 
 // This page serves the Ayanavaram catchment. The medical depth lives on the Chennai
@@ -10,7 +10,7 @@ $page_url         = 'https://herniacare360.com/treatment/hernia-surgeon-in-ayana
 $faqs = [
     ['q' => 'I do heavy physical work. Will that affect my hernia?', 'a' => 'Yes. Repeated heavy lifting raises abdominal pressure and tends to make a hernia enlarge faster, which usually brings forward the decision to repair it.'],
     ['q' => 'How do I get to the hospital from Ayanavaram?', 'a' => 'By road through Konnur High Road and Kilpauk to Gajapathy Street. Perambur railway station is the nearest suburban rail option.'],
-    ['q' => 'When can I return to heavy work after hernia surgery?', 'a' => 'Longer than for desk work. Dr. Kumar sets a return date at your review based on the repair performed and the demands of your job.'],
+    ['q' => 'When can I return to heavy work after hernia surgery?', 'a' => 'Longer than for desk work. Dr. Kumar of Billroth Hospitals sets a return date at your review based on the repair performed and the demands of your job.'],
 ];
 
 require __DIR__ . '/../includes/header.php';
@@ -58,7 +58,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Ayanavaram and the surrounding areas of Ayanavaram, the ICF colony, Konnur High Road and the Perambur border.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, serving Ayanavaram and the surrounding areas of Ayanavaram, the ICF colony, Konnur High Road and the Perambur border.
                         </p>
                     </div>
 
@@ -71,7 +71,7 @@ require __DIR__ . '/../includes/header.php';
                     <!-- Care available -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mt-9 mb-4 border-b border-slate-100 pb-3">Hernia Care Available to Ayanavaram Patients</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Every hernia service Dr. Kumar offers is available to patients from Ayanavaram, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
+                        Every hernia service Dr. Kumar of Billroth Hospitals offers is available to patients from Ayanavaram, since all consulting and surgery happens at the Shenoy Nagar hospital. Rather than repeat the clinical detail here, each is set out in full on its own page:
                     </p>
                     <div class="grid sm:grid-cols-2 gap-3 mb-6 not-prose">
                         <a href="<?= $base_path ?>my_types/inguinal-hernia-treatment-in-chennai" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Inguinal hernia treatment</a>
@@ -82,7 +82,7 @@ require __DIR__ . '/../includes/header.php';
                         <a href="<?= $base_path ?>my_types/recurrent-hernia" class="bg-slate-50 hover:bg-brand-50 border border-slate-200 rounded-xl px-4 py-3 text-sm font-semibold text-slate-800 hover:text-brand-700 transition">Recurrent hernia repair</a>
                     </div>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        For the full picture of Dr. Kumar's practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
+                        For the full picture of Dr. Kumar of Billroth Hospitals&rsquo; practice, his 29 years of surgical experience and the techniques used, see the main <a href="<?= $base_path ?>treatment/hernia-surgeon-in-chennai" class="text-brand-700 font-semibold hover:underline">hernia surgeon in Chennai</a> page.
                     </p>
 
                     <!-- What to bring -->

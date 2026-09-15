@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Hernia Symptoms and Warning Signs | Dr. Kumar Chennai';
+$page_title = 'Hernia Symptoms and Warning Signs | Dr. Kumar of Billroth Hospitals Chennai';
 $page_description = 'The symptoms of a hernia, from a visible bulge and groin discomfort to the warning signs of an incarcerated or strangulated hernia that need emergency care.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -243,7 +243,7 @@ require __DIR__ . '/../includes/header.php';
             Experiencing Hernia Symptoms?
         </h2>
         <p class="text-slate-300 mb-8">
-            Early evaluation leads to better outcomes. Dr. Kumar offers comprehensive hernia assessment and treatment.
+            Early evaluation leads to better outcomes. Dr. Kumar of Billroth Hospitals offers comprehensive hernia assessment and treatment.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:+918925502759" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-500 text-white font-bold px-8 py-4 rounded-full transition shadow-lg hover:scale-105">

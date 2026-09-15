@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Da Vinci Robotic System for Hernia Repair | Dr. Kumar';
+$page_title = 'Da Vinci Robotic System for Hernia Repair | Dr. Kumar of Billroth Hospitals';
 $page_description = 'How the Da Vinci robotic system is used for hernia repair in Chennai, what its wristed instruments allow, and which hernias benefit most from the approach.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -29,7 +29,7 @@ require __DIR__ . '/../includes/header.php';
                     <span class="text-accent">Surgery System</span>
                 </h1>
                 <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                    Experience the next generation of surgical precision with our advanced robotic-assisted surgery system. Dr. Kumar brings robotically-assisted hernia repair to Chennai with unmatched accuracy and control.
+                    Experience the next generation of surgical precision with our advanced robotic-assisted surgery system. Dr. Kumar of Billroth Hospitals brings robotically-assisted hernia repair to Chennai with unmatched accuracy and control.
                 </p>
                 <div class="flex flex-wrap gap-4">
                     <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -69,7 +69,7 @@ require __DIR__ . '/../includes/header.php';
                     <svg class="w-7 h-7 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/></svg>
                 </div>
                 <h3 class="text-xl font-bold text-slate-800 mb-2">Enhanced 3D Visualization</h3>
-                <p class="text-slate-600">Ten times magnification with true 3D depth perception allows Dr. Kumar to see critical structures with extraordinary clarity.</p>
+                <p class="text-slate-600">Ten times magnification with true 3D depth perception allows Dr. Kumar of Billroth Hospitals to see critical structures with extraordinary clarity.</p>
             </div>
 
             <div class="tech-card bg-white rounded-xl p-6 shadow-lg border border-slate-100">
@@ -85,7 +85,7 @@ require __DIR__ . '/../includes/header.php';
                     <svg class="w-7 h-7 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
                 </div>
                 <h3 class="text-xl font-bold text-slate-800 mb-2">Surgeon Control</h3>
-                <p class="text-slate-600">Every movement is controlled by Dr. Kumar at a console, translating hand motions into precise instrument movements in real-time.</p>
+                <p class="text-slate-600">Every movement is controlled by Dr. Kumar of Billroth Hospitals at a console, translating hand motions into precise instrument movements in real-time.</p>
             </div>
 
             <div class="tech-card bg-white rounded-xl p-6 shadow-lg border border-slate-100">
@@ -125,14 +125,14 @@ require __DIR__ . '/../includes/header.php';
                     Surgical Process
                 </div>
                 <h2 class="font-display text-3xl lg:text-4xl font-bold text-slate-800 mb-6">How Robotic Hernia Repair Works</h2>
-                <p class="text-lg text-slate-600 mb-8">The advanced robotic system translates Dr. Kumar's hand movements into micro-movements of tiny instruments inside your body, providing unmatched precision.</p>
+                <p class="text-lg text-slate-600 mb-8">The advanced robotic system translates Dr. Kumar of Billroth Hospitals&rsquo; hand movements into micro-movements of tiny instruments inside your body, providing unmatched precision.</p>
 
                 <div class="space-y-6">
                     <div class="flex gap-4">
                         <div class="flex-shrink-0 w-10 h-10 bg-brand-600 text-white rounded-full flex items-center justify-center font-bold">1</div>
                         <div>
                             <h4 class="font-semibold text-slate-800 mb-1">Console-Based Control</h4>
-                            <p class="text-slate-600 text-sm">Dr. Kumar sits at a console with a 3D view of the surgical field and controls the robotic arms using specialized hand controls.</p>
+                            <p class="text-slate-600 text-sm">Dr. Kumar of Billroth Hospitals sits at a console with a 3D view of the surgical field and controls the robotic arms using specialized hand controls.</p>
                         </div>
                     </div>
                     <div class="flex gap-4">
@@ -239,7 +239,7 @@ require __DIR__ . '/../includes/header.php';
             </div>
 
             <div class="bg-slate-50 rounded-2xl p-8">
-                <h3 class="text-2xl font-bold text-slate-800 mb-6">Dr. Kumar's Robotic Experience</h3>
+                <h3 class="text-2xl font-bold text-slate-800 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Robotic Experience</h3>
                 <div class="space-y-4 mb-8">
                     <div class="flex items-center gap-3">
                         <div class="w-12 h-12 bg-brand-600 rounded-full flex items-center justify-center text-white font-bold text-lg">29+</div>
@@ -290,7 +290,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-white/20 mb-4 transition-all duration-300"></div>
-                        <p class="text-brand-50 text-sm md:text-base leading-relaxed transition-colors duration-300">No. The robot is a tool controlled entirely by Dr. Kumar. No artificial intelligence makes any decision. Every movement comes from the surgeon working at the console.</p>
+                        <p class="text-brand-50 text-sm md:text-base leading-relaxed transition-colors duration-300">No. The robot is a tool controlled entirely by Dr. Kumar of Billroth Hospitals. No artificial intelligence makes any decision. Every movement comes from the surgeon working at the console.</p>
                     </div>
                 </div>
 
@@ -344,7 +344,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Explore Robotic Hernia Repair?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Schedule a consultation with Dr. Kumar to find out if robotic surgery is right for your hernia.
+            Schedule a consultation with Dr. Kumar of Billroth Hospitals to find out if robotic surgery is right for your hernia.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -360,7 +360,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

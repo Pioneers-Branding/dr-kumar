@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Inguinal Hernia Treatment in Chennai | Dr. Kumar Billroth';
-$page_description = 'Inguinal hernia treatment in Chennai by Dr. Kumar at Billroth Hospitals. Keyhole TEP and TAPP groin hernia repair with mesh and same-day discharge home.';
+$page_title = 'Inguinal Hernia Treatment in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Inguinal hernia treatment in Chennai by Dr. Kumar of Billroth Hospitals. Keyhole TEP and TAPP groin hernia repair with mesh and same-day discharge home.';
 $page_url = 'https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -26,7 +26,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Treatment Doctor in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get the best Inguinal Hernia treatment in Chennai from Dr. Kumar, the leading groin hernia Specialist, with more than 5000+ successful Inguinal Hernia surgeries. Experience advanced keyhole and robotic groin hernia repairs for optimal recovery.
+                Get the best Inguinal Hernia treatment in Chennai from Dr. Kumar of Billroth Hospitals, the leading groin hernia Specialist, with more than 5000+ successful Inguinal Hernia surgeries. Experience advanced keyhole and robotic groin hernia repairs for optimal recovery.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -54,7 +54,7 @@ require __DIR__ . '/../includes/header.php';
                     An inguinal hernia occurs when tissue, such as part of the intestine, pushes through a weak spot in the abdominal muscles near the groin. It appears as a bulge in the groin or scrotum and is more common in men.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8 text-base">
-                    Dr. Kumar, an expert Inguinal Hernia Specialist, offers the full spectrum of Inguinal Hernia repair techniques, from traditional open surgery to advanced laparoscopic and Robotic approaches including eTEP, TEP, and TAPP procedures.
+                    Dr. Kumar of Billroth Hospitals, an expert Inguinal Hernia Specialist, offers the full spectrum of Inguinal Hernia repair techniques, from traditional open surgery to advanced laparoscopic and Robotic approaches including eTEP, TEP, and TAPP procedures.
                 </p>
                 <div class="flex flex-wrap gap-3 mb-8">
                     <span class="px-4 py-2 bg-brand-100 text-brand-800 rounded-full text-sm font-medium">eTEP Repair</span>
@@ -187,12 +187,12 @@ require __DIR__ . '/../includes/header.php';
     <div class="max-w-7xl mx-auto px-4">
         <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">Why Dr. Kumar</span>
+                <span class="text-brand-700 font-semibold uppercase tracking-wider text-sm bg-brand-100 px-3.5 py-1.5 rounded-full inline-block mb-4">Why Dr. Kumar of Billroth Hospitals</span>
                 <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mt-3 mb-6">
                     Expert Care for Inguinal Hernia
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-8 text-lg">
-                    With over 29 years of experience and 5,000+ successful inguinal hernia repairs, Dr. Kumar offers unparalleled expertise in both open and minimally invasive techniques.
+                    With over 29 years of experience and 5,000+ successful inguinal hernia repairs, Dr. Kumar of Billroth Hospitals offers unparalleled expertise in both open and minimally invasive techniques.
                 </p>
                 <div class="space-y-4">
                     <div class="flex items-start gap-4">
@@ -260,7 +260,7 @@ require __DIR__ . '/../includes/header.php';
             Ready to Discuss Your Treatment?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Book an appointment with Dr. Kumar today for a comprehensive evaluation of your condition.
+            Book an appointment with Dr. Kumar of Billroth Hospitals today for a comprehensive evaluation of your condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -275,7 +275,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>
@@ -298,10 +298,10 @@ require __DIR__ . '/../includes/header.php';
                 Surgical Approaches
             </span>
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
-                How Dr. Kumar Repairs <span class="text-brand-700">Inguinal Hernia</span>
+                How Dr. Kumar of Billroth Hospitals Repairs <span class="text-brand-700">Inguinal Hernia</span>
             </h2>
             <p class="text-slate-600 text-lg">
-                Dr. Kumar specializes in advanced <strong>minimally invasive</strong> techniques.
+                Dr. Kumar of Billroth Hospitals specializes in advanced <strong>minimally invasive</strong> techniques.
                 <strong>Laparoscopic</strong> and <strong>Robotic</strong> approaches are preferred for faster recovery, less pain, and tiny scars. <strong>Open</strong> repair is reserved for select cases.
             </p>
         </div>
@@ -322,7 +322,7 @@ require __DIR__ . '/../includes/header.php';
                     Minimally Invasive · Keyhole Surgery
                 </p>
                 <p class="text-slate-100 text-sm leading-relaxed mb-6">
-                    Dr. Kumar performs all three keyhole inguinal hernia techniques: <strong>eTEP RS</strong>, <strong>TEP</strong>, and <strong>TAPP</strong>, using 3 tiny incisions and a high-definition camera. Each is tailored to the hernia type (direct, indirect, bilateral, or recurrent). Faster recovery (2–3 days), minimal post-op pain, and excellent cosmetic results.
+                    Dr. Kumar of Billroth Hospitals performs all three keyhole inguinal hernia techniques: <strong>eTEP RS</strong>, <strong>TEP</strong>, and <strong>TAPP</strong>, using 3 tiny incisions and a high-definition camera. Each is tailored to the hernia type (direct, indirect, bilateral, or recurrent). Faster recovery (2–3 days), minimal post-op pain, and excellent cosmetic results.
                 </p>
                 <ul class="space-y-2.5 text-sm text-slate-100">
                     <li class="flex gap-2"><span class="text-accent">✓</span> eTEP / TEP / TAPP, all options</li>
@@ -375,7 +375,7 @@ require __DIR__ . '/../includes/header.php';
 
         <!-- SPECIALTY HIGHLIGHTS ROW -->
         <div class="border-t border-slate-200 pt-10">
-            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar's Specialty Focus</p>
+            <p class="text-center text-xs font-bold uppercase tracking-widest text-slate-500 mb-6">Dr. Kumar of Billroth Hospitals&rsquo; Specialty Focus</p>
             <div class="flex flex-wrap items-center justify-center gap-3 lg:gap-4">
                 <a href="<?= $base_path ?>treatment/etep-technique-expert-in-chennai" class="group flex items-center gap-3 bg-white hover:bg-accent border-2 border-accent/30 hover:border-accent rounded-2xl px-5 py-3 shadow-sm hover:shadow-lg transition-all duration-300">
                     <div class="w-10 h-10 rounded-xl bg-accent/15 group-hover:bg-white/20 flex items-center justify-center text-accent group-hover:text-white transition">
@@ -416,7 +416,7 @@ require __DIR__ . '/../includes/header.php';
             <h2 class="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 leading-tight">
                 What Our Patients Say
             </h2>
-            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Inguinal Hernia treatment with Dr. Kumar.</p>
+            <p class="text-slate-500 text-sm mt-3 max-w-2xl mx-auto">Real recovery experiences from patients who underwent Inguinal Hernia treatment with Dr. Kumar of Billroth Hospitals.</p>
         </div>
     </div>
 
@@ -441,7 +441,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a bilateral inguinal hernia (groin bulge on both sides). Seeking a top groin hernia specialist, I consulted Dr. Kumar. He recommended robotic eTEP repair. The Inguinal Hernia treatment in Chennai was absolutely painless and I was walking the very next day. Exceptional groin hernia care."
+                            "I had a bilateral inguinal hernia (groin bulge on both sides). Seeking a top groin hernia specialist, I consulted Dr. Kumar of Billroth Hospitals. He recommended robotic eTEP repair. The Inguinal Hernia treatment in Chennai was absolutely painless and I was walking the very next day. Exceptional groin hernia care."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -465,7 +465,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Being an active gym goer, finding a groin bulge was stressful. I am glad I chose Dr. Kumar, the best Inguinal Hernia Treatment Doctor in Chennai. He performed a laparoscopic TEP repair with 3D mesh. The scars are practically invisible and I was back to light workouts in two weeks. A true groin hernia specialist."
+                            "Being an active gym goer, finding a groin bulge was stressful. I am glad I chose Dr. Kumar of Billroth Hospitals, the best Inguinal Hernia Treatment Doctor in Chennai. He performed a laparoscopic TEP repair with 3D mesh. The scars are practically invisible and I was back to light workouts in two weeks. A true groin hernia specialist."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -489,7 +489,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Groin hernias are rare in women, but Dr. Kumar diagnosed it instantly. I underwent a laparoscopic repair. The hospital staff and doctor were very supportive. My recovery was quick and hassle-free."
+                            "Groin hernias are rare in women, but Dr. Kumar of Billroth Hospitals diagnosed it instantly. I underwent a laparoscopic repair. The hospital staff and doctor were very supportive. My recovery was quick and hassle-free."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -513,7 +513,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "As a doctor myself, I am very particular about surgical techniques. I chose Dr. Kumar for his vast experience in laparoscopic groin hernia repairs. His eTEP technique is brilliant, offering rapid recovery. Minimal post-op pain."
+                            "As a doctor myself, I am very particular about surgical techniques. I chose Dr. Kumar of Billroth Hospitals for his vast experience in laparoscopic groin hernia repairs. His eTEP technique is brilliant, offering rapid recovery. Minimal post-op pain."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -537,7 +537,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a recurrent groin hernia from a previous open surgery done elsewhere. Dr. Kumar successfully repaired it using robotic keyhole surgery. The constant dragging pain is completely gone."
+                            "I had a recurrent groin hernia from a previous open surgery done elsewhere. Dr. Kumar of Billroth Hospitals successfully repaired it using robotic keyhole surgery. The constant dragging pain is completely gone."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -585,7 +585,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a large inguinal hernia causing severe groin pain. Dr. Kumar's expertise in elderly patient care is wonderful. The laparoscopic procedure went smoothly and my recovery has been excellent."
+                            "I had a large inguinal hernia causing severe groin pain. Dr. Kumar of Billroth Hospitals&rsquo; expertise in elderly patient care is wonderful. The laparoscopic procedure went smoothly and my recovery has been excellent."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -612,7 +612,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a bilateral inguinal hernia (groin bulge on both sides). Dr. Kumar recommended robotic eTEP repair. The surgery was absolutely painless and I was walking the very next day. Exceptional groin hernia care in Chennai."
+                            "I had a bilateral inguinal hernia (groin bulge on both sides). Dr. Kumar of Billroth Hospitals recommended robotic eTEP repair. The surgery was absolutely painless and I was walking the very next day. Exceptional groin hernia care in Chennai."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -636,7 +636,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Being an active gym goer, finding a groin bulge was stressful. Dr. Kumar performed a laparoscopic TEP repair with 3D mesh. The scars are practically invisible and I was back to light workouts in two weeks. A true groin hernia specialist."
+                            "Being an active gym goer, finding a groin bulge was stressful. Dr. Kumar of Billroth Hospitals performed a laparoscopic TEP repair with 3D mesh. The scars are practically invisible and I was back to light workouts in two weeks. A true groin hernia specialist."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -660,7 +660,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "Groin hernias are rare in women, but Dr. Kumar diagnosed it instantly. I underwent a laparoscopic repair. The hospital staff and doctor were very supportive. My recovery was quick and hassle-free."
+                            "Groin hernias are rare in women, but Dr. Kumar of Billroth Hospitals diagnosed it instantly. I underwent a laparoscopic repair. The hospital staff and doctor were very supportive. My recovery was quick and hassle-free."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -684,7 +684,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "As a doctor myself, I am very particular about surgical techniques. I chose Dr. Kumar for his vast experience in laparoscopic groin hernia repairs. His eTEP technique is brilliant, offering rapid recovery. Minimal post-op pain."
+                            "As a doctor myself, I am very particular about surgical techniques. I chose Dr. Kumar of Billroth Hospitals for his vast experience in laparoscopic groin hernia repairs. His eTEP technique is brilliant, offering rapid recovery. Minimal post-op pain."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -708,7 +708,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a recurrent groin hernia from a previous open surgery done elsewhere. Dr. Kumar successfully repaired it using robotic keyhole surgery. The constant dragging pain is completely gone."
+                            "I had a recurrent groin hernia from a previous open surgery done elsewhere. Dr. Kumar of Billroth Hospitals successfully repaired it using robotic keyhole surgery. The constant dragging pain is completely gone."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">
@@ -756,7 +756,7 @@ require __DIR__ . '/../includes/header.php';
                             </span>
                         </div>
                         <p class="text-slate-700 text-[15px] leading-relaxed mb-6 italic">
-                            "I had a large inguinal hernia causing severe groin pain. Dr. Kumar's expertise in elderly patient care is wonderful. The laparoscopic procedure went smoothly and my recovery has been excellent."
+                            "I had a large inguinal hernia causing severe groin pain. Dr. Kumar of Billroth Hospitals&rsquo; expertise in elderly patient care is wonderful. The laparoscopic procedure went smoothly and my recovery has been excellent."
                         </p>
                     </div>
                     <div class="border-t border-slate-200/60 pt-4 flex items-center justify-between">

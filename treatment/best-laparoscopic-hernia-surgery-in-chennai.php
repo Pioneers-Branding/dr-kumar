@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Laparoscopic Hernia Surgery in Chennai | Dr. Kumar';
-$page_description = 'Keyhole hernia surgery in Chennai by Dr. Kumar. Three small incisions, far less pain than open repair, and same-day discharge for most of our patients.';
+$page_title = 'Laparoscopic Hernia Surgery in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Keyhole hernia surgery in Chennai by Dr. Kumar of Billroth Hospitals. Three small incisions, far less pain than open repair, and same-day discharge for most of our patients.';
 $page_url = 'https://herniacare360.com/treatment/best-laparoscopic-hernia-surgery-in-chennai';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -38,7 +38,7 @@ require __DIR__ . '/../includes/header.php';
                 <span class="text-accent">Surgery in Chennai</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-200 leading-relaxed mb-8 max-w-2xl">
-                Get advanced laparoscopic hernia surgery in Chennai from Dr. Kumar, the leading minimally invasive hernia specialist in Chennai. Experience faster recovery, minimal pain, and tiny scars under the care of the best hernia doctor in Chennai.
+                Get advanced laparoscopic hernia surgery in Chennai from Dr. Kumar of Billroth Hospitals, the leading minimally invasive hernia specialist in Chennai. Experience faster recovery, minimal pain, and tiny scars under the care of the best hernia doctor in Chennai.
             </p>
             <div class="flex flex-wrap gap-4">
                 <a href="#what-is-laparoscopic" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition duration-300 shadow-lg shadow-accent/20 hover:scale-105">
@@ -134,7 +134,7 @@ require __DIR__ . '/../includes/header.php';
                 Types of Laparoscopic Approaches
             </h2>
             <p class="text-slate-600 text-sm md:text-base leading-relaxed">
-                There are several tailored minimally invasive options. Dr. Kumar applies specific entry methods based on your physical assessment and diagnostic scans.
+                There are several tailored minimally invasive options. Dr. Kumar of Billroth Hospitals applies specific entry methods based on your physical assessment and diagnostic scans.
             </p>
         </div>        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <!-- TEP Card -->
@@ -537,7 +537,7 @@ require __DIR__ . '/../includes/header.php';
                 Choosing the Right Technique
             </h2>
             <p class="text-slate-600 leading-relaxed">
-                Dr. Kumar will recommend the most suitable approach based on your specific condition. Here's how laparoscopic repair compares to other techniques.
+                Dr. Kumar of Billroth Hospitals will recommend the most suitable approach based on your specific condition. Here's how laparoscopic repair compares to other techniques.
             </p>
         </div>
 
@@ -595,7 +595,7 @@ require __DIR__ . '/../includes/header.php';
             Is Laparoscopic Hernia Repair Right for You?
         </h2>
         <p class="text-lg text-slate-200 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar will evaluate your condition and recommend the most suitable surgical approach for optimal outcomes.
+            Dr. Kumar of Billroth Hospitals will evaluate your condition and recommend the most suitable surgical approach for optimal outcomes.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition hover:scale-105 shadow-lg shadow-accent/20">
@@ -640,7 +640,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Desk work usually resumes in five to seven days. Physically demanding jobs need three to four weeks. Dr. Kumar sets a date based on your work and your recovery.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Desk work usually resumes in five to seven days. Physically demanding jobs need three to four weeks. Dr. Kumar of Billroth Hospitals sets a date based on your work and your recovery.</p>
                     </div>
                 </div>
 
@@ -709,7 +709,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes, for both direct and indirect hernias. During keyhole repair Dr. Kumar can inspect every groin weak spot and cover both spaces with one large anatomical mesh.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Yes, for both direct and indirect hernias. During keyhole repair Dr. Kumar of Billroth Hospitals can inspect every groin weak spot and cover both spaces with one large anatomical mesh.</p>
                     </div>
                 </div>
             </div>
@@ -718,7 +718,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

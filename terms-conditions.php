@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Terms and Conditions | HerniaCare 360, Dr. Kumar Chennai';
-$page_description = 'The terms governing your use of the HerniaCare 360 website and the information published on it by Dr. Kumar and the team at Billroth Hospitals, Chennai.';
+$page_title = 'Terms and Conditions | HerniaCare 360, Dr. Kumar of Billroth Hospitals Chennai';
+$page_description = 'The terms governing your use of the HerniaCare 360 website and the information published on it by Dr. Kumar of Billroth Hospitals and the team at Billroth Hospitals, Chennai.';
 // Kept out of the index by request. "follow" is retained so the page still
 // passes link equity through to the rest of the site.
 $page_robots = 'noindex, follow, max-image-preview:large';
@@ -48,7 +48,7 @@ require __DIR__ . '/includes/header.php';
                     By accessing and using this website, you accept and agree to be bound by the terms and conditions of this agreement. If you do not agree to abide by these terms, please do not use this website.
                 </p>
                 <p class="text-slate-600 leading-relaxed">
-                    These terms and conditions apply to all users of the website and form a legally binding agreement between you and Dr. Kumar.
+                    These terms and conditions apply to all users of the website and form a legally binding agreement between you and Dr. Kumar of Billroth Hospitals.
                 </p>
             </div>
 
@@ -66,7 +66,7 @@ require __DIR__ . '/includes/header.php';
                         Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website.
                     </p>
                     <p class="leading-relaxed">
-                        Dr. Kumar and this website do not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned on the site. Reliance on any information provided is solely at your own risk.
+                        Dr. Kumar of Billroth Hospitals and this website do not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned on the site. Reliance on any information provided is solely at your own risk.
                     </p>
                     <p class="leading-relaxed">
                         <strong>Emergency Warning:</strong> If you think you may have a medical emergency, call your doctor or go to the nearest emergency room immediately. Do not delay seeking medical care based on information on this website.
@@ -101,10 +101,10 @@ require __DIR__ . '/includes/header.php';
                     Intellectual Property Rights
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    All content on this website, including but not limited to text, graphics, logos, images, audio clips, digital downloads, data compilations, and software, is the property of Dr. Kumar or its content suppliers and is protected by applicable intellectual property laws.
+                    All content on this website, including but not limited to text, graphics, logos, images, audio clips, digital downloads, data compilations, and software, is the property of Dr. Kumar of Billroth Hospitals or its content suppliers and is protected by applicable intellectual property laws.
                 </p>
                 <p class="text-slate-600 leading-relaxed">
-                    You may not reproduce, distribute, modify, republish, or create derivative works from any content on this website without prior written consent from Dr. Kumar.
+                    You may not reproduce, distribute, modify, republish, or create derivative works from any content on this website without prior written consent from Dr. Kumar of Billroth Hospitals.
                 </p>
             </div>
 
@@ -132,7 +132,7 @@ require __DIR__ . '/includes/header.php';
                     Scheduling an appointment through this website or any contact method does not guarantee availability. All appointments are subject to confirmation.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    Medical services are provided according to the professional judgment of Dr. Kumar and applicable medical standards. Results of any treatment or procedure may vary based on individual circumstances.
+                    Medical services are provided according to the professional judgment of Dr. Kumar of Billroth Hospitals and applicable medical standards. Results of any treatment or procedure may vary based on individual circumstances.
                 </p>
                 <ul class="list-disc list-inside text-slate-600 space-y-2">
                     <li>Please arrive on time for scheduled appointments</li>
@@ -149,7 +149,7 @@ require __DIR__ . '/includes/header.php';
                     Limitation of Liability
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    To the fullest extent permitted by applicable law, Dr. Kumar and this website shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
+                    To the fullest extent permitted by applicable law, Dr. Kumar of Billroth Hospitals and this website shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses resulting from:
                 </p>
                 <ul class="list-disc list-inside text-slate-600 space-y-2 mb-4">
                     <li>Your use of or inability to use this website</li>
@@ -170,7 +170,7 @@ require __DIR__ . '/includes/header.php';
                     Indemnification
                 </h2>
                 <p class="text-slate-600 leading-relaxed">
-                    You agree to defend, indemnify, and hold harmless Dr. Kumar, his affiliates, officers, directors, employees, and agents from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees arising out of or relating to your violation of these terms and conditions or your use of this website.
+                    You agree to defend, indemnify, and hold harmless Dr. Kumar of Billroth Hospitals, his affiliates, officers, directors, employees, and agents from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees arising out of or relating to your violation of these terms and conditions or your use of this website.
                 </p>
             </div>
 
@@ -181,7 +181,7 @@ require __DIR__ . '/includes/header.php';
                     Third-Party Links
                 </h2>
                 <p class="text-slate-600 leading-relaxed mb-4">
-                    This website may contain links to third-party websites or services that are not owned or controlled by Dr. Kumar. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services.
+                    This website may contain links to third-party websites or services that are not owned or controlled by Dr. Kumar of Billroth Hospitals. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services.
                 </p>
                 <p class="text-slate-600 leading-relaxed">
                     You acknowledge and agree that we shall not be responsible or liable for any damage or loss caused by or in connection with the use of any such third-party content, goods, or services.
@@ -242,7 +242,7 @@ require __DIR__ . '/includes/header.php';
                     If you have any questions about these Terms and Conditions, please contact us:
                 </p>
                 <div class="bg-slate-50 rounded-xl p-6 space-y-2">
-                    <p class="text-slate-700"><strong>Dr. Kumar - Advanced Hernia & Laparoscopic Surgeon</strong></p>
+                    <p class="text-slate-700"><strong>Dr. Kumar of Billroth Hospitals - Advanced Hernia & Laparoscopic Surgeon</strong></p>
                     <p class="text-slate-600">Email: <a href="mailto:<?= $site['email'] ?>" class="text-brand-700 hover:underline"><?= $site['email'] ?></a></p>
                     <p class="text-slate-600">Phone: <a href="tel:<?= $site['phone_link'] ?>" class="text-brand-700 hover:underline"><?= $site['phone'] ?></a></p>
                     <p class="text-slate-600">Location: <?= $site['address'] ?></p>

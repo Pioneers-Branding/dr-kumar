@@ -1,5 +1,5 @@
 <?php
-$page_title       = 'Hernia Surgery Recovery Guide | Dr. Kumar, Chennai';
+$page_title       = 'Hernia Surgery Recovery Guide | Dr. Kumar of Billroth Hospitals, Chennai';
 $page_description = 'What recovery after hernia surgery actually looks like, week by week. Pain, activity, lifting limits and when you can safely return to work and to exercise.';
 require __DIR__ . '/../includes/header.php';
 ?>
@@ -453,7 +453,7 @@ require __DIR__ . '/../includes/header.php';
             <div>
                 <h3 class="font-bold text-slate-900 text-base mb-1 font-display">Important Recovery Note</h3>
                 <p class="text-slate-655 text-sm leading-relaxed">
-                    These are general boundaries. Your physical health, age, muscle tone, and the surgical technique used (open vs. laparoscopic/robotic) will determine your exact restrictions. Always check in with Dr. Kumar's team before escalating physical efforts.
+                    These are general boundaries. Your physical health, age, muscle tone, and the surgical technique used (open vs. laparoscopic/robotic) will determine your exact restrictions. Always check in with Dr. Kumar of Billroth Hospitals&rsquo; team before escalating physical efforts.
                 </p>
             </div>
         </div>
@@ -829,7 +829,7 @@ require __DIR__ . '/../includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6">
                         <div class="h-px bg-slate-200 mb-4"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Anesthesia and pain medications can slow bowel movements. Stay well-hydrated, consume fiber-rich foods (fruits, vegetables, whole grains), take short walks, and use stool softeners as recommended by Dr. Kumar's team. Avoid straining during bowel movements.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed">Anesthesia and pain medications can slow bowel movements. Stay well-hydrated, consume fiber-rich foods (fruits, vegetables, whole grains), take short walks, and use stool softeners as recommended by Dr. Kumar of Billroth Hospitals&rsquo; team. Avoid straining during bowel movements.</p>
                     </div>
                 </div>
 
@@ -870,7 +870,7 @@ require __DIR__ . '/../includes/header.php';
             Questions About Your Recovery?
         </h2>
         <p class="text-lg text-slate-300 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Dr. Kumar's team is here to support you throughout your recovery journey. Don't hesitate to reach out with any concerns.
+            Dr. Kumar of Billroth Hospitals&rsquo; team is here to support you throughout your recovery journey. Don't hesitate to reach out with any concerns.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-8 py-4 rounded-full transition shadow-lg shadow-accent/25 hover:scale-105">
@@ -885,7 +885,7 @@ require __DIR__ . '/../includes/header.php';
 </section>
 
 <!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar">
+<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 group" aria-label="Call Dr. Kumar of Billroth Hospitals">
     <div class="relative flex items-center">
         <div class="absolute right-full mr-3 bg-white rounded-xl shadow-2xl p-4 whitespace-nowrap opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 transform translate-x-2 group-hover:translate-x-0 border border-slate-100">
             <p class="font-bold text-slate-900"><?= $site['phone'] ?></p>

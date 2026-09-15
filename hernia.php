@@ -1,6 +1,6 @@
 <?php
-$page_title = 'Hernia: Types, Causes, Symptoms and Treatment | Dr. Kumar';
-$page_description = 'A complete guide to hernias from Dr. Kumar in Chennai. Understand the types, what causes them, the symptoms to watch for and how each one is repaired.';
+$page_title = 'Hernia: Types, Causes, Symptoms and Treatment | Dr. Kumar of Billroth Hospitals';
+$page_description = 'A complete guide to hernias from Dr. Kumar of Billroth Hospitals in Chennai. Understand the types, what causes them, the symptoms to watch for and how each one is repaired.';
 require __DIR__ . '/includes/header.php';
 ?>
 
@@ -82,7 +82,7 @@ require __DIR__ . '/includes/header.php';
                     An abdominal hernia occurs when an organ or tissue pushes through a weak spot in the abdominal wall, creating a visible bulge. This condition can cause discomfort, pain, and if left untreated, may lead to serious complications like strangulation.
                 </p>
                 <p class="text-slate-600 leading-relaxed mb-8">
-                    Dr. Kumar specializes in treating all types of abdominal hernias using the most advanced surgical techniques, ensuring optimal outcomes with minimal recovery time.
+                    Dr. Kumar of Billroth Hospitals specializes in treating all types of abdominal hernias using the most advanced surgical techniques, ensuring optimal outcomes with minimal recovery time.
                 </p>
 
                 <div class="space-y-4">
@@ -174,7 +174,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold text-slate-900 mt-6 mb-4">
                 Types of <span class="text-brand-700">Abdominal Hernias</span>
             </h2>
-            <p class="text-slate-600 text-lg">Each hernia type requires specialized treatment approaches. Dr. Kumar has extensive experience treating all abdominal hernia conditions.</p>
+            <p class="text-slate-600 text-lg">Each hernia type requires specialized treatment approaches. Dr. Kumar of Billroth Hospitals has extensive experience treating all abdominal hernia conditions.</p>
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -714,7 +714,7 @@ require __DIR__ . '/includes/header.php';
             <h2 class="font-display text-3xl md:text-5xl font-bold mb-4">
                 Advanced Surgical <span class="text-accent">Techniques</span>
             </h2>
-            <p class="text-slate-300 text-lg">Dr. Kumar utilizes the latest minimally invasive techniques for optimal outcomes and faster recovery.</p>
+            <p class="text-slate-300 text-lg">Dr. Kumar of Billroth Hospitals utilizes the latest minimally invasive techniques for optimal outcomes and faster recovery.</p>
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -992,7 +992,7 @@ require __DIR__ . '/includes/header.php';
                     </button>
                     <div class="faq-content hidden px-6 pb-6 transition-all duration-300">
                         <div class="h-px bg-white/20 mb-4 transition-all duration-300"></div>
-                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Most patients can return to desk work within 1-2 weeks. Jobs requiring physical labor may require 4-6 weeks. Dr. Kumar will provide personalized guidance based on your occupation and procedure type.</p>
+                        <p class="text-slate-600 text-sm md:text-base leading-relaxed transition-colors duration-300">Most patients can return to desk work within 1-2 weeks. Jobs requiring physical labor may require 4-6 weeks. Dr. Kumar of Billroth Hospitals will provide personalized guidance based on your occupation and procedure type.</p>
                     </div>
                 </div>
             </div>
@@ -1034,7 +1034,7 @@ require __DIR__ . '/includes/header.php';
             Ready to Discuss Your Hernia Treatment?
         </h2>
         <p class="text-brand-100 text-lg mb-8 max-w-2xl mx-auto">
-            Schedule a consultation with Dr. Kumar to explore your treatment options and get personalized care for your condition.
+            Schedule a consultation with Dr. Kumar of Billroth Hospitals to explore your treatment options and get personalized care for your condition.
         </p>
         <div class="flex flex-wrap justify-center gap-4">
             <a href="tel:<?= $site['phone_link'] ?>" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition">
