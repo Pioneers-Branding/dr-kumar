@@ -892,6 +892,11 @@ require __DIR__ . '/includes/header.php';
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 justify-center">
             <?php
             $shorts = [
+                ['title' => 'Can a hernia burst suddenly?', 'id' => 'H6SzsZtbaJE', 'tag' => 'Warning signs'],
+                ['title' => 'Is hernia mesh safe? Infection risks explained', 'id' => 'p9WLlUWtq6Q', 'tag' => 'Treatment options'],
+                ['title' => 'Can children develop a hernia?', 'id' => 'ZQoANrdXwUU', 'tag' => "Children's health"],
+                ['title' => 'Open vs laparoscopic hernia surgery: which is right for you?', 'id' => '4G-ynzXBIaY', 'tag' => 'Treatment options'],
+                ['title' => 'How much does hernia surgery cost?', 'id' => 'zUm23zIyFu0', 'tag' => 'Cost & planning'],
                 ['title' => 'Can hernia cause constipation and urinary problems?', 'id' => 'rq8JIFIhPrc', 'tag' => 'Warning signs'],
                 ['title' => 'Which surgery is best: robotic or laparoscopic?', 'id' => 't0cNAzB1zgA', 'tag' => 'Treatment options'],
                 ['title' => 'Types of hernia in women: symptoms and warning signs', 'id' => 'LWJmZrMU_Zo', 'tag' => "Women's health"],
