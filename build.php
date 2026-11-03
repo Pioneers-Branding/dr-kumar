@@ -34,7 +34,7 @@ function getPhpFiles(string $dir, string $base = ''): array {
     $items = scandir($dir);
     foreach ($items as $item) {
         if ($item === '.' || $item === '..') continue;
-        if ($item === 'build.php' || $item === 'router.php' || $item === 'includes' || $item === 'dist') continue;
+        if ($item === 'build.php' || $item === 'sitemap-blog.php' || $item === 'router.php' || $item === 'includes' || $item === 'dist') continue;
         $path = $dir . '/' . $item;
         if (is_dir($path)) {
             $files = array_merge($files, getPhpFiles($path, $base . $item . '/'));
@@ -230,7 +230,12 @@ foreach ($phpFiles as $f) {
     }
     
     $loc = 'https://herniacare360.com/' . $cleanName;
-    
+
+    // Never list a scheduled post before its publish date; sitemap-blog.php adds it on the day.
+    if (str_starts_with($name, 'blog/') && preg_match("/hc360_publish_gate\\('(\\d{4}-\\d{2}-\\d{2})'\\)/", (string) file_get_contents($f['path'], false, null, 0, 4096), $gm) && $gm[1] > date('Y-m-d')) {
+        continue;
+    }
+
     // Skip duplicate locations in sitemap
     if (in_array($loc, $locs)) continue;
     $locs[] = $loc;
@@ -243,8 +248,9 @@ file_put_contents($root . '/sitemap.xml', $xml);
 
 /* ---------- 5. robots ---------- */
 echo "🤖 Writing robots.txt\n";
-file_put_contents($dist . '/robots.txt', "User-agent: *\nAllow: /\nSitemap: https://herniacare360.com/sitemap.xml\n");
-file_put_contents($root . '/robots.txt', "User-agent: *\nAllow: /\nSitemap: https://herniacare360.com/sitemap.xml\n");
+$robots = "User-agent: *\nAllow: /\nSitemap: https://herniacare360.com/sitemap.xml\nSitemap: https://herniacare360.com/sitemap-blog\n";
+file_put_contents($dist . '/robots.txt', $robots);
+file_put_contents($root . '/robots.txt', $robots);
 
 /* ---------- 6. _redirects ---------- */
 echo "🔀 Writing _redirects\n";
