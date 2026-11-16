@@ -7,7 +7,7 @@ $page_url         = 'https://herniacare360.com/laparoscopic-hernia-surgery-in-ka
 $faqs = [
     [
         'q' => 'How can patients from Karur plan laparoscopic hernia surgery in Chennai in a single trip?',
-        'a' => 'Patients from Karur and Karur can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
+        'a' => 'Patients from Karur and surrounding taluks can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
     ],
     [
         'q' => 'What is the most comfortable way to travel from Karur to Billroth Hospitals in Chennai?',

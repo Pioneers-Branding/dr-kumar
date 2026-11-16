@@ -7,7 +7,7 @@ $page_url         = 'https://herniacare360.com/laparoscopic-hernia-surgery-in-na
 $faqs = [
     [
         'q' => 'How can patients from Nagapattinam plan laparoscopic hernia surgery in Chennai in a single trip?',
-        'a' => 'Patients from Nagapattinam and Nagapattinam can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
+        'a' => 'Patients from Nagapattinam and surrounding taluks can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
     ],
     [
         'q' => 'What is the most comfortable way to travel from Nagapattinam to Billroth Hospitals in Chennai?',

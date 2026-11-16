@@ -1,6 +1,6 @@
 <?php
-$page_title       = 'Hernia Surgeon in Namakkal, Tamil Nadu | Dr. Kumar';
-$page_description = 'Hernia surgery for Namakkal patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. approximately 370 km. Book your consultation today.';
+$page_title       = 'Hernia Surgeon in Chennai for Patients from Namakkal | Dr. Kumar';
+$page_description = 'Consult Dr. Kumar of Billroth Hospitals, Chennai for advanced laparoscopic & robotic hernia surgery. Dedicated single-trip care protocol for Namakkal patients (370 km). Cashless insurance accepted.';
 $page_keywords    = 'hernia surgeon in Namakkal, hernia treatment Namakkal Tamil Nadu, hernia specialist near Namakkal, laparoscopic hernia surgery Namakkal, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/hernia-surgeon-in-namakkal';
 
@@ -27,12 +27,31 @@ require __DIR__ . '/includes/header.php';
         </nav>
 
         <div class="max-w-3xl">
-            <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
-                Hernia Surgeon in Namakkal,<br><span class="text-accent">Tamil Nadu</span>
+                        <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
+                Hernia Surgeon in Chennai<br><span class="text-accent">for Patients from Namakkal</span>
             </h1>
-            <p class="text-lg text-slate-200 leading-relaxed mb-8">
-                Advanced laparoscopic and robotic hernia surgery for patients from Namakkal and Namakkal by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. Located approximately 370 km with direct access via NH 44 to Salem, then NH 48 through Vellore and Kanchipuram and train connectivity via Namakkal Railway Station (NMKL).
+            <p class="text-lg text-slate-200 leading-relaxed mb-6">
+                Advanced laparoscopic and robotic hernia surgery by Dr. Kumar (29+ years experience, 10,000+ hernia repairs) at Billroth Hospitals, Shenoy Nagar, Chennai. Dedicated single-trip care protocol for patients traveling from Namakkal (approx. 370 km) via NH 44 to Salem, then NH 48 through Vellore and Kanchipuram (or NH 81 via Trichy) and rail connectivity via Namakkal Railway Station (NMKL).
             </p>
+            <!-- CRO Trust Reassurance Badges -->
+            <div class="flex flex-wrap gap-2.5 mb-8 text-xs font-semibold text-slate-200">
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    Single-Trip Protocol
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    24–48 Hr Discharge
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    100% Cashless TPA Insurance
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    WhatsApp Pre-Travel Review
+                </span>
+            </div>
             <div class="flex flex-wrap gap-4">
                 <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition shadow-lg hover:scale-105">
                     Book a Consultation
@@ -155,14 +174,22 @@ require __DIR__ . '/includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Namakkal, Namakkal, and surrounding towns across Tamil Nadu.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Namakkal and surrounding towns across Tamil Nadu.
                         </p>
+                    </div>
+
+                    <!-- Key Taluks & Towns Covered -->
+                    <div class="mb-8 p-4 bg-slate-50 border border-slate-200 rounded-2xl not-prose">
+                        <p class="text-slate-800 text-xs font-bold uppercase tracking-wider mb-2">Key Areas &amp; Taluks Served in Namakkal District:</p>
+                        <div class="flex flex-wrap gap-2 text-xs">
+                            <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Namakkal</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Tiruchengode</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Rasipuram</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Paramathi Velur</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Kolli Hills</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Kumarapalayam</span>
+                        </div>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Travelling to Billroth Hospitals from Namakkal</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Namakkal is located approximately 370 km from our hospital in Shenoy Nagar, Chennai. Patients travelling from Namakkal and across Namakkal have convenient, well-established rail and road connectivity into the city.
+                        Namakkal is located approximately 370 km from our hospital in Shenoy Nagar, Chennai. Patients travelling from Namakkal have convenient, well-established rail and road connectivity into the city.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-5">
                         <strong>By Train:</strong> Regular services operate via Namakkal Railway Station (NMKL), providing direct trains including the Palani–Chennai Express to Chennai Central (approx. 6.5 to 7.5 hours). Upon arrival at Chennai Central or Chennai Egmore, patients can directly board the <strong>Chennai Metro Green Line</strong> straight to <strong>Shenoy Nagar Metro Station</strong>. This provides a cool, continuous transit without dealing with city road bottlenecks.
@@ -286,6 +313,32 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <?php
+$breadcrumb_schema = [
+    '@context'        => 'https://schema.org',
+    '@type'           => 'BreadcrumbList',
+    '@id'             => $page_url . '#breadcrumb',
+    'itemListElement' => [
+        [
+            '@type'    => 'ListItem',
+            'position' => 1,
+            'name'     => 'Home',
+            'item'     => 'https://herniacare360.com/'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 2,
+            'name'     => 'Hernia Surgeon in Chennai',
+            'item'     => 'https://herniacare360.com/treatment/hernia-surgeon-in-chennai'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 3,
+            'name'     => 'Namakkal',
+            'item'     => $page_url
+        ]
+    ]
+];
+
 $faq_schema = [
     '@context'   => 'https://schema.org',
     '@type'      => 'FAQPage',
@@ -301,7 +354,7 @@ $faq_schema = [
 ];
 ?>
 <script type="application/ld+json">
-<?= json_encode($faq_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
+<?= json_encode([$breadcrumb_schema, $faq_schema], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
 
 </script>
 

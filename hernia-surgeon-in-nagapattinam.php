@@ -1,6 +1,6 @@
 <?php
-$page_title       = 'Hernia Surgeon in Nagapattinam, Tamil Nadu | Dr. Kumar';
-$page_description = 'Hernia surgery for Nagapattinam patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. approximately 310 km. Book your consultation today.';
+$page_title       = 'Hernia Surgeon in Chennai for Patients from Nagapattinam | Dr. Kumar';
+$page_description = 'Consult Dr. Kumar of Billroth Hospitals, Chennai for advanced laparoscopic & robotic hernia surgery. Dedicated single-trip care protocol for Nagapattinam patients (310 km). Cashless insurance accepted.';
 $page_keywords    = 'hernia surgeon in Nagapattinam, hernia treatment Nagapattinam Tamil Nadu, hernia specialist near Nagapattinam, laparoscopic hernia surgery Nagapattinam, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/hernia-surgeon-in-nagapattinam';
 
@@ -27,12 +27,31 @@ require __DIR__ . '/includes/header.php';
         </nav>
 
         <div class="max-w-3xl">
-            <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
-                Hernia Surgeon in Nagapattinam,<br><span class="text-accent">Tamil Nadu</span>
+                        <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
+                Hernia Surgeon in Chennai<br><span class="text-accent">for Patients from Nagapattinam</span>
             </h1>
-            <p class="text-lg text-slate-200 leading-relaxed mb-8">
-                Advanced laparoscopic and robotic hernia surgery for patients from Nagapattinam and Nagapattinam by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. Located approximately 310 km with direct access via NH 32 / East Coast Road and train connectivity via Nagapattinam Junction (NGT) & Nagore (NCR).
+            <p class="text-lg text-slate-200 leading-relaxed mb-6">
+                Advanced laparoscopic and robotic hernia surgery by Dr. Kumar (29+ years experience, 10,000+ hernia repairs) at Billroth Hospitals, Shenoy Nagar, Chennai. Dedicated single-trip care protocol for patients traveling from Nagapattinam (approx. 310 km) via NH 32 / East Coast Road (ECR via Karaikal, Chidambaram, and Cuddalore) and rail connectivity via Nagapattinam Junction (NGT) & Nagore (NCR).
             </p>
+            <!-- CRO Trust Reassurance Badges -->
+            <div class="flex flex-wrap gap-2.5 mb-8 text-xs font-semibold text-slate-200">
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    Single-Trip Protocol
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    24–48 Hr Discharge
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    100% Cashless TPA Insurance
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    WhatsApp Pre-Travel Review
+                </span>
+            </div>
             <div class="flex flex-wrap gap-4">
                 <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition shadow-lg hover:scale-105">
                     Book a Consultation
@@ -155,14 +174,22 @@ require __DIR__ . '/includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Nagapattinam, Nagapattinam, and surrounding towns across Tamil Nadu.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Nagapattinam and surrounding towns across Tamil Nadu.
                         </p>
+                    </div>
+
+                    <!-- Key Taluks & Towns Covered -->
+                    <div class="mb-8 p-4 bg-slate-50 border border-slate-200 rounded-2xl not-prose">
+                        <p class="text-slate-800 text-xs font-bold uppercase tracking-wider mb-2">Key Areas &amp; Taluks Served in Nagapattinam District:</p>
+                        <div class="flex flex-wrap gap-2 text-xs">
+                            <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Nagapattinam</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Vedaranyam</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Kilvelur</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Thirukkuvalai</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Nagore</span> <span class="bg-white border border-slate-200 text-slate-700 px-3 py-1 rounded-full font-medium shadow-sm">Velankanni</span>
+                        </div>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Travelling to Billroth Hospitals from Nagapattinam</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Nagapattinam is located approximately 310 km from our hospital in Shenoy Nagar, Chennai. Patients travelling from Nagapattinam and across Nagapattinam have convenient, well-established rail and road connectivity into the city.
+                        Nagapattinam is located approximately 310 km from our hospital in Shenoy Nagar, Chennai. Patients travelling from Nagapattinam have convenient, well-established rail and road connectivity into the city.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-5">
                         <strong>By Train:</strong> Regular services operate via Nagapattinam Junction (NGT) & Nagore (NCR), providing direct trains such as the Kamban Express to Chennai Egmore (approx. 6.5 to 7.5 hours). Upon arrival at Chennai Central or Chennai Egmore, patients can directly board the <strong>Chennai Metro Green Line</strong> straight to <strong>Shenoy Nagar Metro Station</strong>. This provides a cool, continuous transit without dealing with city road bottlenecks.
@@ -286,6 +313,32 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <?php
+$breadcrumb_schema = [
+    '@context'        => 'https://schema.org',
+    '@type'           => 'BreadcrumbList',
+    '@id'             => $page_url . '#breadcrumb',
+    'itemListElement' => [
+        [
+            '@type'    => 'ListItem',
+            'position' => 1,
+            'name'     => 'Home',
+            'item'     => 'https://herniacare360.com/'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 2,
+            'name'     => 'Hernia Surgeon in Chennai',
+            'item'     => 'https://herniacare360.com/treatment/hernia-surgeon-in-chennai'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 3,
+            'name'     => 'Nagapattinam',
+            'item'     => $page_url
+        ]
+    ]
+];
+
 $faq_schema = [
     '@context'   => 'https://schema.org',
     '@type'      => 'FAQPage',
@@ -301,7 +354,7 @@ $faq_schema = [
 ];
 ?>
 <script type="application/ld+json">
-<?= json_encode($faq_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
+<?= json_encode([$breadcrumb_schema, $faq_schema], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
 
 </script>
 

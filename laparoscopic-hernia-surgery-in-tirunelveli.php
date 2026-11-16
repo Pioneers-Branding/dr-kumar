@@ -7,7 +7,7 @@ $page_url         = 'https://herniacare360.com/laparoscopic-hernia-surgery-in-ti
 $faqs = [
     [
         'q' => 'How can patients from Tirunelveli plan laparoscopic hernia surgery in Chennai in a single trip?',
-        'a' => 'Patients from Tirunelveli and Tirunelveli can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
+        'a' => 'Patients from Tirunelveli and surrounding taluks can share diagnostic ultrasound or CT scan reports with Dr. Kumaragurubaran\'s team via telephone or WhatsApp consultation before leaving home. Once clinical suitability for laparoscopic repair is confirmed, pre-operative instructions and hospital admission are scheduled for the morning you reach Chennai. Most patients undergo surgery that day and receive discharge clearance 24 hours later.'
     ],
     [
         'q' => 'What is the most comfortable way to travel from Tirunelveli to Billroth Hospitals in Chennai?',

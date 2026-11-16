@@ -1,6 +1,6 @@
 <?php
-$page_title       = 'Hernia Surgeon in Chennai, Tamil Nadu | Dr. Kumar';
-$page_description = 'Hernia surgery for Chennai patients by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. in central Chennai. Book your consultation today.';
+$page_title       = 'Hernia Surgeon in Chennai | Dr. Kumar of Billroth Hospitals';
+$page_description = 'Advanced laparoscopic & robotic hernia surgery in Chennai by Dr. Kumar (29+ yrs experience, 10,000+ hernia repairs) at Billroth Hospitals, Shenoy Nagar. Cashless insurance available.';
 $page_keywords    = 'hernia surgeon in Chennai, hernia treatment Chennai Tamil Nadu, hernia specialist near Chennai, laparoscopic hernia surgery Chennai, Dr. Kumar of Billroth Hospitals';
 $page_url         = 'https://herniacare360.com/hernia-surgeon-in-chennai';
 
@@ -27,12 +27,31 @@ require __DIR__ . '/includes/header.php';
         </nav>
 
         <div class="max-w-3xl">
-            <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
-                Hernia Surgeon in Chennai,<br><span class="text-accent">Tamil Nadu</span>
+                        <h1 class="font-display text-3xl md:text-5xl font-bold leading-tight mb-6">
+                Hernia Surgeon in Chennai,<br><span class="text-accent">Billroth Hospitals</span>
             </h1>
-            <p class="text-lg text-slate-200 leading-relaxed mb-8">
-                Advanced laparoscopic and robotic hernia surgery for patients from Chennai and Chennai by Dr. Kumar of Billroth Hospitals, Shenoy Nagar, Chennai. Located in central Chennai with direct access via Direct city access via Poonamallee High Road, EVR Periyar Salai, or Inner Ring Road to Shenoy Nagar and train connectivity via Chennai Central (MAS) & Chennai Egmore (MS).
+            <p class="text-lg text-slate-200 leading-relaxed mb-6">
+                Advanced laparoscopic and robotic hernia surgery at Billroth Hospitals, Shenoy Nagar, Chennai by Dr. Kumar (29+ years experience, 10,000+ hernia repairs). Centrally located with direct access via Poonamallee High Road and Shenoy Nagar Metro Station.
             </p>
+            <!-- CRO Trust Reassurance Badges -->
+            <div class="flex flex-wrap gap-2.5 mb-8 text-xs font-semibold text-slate-200">
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    29+ Years Practice
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    10,000+ Hernia Repairs
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    100% Cashless Insurance (30+ TPAs)
+                </span>
+                <span class="inline-flex items-center gap-1.5 bg-white/10 px-3 py-1.5 rounded-full border border-white/15">
+                    <svg class="w-3.5 h-3.5 text-accent" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
+                    Day-Care / 24-Hr Discharge
+                </span>
+            </div>
             <div class="flex flex-wrap gap-4">
                 <a href="<?= $base_path ?>book-appointment" class="inline-flex items-center gap-2 bg-accent hover:bg-amber-600 text-white font-bold px-7 py-3.5 rounded-full transition shadow-lg hover:scale-105">
                     Book a Consultation
@@ -155,14 +174,14 @@ require __DIR__ . '/includes/header.php';
                     <!-- Where the clinic is -->
                     <div class="bg-brand-50 border-l-4 border-brand-700 p-5 rounded-r-2xl mb-9">
                         <p class="text-slate-700 text-sm md:text-base leading-relaxed m-0">
-                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Chennai, Chennai, and surrounding towns across Tamil Nadu.
+                            <strong>Where to find Dr. Kumar of Billroth Hospitals:</strong> <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. This is the single consulting and operating location, welcoming patients from Chennai and surrounding towns across Tamil Nadu.
                         </p>
                     </div>
 
                     <!-- Getting here: the genuinely local section -->
                     <h2 class="font-display text-2xl md:text-3xl font-bold text-slate-900 mb-4">Travelling to Billroth Hospitals from Chennai</h2>
                     <p class="text-slate-600 leading-relaxed mb-5">
-                        Chennai is located in central Chennai from our hospital in Shenoy Nagar, Chennai. Patients travelling from Chennai and across Chennai have convenient, well-established rail and road connectivity into the city.
+                        Chennai is located in central Chennai from our hospital in Shenoy Nagar, Chennai. Patients travelling from Chennai have convenient, well-established rail and road connectivity into the city.
                     </p>
                     <p class="text-slate-600 leading-relaxed mb-5">
                         <strong>By Train:</strong> Regular services operate via Chennai Central (MAS) & Chennai Egmore (MS), providing comprehensive connectivity via Chennai Metro Green Line with direct access at Shenoy Nagar Metro Station. Upon arrival at Chennai Central or Chennai Egmore, patients can directly board the <strong>Chennai Metro Green Line</strong> straight to <strong>Shenoy Nagar Metro Station</strong>. This provides a cool, continuous transit without dealing with city road bottlenecks.
@@ -286,6 +305,32 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <?php
+$breadcrumb_schema = [
+    '@context'        => 'https://schema.org',
+    '@type'           => 'BreadcrumbList',
+    '@id'             => $page_url . '#breadcrumb',
+    'itemListElement' => [
+        [
+            '@type'    => 'ListItem',
+            'position' => 1,
+            'name'     => 'Home',
+            'item'     => 'https://herniacare360.com/'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 2,
+            'name'     => 'Hernia Surgeon in Chennai',
+            'item'     => 'https://herniacare360.com/treatment/hernia-surgeon-in-chennai'
+        ],
+        [
+            '@type'    => 'ListItem',
+            'position' => 3,
+            'name'     => 'Chennai',
+            'item'     => $page_url
+        ]
+    ]
+];
+
 $faq_schema = [
     '@context'   => 'https://schema.org',
     '@type'      => 'FAQPage',
@@ -301,7 +346,7 @@ $faq_schema = [
 ];
 ?>
 <script type="application/ld+json">
-<?= json_encode($faq_schema, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
+<?= json_encode([$breadcrumb_schema, $faq_schema], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) ?>
 
 </script>
 
