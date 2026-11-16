@@ -361,6 +361,17 @@ $spam_redirects = [
 
 $redirects_content = "/index    /    301!\n/index.html    /    301!\n/my_types/inguinal-hernia    https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai    301!\n/my_types/inguinal-hernia-surgery-in-chennai    https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai    301!\n/my_types/umbilical-hernia-surgery-in-chennai    https://herniacare360.com/my_types/umbilical-hernia-treatment-in-chennai    301!\n/my_types/incisional-hernia-surgery-in-chennai    https://herniacare360.com/my_types/incisional-hernia-treatment-in-chennai    301!\n/my_types/ventral-hernia-surgery-in-chennai    https://herniacare360.com/my_types/ventral-hernia-treatment-in-chennai    301!\n/my_types/femoral-hernia-surgery-in-chennai    https://herniacare360.com/my_types/femoral-hernia-treatment-in-chennai    301!\n/treatment/tapp-repair    https://herniacare360.com/treatment/tapp-repair-in-chennai    301!\n/treatment/hernia-surgery-in-chennai    https://herniacare360.com/treatment/hernia-surgeon-in-chennai    301!\n";
 
+$moved_locations = [
+    'aminjikarai', 'annanagar', 'arumbakkam', 'ayanavaram',
+    'kilpauk', 'kolathur', 'korattur', 'koyambedu',
+    'maduravoyal', 'mogappair', 'nungambakkam', 'padi',
+    'perambur', 'purasawalkam', 'shenoy-nagar', 'villivakkam'
+];
+foreach ($moved_locations as $mloc) {
+    $redirects_content .= "/treatment/hernia-surgeon-in-$mloc    /hernia-surgeon-in-$mloc    301!\n";
+    $redirects_content .= "/treatment/hernia-surgeon-in-$mloc.php    /hernia-surgeon-in-$mloc    301!\n";
+}
+
 foreach ($phpFiles as $f) {
     $name = preg_replace('/\.php$/i', '', $f['name']);
     if ($name === 'index') {

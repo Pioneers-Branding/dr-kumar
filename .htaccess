@@ -112,15 +112,46 @@ RewriteRule ^ https://herniacare360.com%{REQUEST_URI} [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.+?)/$ https://herniacare360.com/$1 [R=301,L]
 
+# ---------------------------------------------------------------------------
+# 0d. 301 Permanent Redirects for moved and renamed pages
+# Must run BEFORE internal rewrites so legacy URLs are never served directly.
+# ---------------------------------------------------------------------------
+
+# Neighborhood location pages moved from /treatment/ to root
+RewriteRule ^treatment/hernia-surgeon-in-aminjikarai(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-aminjikarai [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-annanagar(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-annanagar [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-arumbakkam(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-arumbakkam [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-ayanavaram(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-ayanavaram [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-kilpauk(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-kilpauk [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-kolathur(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-kolathur [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-korattur(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-korattur [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-koyambedu(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-koyambedu [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-maduravoyal(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-maduravoyal [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-mogappair(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-mogappair [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-nungambakkam(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-nungambakkam [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-padi(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-padi [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-perambur(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-perambur [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-purasawalkam(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-purasawalkam [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-shenoy-nagar(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-shenoy-nagar [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgeon-in-villivakkam(\.php)?/?$ https://herniacare360.com/hernia-surgeon-in-villivakkam [R=301,L,NC]
+RewriteRule ^treatment/(hernia-surgeon-in-(?!chennai)[a-z-]+)(\.php)?/?$ https://herniacare360.com/$1 [R=301,L,NC]
+RewriteRule ^treatment/(laparoscopic-hernia-surgery-in-(?!tamil-nadu)[a-z-]+)(\.php)?/?$ https://herniacare360.com/$1 [R=301,L,NC]
+
+# Condition and procedure page redirects
+RewriteRule ^my_types/inguinal-hernia(\.php)?/?$ https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^my_types/inguinal-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^my_types/umbilical-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/umbilical-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^my_types/incisional-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/incisional-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^my_types/ventral-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/ventral-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^my_types/femoral-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/femoral-hernia-treatment-in-chennai [R=301,L,NC]
+RewriteRule ^treatment/tapp-repair(\.php)?/?$ https://herniacare360.com/treatment/tapp-repair-in-chennai [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/treatment/hernia-surgeon-in-chennai [R=301,L,NC]
+RewriteRule ^treatment/hernia-surgery(\.php)?/?$ https://herniacare360.com/treatment/hernia-surgeon-in-chennai [R=301,L,NC]
+
 # 1. Page rewrites for directories matching page names
 RewriteRule ^blog/?$ blog.php [L,NC]
 RewriteRule ^hernia/?$ hernia.php [L,NC]
 RewriteRule ^treatment/?$ treatment.php [L,NC]
-
-# 1b. /treatment/hernia-surgery was a byte-identical clone of the Chennai pillar
-# page, sharing its meta title and description and competing for the same term.
-# It had no inbound internal links. Consolidated into the page it duplicated.
-RewriteRule ^treatment/hernia-surgery(\.php)?/?$ /treatment/hernia-surgeon-in-chennai [R=301,L,NC]
 
 # 2. Redirect /index or /index.php to /
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index(\.php)? [NC]
@@ -140,18 +171,6 @@ RewriteRule ^(.*)/$ $1.php [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [L]
-
-# 301 Redirects for moved pages
-RewriteRule ^my_types/inguinal-hernia(\.php)?/?$ https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^my_types/inguinal-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^my_types/umbilical-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/umbilical-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^my_types/incisional-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/incisional-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^my_types/ventral-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/ventral-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^my_types/femoral-hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/my_types/femoral-hernia-treatment-in-chennai [R=301,L,NC]
-RewriteRule ^treatment/tapp-repair(\.php)?/?$ https://herniacare360.com/treatment/tapp-repair-in-chennai [R=301,L,NC]
-RewriteRule ^treatment/hernia-surgery-in-chennai(\.php)?/?$ https://herniacare360.com/treatment/hernia-surgeon-in-chennai [R=301,L,NC]
-RewriteRule ^treatment/hernia-surgeon-in-([a-z-]+)\.php$ https://herniacare360.com/treatment/hernia-surgeon-in-$1 [R=301,L,NC]
-RewriteRule ^treatment/([a-z-]+)\.php$ https://herniacare360.com/treatment/$1 [R=301,L,NC]
 
 # (Spam-URL handling lives at the top of this file, above the catch-all
 #  rewrites - see block 0b.)

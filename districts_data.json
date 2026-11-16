@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 1,
+    "district": "Ariyalur",
+    "hq": "Ariyalur",
+    "slug": "hernia-surgeon-in-ariyalur",
+    "distance_km": 295,
+    "road_route": "NH 45 (GST Road via Perambalur, Villupuram, Tindivanam, and Chengalpattu)",
+    "rail_station": "Ariyalur Railway Station (ALU)",
+    "train_info": "direct express trains on the main chord line to Chennai Egmore (approx. 3.5 to 4.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Ariyalur",
+    "occupations": "cement manufacturing plants, limestone quarries, and dryland agriculture",
+    "work_strain": "heavy manual cement bag loading, limestone quarrying labor, and repetitive agricultural lifting",
+    "towns": [
+      "Ariyalur",
+      "Jayankondam",
+      "Sendurai",
+      "Udayarpalayam",
+      "Andimadam"
+    ],
+    "nearby": [
+      "Perambalur",
+      "Thanjavur",
+      "Cuddalore",
+      "Tiruchirappalli"
+    ]
+  },
+  {
+    "id": 2,
+    "district": "Chengalpattu",
+    "hq": "Chengalpattu",
+    "slug": "hernia-surgeon-in-chengalpattu",
+    "distance_km": 60,
+    "road_route": "Grand Southern Trunk Road (GST Road / NH 45 via Tambaram and Guindy)",
+    "rail_station": "Chengalpattu Junction (CGL)",
+    "train_info": "frequent suburban EMU local trains and express services to Chennai Egmore / Chennai Beach (approx. 1 to 1.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Chengalpattu Government Medical College Hospital",
+    "occupations": "automobile manufacturing corridors (Maraimalai Nagar, Mahindra World City), logistics warehouses, and industrial parks",
+    "work_strain": "repetitive assembly line lifting, heavy warehouse container moving, and prolonged two-wheeler commutes",
+    "towns": [
+      "Chengalpattu",
+      "Tambaram",
+      "Pallavaram",
+      "Maraimalai Nagar",
+      "Maduranthakam",
+      "Mahabalipuram"
+    ],
+    "nearby": [
+      "Kancheepuram",
+      "Tiruvallur",
+      "Viluppuram",
+      "Ranipet"
+    ]
+  },
+  {
+    "id": 3,
+    "district": "Chennai",
+    "hq": "Chennai",
+    "slug": "hernia-surgeon-in-chennai",
+    "distance_km": 0,
+    "road_route": "Direct city corridors via Poonamallee High Road, EVR Periyar Salai, or Inner Ring Road to Shenoy Nagar",
+    "rail_station": "Chennai Central (MAS) & Chennai Egmore (MS)",
+    "train_info": "direct access via the Chennai Metro Green Line directly to Shenoy Nagar Metro Station",
+    "flight_info": null,
+    "govt_hospital": "Rajiv Gandhi Government General Hospital & Kilpauk Medical College Hospital",
+    "occupations": "information technology, corporate services, port logistics, industrial manufacturing, and retail trade",
+    "work_strain": "sedentary desk posture, chronic coughing from urban pollution, post-pregnancy abdominal wall weakness, and heavy commercial handling",
+    "towns": [
+      "Shenoy Nagar",
+      "Anna Nagar",
+      "Kilpauk",
+      "T. Nagar",
+      "Mylapore",
+      "Velachery"
+    ],
+    "nearby": [
+      "Tiruvallur",
+      "Chengalpattu",
+      "Kancheepuram",
+      "Ranipet"
+    ]
+  },
+  {
+    "id": 4,
+    "district": "Coimbatore",
+    "hq": "Coimbatore",
+    "slug": "hernia-surgeon-in-coimbatore",
+    "distance_km": 505,
+    "road_route": "NH 544 & NH 48 (via Salem, Dharmapuri, Krishnagiri, Vellore, and Kanchipuram)",
+    "rail_station": "Coimbatore Junction (CBE)",
+    "train_info": "daily high-speed trains including Vande Bharat Express (approx. 5 hrs 50 mins), Shatabdi Express, and Cheran Express (approx. 7.5 hrs) to Chennai Central",
+    "flight_info": "Multiple daily direct flights from Coimbatore International Airport (CJB) to Chennai (MAA) (approx. 1 hour flight time)",
+    "govt_hospital": "Coimbatore Medical College Hospital (CMCH), Trichy Road",
+    "occupations": "textile spinning mills, casting foundries, motor and pump manufacturing, and precision engineering",
+    "work_strain": "repetitive heavy metal casting lifting, foundry furnace work, and industrial machine operation",
+    "towns": [
+      "Coimbatore City",
+      "Pollachi",
+      "Mettupalayam",
+      "Sulur",
+      "Annur",
+      "Valparai"
+    ],
+    "nearby": [
+      "Tiruppur",
+      "Erode",
+      "Nilgiris",
+      "Dindigul"
+    ]
+  },
+  {
+    "id": 5,
+    "district": "Cuddalore",
+    "hq": "Cuddalore",
+    "slug": "hernia-surgeon-in-cuddalore",
+    "distance_km": 185,
+    "road_route": "East Coast Road (ECR / SH 49) or NH 32 (via Tindivanam and Puducherry)",
+    "rail_station": "Cuddalore Port Junction (CUPJ) & Chidambaram (CDM)",
+    "train_info": "direct express trains including Cholan Express and Uzhavan Express to Chennai Egmore (approx. 3.5 to 4.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Cuddalore District Headquarters Hospital & Rajah Muthiah Medical College",
+    "occupations": "SIPCOT chemical industrial complex, deep-sea marine fishing, port operations, and sugarcane/cashew agriculture",
+    "work_strain": "chemical container moving, hauling deep-sea fishing nets, and strenuous farm labor",
+    "towns": [
+      "Cuddalore",
+      "Chidambaram",
+      "Panruti",
+      "Virudhachalam",
+      "Neyveli",
+      "Kattumannarkoil"
+    ],
+    "nearby": [
+      "Viluppuram",
+      "Mayiladuthurai",
+      "Nagapattinam",
+      "Ariyalur"
+    ]
+  },
+  {
+    "id": 6,
+    "district": "Dharmapuri",
+    "hq": "Dharmapuri",
+    "slug": "hernia-surgeon-in-dharmapuri",
+    "distance_km": 300,
+    "road_route": "NH 44 to Krishnagiri, then NH 48 through Vellore and Kanchipuram into Chennai",
+    "rail_station": "Dharmapuri Railway Station (DPJ) & Morappur (MAP)",
+    "train_info": "express trains connecting via Morappur and Salem to Chennai Central (approx. 4.5 to 5.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Dharmapuri Medical College Hospital",
+    "occupations": "horticultural farming (mango and tomato production), sericulture, granite cutting, and stone quarrying",
+    "work_strain": "heavy stone and granite lifting in quarries, manual farm crate handling, and repetitive physical fieldwork",
+    "towns": [
+      "Dharmapuri",
+      "Harur",
+      "Palacode",
+      "Pennagaram",
+      "Pappireddipatti",
+      "Morappur"
+    ],
+    "nearby": [
+      "Krishnagiri",
+      "Salem",
+      "Tirupathur",
+      "Tiruvannamalai"
+    ]
+  },
+  {
+    "id": 7,
+    "district": "Dindigul",
+    "hq": "Dindigul",
+    "slug": "hernia-surgeon-in-dindigul",
+    "distance_km": 425,
+    "road_route": "NH 45 (Grand Southern Trunk Road via Tiruchirappalli, Perambalur, and Villupuram)",
+    "rail_station": "Dindigul Junction (DG)",
+    "train_info": "frequent high-speed trains including Tejas Express, Pandian Express, and Vaigai Express to Chennai Egmore (approx. 5.5 to 6.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Dindigul Medical College Hospital",
+    "occupations": "lock manufacturing, brass foundries, leather tanneries, and agricultural trading",
+    "work_strain": "static bench standing in lock fabrication, heavy brass casting work, and physical market labor",
+    "towns": [
+      "Dindigul",
+      "Palani",
+      "Kodaikanal",
+      "Oddanchatram",
+      "Natham",
+      "Nilakottai"
+    ],
+    "nearby": [
+      "Madurai",
+      "Karur",
+      "Tiruchirappalli",
+      "Theni"
+    ]
+  },
+  {
+    "id": 8,
+    "district": "Erode",
+    "hq": "Erode",
+    "slug": "hernia-surgeon-in-erode",
+    "distance_km": 400,
+    "road_route": "NH 544 & NH 48 (via Salem, Dharmapuri, Krishnagiri, and Vellore)",
+    "rail_station": "Erode Junction (ED)",
+    "train_info": "frequent express trains including Vande Bharat, Kovai Express, and Yercaud Express to Chennai Central (approx. 5 to 6 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Erode Medical College and Hospital (Perundurai)",
+    "occupations": "turmeric agricultural commerce, textile power looms, fabric dyeing units, and leather processing",
+    "work_strain": "continuous lifting of heavy textile rolls, operating powerloom pedals, and agricultural cargo handling",
+    "towns": [
+      "Erode",
+      "Gobichettipalayam",
+      "Bhavani",
+      "Perundurai",
+      "Sathyamangalam",
+      "Anthiyur"
+    ],
+    "nearby": [
+      "Namakkal",
+      "Salem",
+      "Tiruppur",
+      "Karur"
+    ]
+  },
+  {
+    "id": 9,
+    "district": "Kallakurichi",
+    "hq": "Kallakurichi",
+    "slug": "hernia-surgeon-in-kallakurichi",
+    "distance_km": 240,
+    "road_route": "NH 79 & NH 45 (via Ulundurpet, Villupuram, Tindivanam, and Chengalpattu)",
+    "rail_station": "Chinnasalem (CHSM) & Villupuram Junction (VM)",
+    "train_info": "road connectivity to Villupuram Junction with express trains to Chennai Egmore (approx. 2.5 to 3.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Kallakurichi",
+    "occupations": "sugarcane farming, modern rice milling, agro-trading, and rural agricultural labor",
+    "work_strain": "strenuous sugarcane cutting and transport, carrying paddy bags, and heavy farm labor",
+    "towns": [
+      "Kallakurichi",
+      "Sankarapuram",
+      "Tirukoilur",
+      "Ulundurpet",
+      "Chinnasalem",
+      "Kalvarayan Hills"
+    ],
+    "nearby": [
+      "Viluppuram",
+      "Salem",
+      "Cuddalore",
+      "Perambalur"
+    ]
+  },
+  {
+    "id": 10,
+    "district": "Kancheepuram",
+    "hq": "Kancheepuram",
+    "slug": "hernia-surgeon-in-kancheepuram",
+    "distance_km": 72,
+    "road_route": "NH 48 (Chennai–Bengaluru Highway via Sriperumbudur and Poonamallee)",
+    "rail_station": "Kanchipuram Railway Station (CJ)",
+    "train_info": "regular EMU suburban services and passenger trains to Chennai Beach / Chennai Central (approx. 1.5 to 2 hours)",
+    "flight_info": null,
+    "govt_hospital": "Kancheepuram District Headquarters Hospital",
+    "occupations": "traditional handloom silk weaving, auto manufacturing in Sriperumbudur industrial belt, and temple tourism",
+    "work_strain": "prolonged static sitting on pit looms weakening abdominal musculature, combined with factory assembly lifting",
+    "towns": [
+      "Kancheepuram",
+      "Sriperumbudur",
+      "Walajabad",
+      "Uthiramerur",
+      "Kundrathur"
+    ],
+    "nearby": [
+      "Chengalpattu",
+      "Ranipet",
+      "Tiruvallur",
+      "Vellore"
+    ]
+  },
+  {
+    "id": 11,
+    "district": "Kanyakumari",
+    "hq": "Nagercoil",
+    "slug": "hernia-surgeon-in-kanyakumari",
+    "distance_km": 705,
+    "road_route": "NH 44 & NH 45 (via Tirunelveli, Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Nagercoil Junction (NCJ) & Kanyakumari (CAPE)",
+    "train_info": "daily overnight express trains including Kanyakumari Express and Ananthapuri Express to Chennai Egmore (approx. 11 to 13 hours)",
+    "flight_info": "Connecting flights from Thiruvananthapuram (TRV) or Tuticorin (TCR) to Chennai Airport (approx. 1 hour flight time)",
+    "govt_hospital": "Government Kanyakumari Medical College Hospital (Asaripallam, Nagercoil)",
+    "occupations": "marine fisheries, rubber plantation tapping, coconut coir processing, and coastal tourism",
+    "work_strain": "strenuous boat handling at sea, carrying rubber latex containers, and heavy coastal manual work",
+    "towns": [
+      "Nagercoil",
+      "Kanyakumari",
+      "Colachel",
+      "Padmanabhapuram",
+      "Kuzhithurai",
+      "Marthandam"
+    ],
+    "nearby": [
+      "Tirunelveli",
+      "Tenkasi",
+      "Thoothukudi",
+      "Ramanathapuram"
+    ]
+  },
+  {
+    "id": 12,
+    "district": "Karur",
+    "hq": "Karur",
+    "slug": "hernia-surgeon-in-karur",
+    "distance_km": 380,
+    "road_route": "NH 81 & NH 45 (via Tiruchirappalli, Perambalur, and Villupuram)",
+    "rail_station": "Karur Junction (KRR)",
+    "train_info": "direct express trains to Chennai Central / Chennai Egmore (approx. 6.5 to 7.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Karur",
+    "occupations": "home textiles manufacturing and export, cotton spinning mills, bus coach body building, and paper production",
+    "work_strain": "heavy textile roll moving, metal coach framing, and prolonged standing on industrial shop floors",
+    "towns": [
+      "Karur",
+      "Kulithalai",
+      "Aravakurichi",
+      "Krishnarayapuram",
+      "Mayanur",
+      "Velur"
+    ],
+    "nearby": [
+      "Tiruchirappalli",
+      "Dindigul",
+      "Namakkal",
+      "Erode"
+    ]
+  },
+  {
+    "id": 13,
+    "district": "Krishnagiri",
+    "hq": "Krishnagiri",
+    "slug": "hernia-surgeon-in-krishnagiri",
+    "distance_km": 260,
+    "road_route": "NH 48 (Chennai–Bengaluru National Highway via Vaniyambadi, Ambur, Vellore, and Sriperumbudur)",
+    "rail_station": "Jolarpettai Junction (JTJ) & Hosur (HUR)",
+    "train_info": "trains connecting via Jolarpettai Junction to Chennai Central (approx. 3 to 4 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Krishnagiri",
+    "occupations": "granite quarrying and monument polishing, auto/EV manufacturing in Hosur corridor, and commercial horticulture",
+    "work_strain": "heavy stone and granite slab lifting, repetitive assembly line physical strain, and agricultural loading",
+    "towns": [
+      "Krishnagiri",
+      "Hosur",
+      "Denkanikottai",
+      "Pochampalli",
+      "Uthangarai",
+      "Bargur"
+    ],
+    "nearby": [
+      "Dharmapuri",
+      "Tirupathur",
+      "Vellore",
+      "Ranipet"
+    ]
+  },
+  {
+    "id": 14,
+    "district": "Madurai",
+    "hq": "Madurai",
+    "slug": "hernia-surgeon-in-madurai",
+    "distance_km": 460,
+    "road_route": "NH 45 (Grand Southern Trunk Road via Dindigul, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Madurai Junction (MDU)",
+    "train_info": "high-speed Tejas Express (approx. 6 hours), daily Pandian Express, and Vaigai Express to Chennai Egmore",
+    "flight_info": "Multiple daily direct flights from Madurai Airport (IXM) to Chennai (MAA) (approx. 1 hr 15 mins flight time)",
+    "govt_hospital": "Government Rajaji Hospital (GRH), Madurai",
+    "occupations": "textile spinning mills, agricultural trading, rubber processing, and retail commercial markets",
+    "work_strain": "heavy wholesale commercial loading, prolonged shop-floor standing, and physical warehouse handling",
+    "towns": [
+      "Madurai City",
+      "Melur",
+      "Usilampatti",
+      "Vadipatti",
+      "Tirumangalam",
+      "Sholavandan"
+    ],
+    "nearby": [
+      "Dindigul",
+      "Virudhunagar",
+      "Sivaganga",
+      "Theni"
+    ]
+  },
+  {
+    "id": 15,
+    "district": "Mayiladuthurai",
+    "hq": "Mayiladuthurai",
+    "slug": "hernia-surgeon-in-mayiladuthurai",
+    "distance_km": 270,
+    "road_route": "NH 32 (via Sirkazhi, Chidambaram, Cuddalore, and Tindivanam)",
+    "rail_station": "Mayiladuthurai Junction (MV)",
+    "train_info": "direct express trains including Cholan Express and Uzhavan Express to Chennai Egmore (approx. 4.5 to 5.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government District Headquarters Hospital, Mayiladuthurai",
+    "occupations": "Cauvery delta agriculture, paddy farming, agro-processing mills, and temple tourism services",
+    "work_strain": "strenuous bending during paddy transplantation and harvest, carrying heavy grain sacks, and manual fieldwork",
+    "towns": [
+      "Mayiladuthurai",
+      "Sirkazhi",
+      "Tharangambadi",
+      "Kuthalam",
+      "Poompuhar"
+    ],
+    "nearby": [
+      "Nagapattinam",
+      "Thanjavur",
+      "Cuddalore",
+      "Tiruvarur"
+    ]
+  },
+  {
+    "id": 16,
+    "district": "Nagapattinam",
+    "hq": "Nagapattinam",
+    "slug": "hernia-surgeon-in-nagapattinam",
+    "distance_km": 310,
+    "road_route": "NH 32 / East Coast Road (ECR via Karaikal, Chidambaram, and Cuddalore)",
+    "rail_station": "Nagapattinam Junction (NGT) & Nagore (NCR)",
+    "train_info": "direct overnight trains including Kamban Express to Chennai Egmore (approx. 6.5 to 7.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Nagapattinam",
+    "occupations": "marine fisheries, port harbor logistics, coastal aquaculture farms, and delta agriculture",
+    "work_strain": "heavy fish crate loading, hauling trawler nets, and manual physical labor under marine conditions",
+    "towns": [
+      "Nagapattinam",
+      "Vedaranyam",
+      "Kilvelur",
+      "Thirukkuvalai",
+      "Nagore",
+      "Velankanni"
+    ],
+    "nearby": [
+      "Tiruvarur",
+      "Mayiladuthurai",
+      "Thanjavur",
+      "Cuddalore"
+    ]
+  },
+  {
+    "id": 17,
+    "district": "Namakkal",
+    "hq": "Namakkal",
+    "slug": "hernia-surgeon-in-namakkal",
+    "distance_km": 370,
+    "road_route": "NH 44 to Salem, then NH 48 through Vellore and Kanchipuram (or NH 81 via Trichy)",
+    "rail_station": "Namakkal Railway Station (NMKL)",
+    "train_info": "direct trains including the Palani–Chennai Express to Chennai Central (approx. 6.5 to 7.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Namakkal",
+    "occupations": "commercial poultry farming (egg capital of India), lorry body building, and long-distance transport logistics",
+    "work_strain": "heavy poultry feed crate lifting, metal fabrication in truck coach workshops, and prolonged driving vibrations",
+    "towns": [
+      "Namakkal",
+      "Tiruchengode",
+      "Rasipuram",
+      "Paramathi Velur",
+      "Kolli Hills",
+      "Kumarapalayam"
+    ],
+    "nearby": [
+      "Salem",
+      "Karur",
+      "Erode",
+      "Tiruchirappalli"
+    ]
+  },
+  {
+    "id": 18,
+    "district": "Nilgiris",
+    "hq": "Udhagamandalam (Ooty)",
+    "slug": "hernia-surgeon-in-nilgiris",
+    "distance_km": 540,
+    "road_route": "NH 181 to Coimbatore/Mettupalayam, then NH 544 & NH 48 through Salem to Chennai",
+    "rail_station": "Udhagamandalam (UAM) connecting to Nilgiri Express at Mettupalayam (MTP)",
+    "train_info": "overnight Nilgiri Express from Mettupalayam to Chennai Central (approx. 9.5 hours); or flight from Coimbatore",
+    "flight_info": "Direct flight from nearby Coimbatore Airport (CJB) to Chennai (MAA) (approx. 1 hour flight time)",
+    "govt_hospital": "Government Medical College Hospital, Ooty (Udhagamandalam)",
+    "occupations": "tea and coffee estate plantation harvesting, hill vegetable farming, and mountain eco-tourism",
+    "work_strain": "climbing steep hill slopes carrying heavy harvest baskets on the back and head, elevating abdominal pressure",
+    "towns": [
+      "Udhagamandalam (Ooty)",
+      "Coonoor",
+      "Kotagiri",
+      "Gudalur",
+      "Pandalur"
+    ],
+    "nearby": [
+      "Coimbatore",
+      "Erode",
+      "Tiruppur",
+      "Dharmapuri"
+    ]
+  },
+  {
+    "id": 19,
+    "district": "Perambalur",
+    "hq": "Perambalur",
+    "slug": "hernia-surgeon-in-perambalur",
+    "distance_km": 270,
+    "road_route": "NH 45 (Grand Southern Trunk Road via Villupuram, Tindivanam, and Chengalpattu)",
+    "rail_station": "Ariyalur Railway Station (ALU - 30 km away)",
+    "train_info": "frequent express trains on the main chord line from nearby Ariyalur to Chennai Egmore (approx. 3.5 to 4.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government District Headquarters Hospital, Perambalur",
+    "occupations": "dryland agriculture (cotton, shallot/small onion cultivation), sugar factory operations, and transport services",
+    "work_strain": "repetitive manual lifting of produce bags, tractor operation, and agricultural fieldwork",
+    "towns": [
+      "Perambalur",
+      "Kunnam",
+      "Veppanthattai",
+      "Alathur"
+    ],
+    "nearby": [
+      "Ariyalur",
+      "Tiruchirappalli",
+      "Cuddalore",
+      "Salem"
+    ]
+  },
+  {
+    "id": 20,
+    "district": "Pudukkottai",
+    "hq": "Pudukkottai",
+    "slug": "hernia-surgeon-in-pudukkottai",
+    "distance_km": 385,
+    "road_route": "NH 336 to Tiruchirappalli, then NH 45 (GST Road) through to Chennai",
+    "rail_station": "Pudukkottai Railway Station (PDKT)",
+    "train_info": "direct express trains including Rameswaram Express and Karaikkudi Express to Chennai Egmore (approx. 6.5 to 7.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Pudukkottai Medical College Hospital",
+    "occupations": "granite stone quarrying, agriculture, coir processing units, and light fabrication",
+    "work_strain": "heavy stone handling, manual lifting in quarrying units, and agricultural labor",
+    "towns": [
+      "Pudukkottai",
+      "Aranthangi",
+      "Alangudi",
+      "Gandarvakottai",
+      "Viralimalai",
+      "Illuppur"
+    ],
+    "nearby": [
+      "Tiruchirappalli",
+      "Thanjavur",
+      "Sivaganga",
+      "Madurai"
+    ]
+  },
+  {
+    "id": 21,
+    "district": "Ramanathapuram",
+    "hq": "Ramanathapuram",
+    "slug": "hernia-surgeon-in-ramanathapuram",
+    "distance_km": 500,
+    "road_route": "NH 36 & NH 45 (via Sivaganga, Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Ramanathapuram Railway Station (RMD)",
+    "train_info": "direct overnight express trains including Sethu Express and Boat Mail Express to Chennai Egmore (approx. 8.5 to 9.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Ramanathapuram",
+    "occupations": "marine fisheries, salt pan harvesting, coastal agriculture (chilli and cotton), and pilgrimage transit services",
+    "work_strain": "heavy salt basket carrying, manual boat launching, and physical coastal field labor",
+    "towns": [
+      "Ramanathapuram",
+      "Rameswaram",
+      "Paramakudi",
+      "Kilakarai",
+      "Mudukulathur",
+      "Kamuthi"
+    ],
+    "nearby": [
+      "Sivaganga",
+      "Madurai",
+      "Thoothukudi",
+      "Pudukkottai"
+    ]
+  },
+  {
+    "id": 22,
+    "district": "Ranipet",
+    "hq": "Ranipet",
+    "slug": "hernia-surgeon-in-ranipet",
+    "distance_km": 110,
+    "road_route": "NH 48 (Chennai–Bengaluru National Highway via Sriperumbudur and Poonamallee)",
+    "rail_station": "Walajah Road Junction (WJR)",
+    "train_info": "frequent express and MEMU passenger trains to Chennai Central (approx. 1.5 to 2 hours)",
+    "flight_info": null,
+    "govt_hospital": "District Headquarters Hospital, Walajapet / Government Hospital Ranipet",
+    "occupations": "finished leather tanning and export factories, chemical manufacturing units, and BHEL boiler engineering ancillaries",
+    "work_strain": "heavy hide handling in tanneries, chemical drum shifting, and metal engineering shop-floor duties",
+    "towns": [
+      "Ranipet",
+      "Walajapet",
+      "Arcot",
+      "Sholinghur",
+      "Arakkonam",
+      "Nemili"
+    ],
+    "nearby": [
+      "Vellore",
+      "Kancheepuram",
+      "Tiruvallur",
+      "Tirupathur"
+    ]
+  },
+  {
+    "id": 23,
+    "district": "Salem",
+    "hq": "Salem",
+    "slug": "hernia-surgeon-in-salem",
+    "distance_km": 345,
+    "road_route": "NH 44 & NH 48 (via Krishnagiri, Vellore, and Kanchipuram) or NH 79 via Ulundurpet & NH 45",
+    "rail_station": "Salem Junction (SA)",
+    "train_info": "frequent trains including Vande Bharat Express, Kovai Express, and West Coast Express to Chennai Central (approx. 4.5 to 5.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Mohan Kumaramangalam Medical College Hospital, Salem",
+    "occupations": "steel production (Salem Steel Plant), sago factories, powerloom weaving, and silver ornament making",
+    "work_strain": "heavy metal handling in steel mills, manual sago root processing, and prolonged posture at looms",
+    "towns": [
+      "Salem City",
+      "Attur",
+      "Mettur",
+      "Omalur",
+      "Sankagiri",
+      "Edappadi",
+      "Yercaud"
+    ],
+    "nearby": [
+      "Namakkal",
+      "Dharmapuri",
+      "Erode",
+      "Viluppuram"
+    ]
+  },
+  {
+    "id": 24,
+    "district": "Sivaganga",
+    "hq": "Sivaganga",
+    "slug": "hernia-surgeon-in-sivaganga",
+    "distance_km": 440,
+    "road_route": "NH 36 & NH 45 (via Tiruchirappalli, Perambalur, and Villupuram)",
+    "rail_station": "Sivaganga Railway Station (SVGA) & Karaikkudi Junction (KKDI)",
+    "train_info": "direct express trains including Silambu Express and Rameswaram Express to Chennai Egmore (approx. 7.5 to 8.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Sivagangai Medical College and Hospital",
+    "occupations": "agriculture, brick kiln manufacturing, graphite processing, and Chettinad trade",
+    "work_strain": "heavy manual brick lifting, physical labor in kiln loading, and agricultural field work",
+    "towns": [
+      "Sivaganga",
+      "Karaikudi",
+      "Devakottai",
+      "Manamadurai",
+      "Tiruppattur",
+      "Kalayar Kovil"
+    ],
+    "nearby": [
+      "Madurai",
+      "Pudukkottai",
+      "Ramanathapuram",
+      "Virudhunagar"
+    ]
+  },
+  {
+    "id": 25,
+    "district": "Tenkasi",
+    "hq": "Tenkasi",
+    "slug": "hernia-surgeon-in-tenkasi",
+    "distance_km": 615,
+    "road_route": "NH 44 & NH 45 (via Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Tenkasi Junction (TSI)",
+    "train_info": "daily overnight express trains including Pothigai Express and Silambu Express to Chennai Egmore (approx. 10 to 11.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government District Headquarters Hospital, Tenkasi",
+    "occupations": "spice plantations (Courtallam foothills), paddy agriculture, handloom weaving, and timber trading",
+    "work_strain": "heavy timber loading, manual agricultural harvesting, and strenuous physical farm activities",
+    "towns": [
+      "Tenkasi",
+      "Sankarankovil",
+      "Kadayanallur",
+      "Sengottai",
+      "Alangulam",
+      "Courtallam"
+    ],
+    "nearby": [
+      "Tirunelveli",
+      "Virudhunagar",
+      "Kanyakumari",
+      "Madurai"
+    ]
+  },
+  {
+    "id": 26,
+    "district": "Thanjavur",
+    "hq": "Thanjavur",
+    "slug": "hernia-surgeon-in-thanjavur",
+    "distance_km": 340,
+    "road_route": "NH 36 & NH 45 (via Kumbakonam, Vikravandi, or via Tiruchirappalli)",
+    "rail_station": "Thanjavur Junction (TJ)",
+    "train_info": "frequent trains including Uzhavan Express and Cholan Express to Chennai Egmore (approx. 5.5 to 6.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Thanjavur Medical College Hospital (TMCH)",
+    "occupations": "Cauvery delta paddy farming, rice milling, bronze casting & handicrafts, and temple tourism",
+    "work_strain": "heavy paddy sack lifting, continuous bending during farming, and manual metal craft work",
+    "towns": [
+      "Thanjavur",
+      "Kumbakonam",
+      "Pattukkottai",
+      "Thiruvaiyaru",
+      "Orathanadu",
+      "Papanasam"
+    ],
+    "nearby": [
+      "Tiruvarur",
+      "Tiruchirappalli",
+      "Pudukkottai",
+      "Ariyalur"
+    ]
+  },
+  {
+    "id": 27,
+    "district": "Theni",
+    "hq": "Theni",
+    "slug": "hernia-surgeon-in-theni",
+    "distance_km": 500,
+    "road_route": "NH 85 to Dindigul, then NH 45 (GST Road) through to Chennai",
+    "rail_station": "Theni Railway Station (TENI) & Dindigul Junction (DG)",
+    "train_info": "trains connecting via Dindigul Junction to Chennai Egmore (approx. 7.5 to 8.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Theni Medical College Hospital (K. Kanagavel Memorial)",
+    "occupations": "cardamom and pepper plantation harvesting (Cumbum Valley), banana farming, and agro-trading",
+    "work_strain": "carrying heavy produce crates up and down hill terrain, strenuous manual farm labor, and physical strain",
+    "towns": [
+      "Theni",
+      "Periyakulam",
+      "Bodinayakanur",
+      "Cumbum",
+      "Uthamapalayam",
+      "Chinnamanur"
+    ],
+    "nearby": [
+      "Dindigul",
+      "Madurai",
+      "Virudhunagar",
+      "Tenkasi"
+    ]
+  },
+  {
+    "id": 28,
+    "district": "Thoothukudi",
+    "hq": "Thoothukudi",
+    "slug": "hernia-surgeon-in-thoothukudi",
+    "distance_km": 600,
+    "road_route": "NH 45 (Grand Southern Trunk Road via Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Thoothukudi Railway Station (TN)",
+    "train_info": "daily overnight Pearl City Express (Muthunagar Express) to Chennai Egmore (approx. 10 to 11 hours)",
+    "flight_info": "Direct daily flights from Tuticorin Airport (TCR) to Chennai International Airport (MAA) (approx. 1 hour flight time)",
+    "govt_hospital": "Government Thoothukudi Medical College Hospital",
+    "occupations": "VOC Port trust logistics, salt pan manufacturing, thermal power stations, and marine fisheries",
+    "work_strain": "heavy cargo handling in ports, salt scraping and carrying, and physical labor under intense heat",
+    "towns": [
+      "Thoothukudi",
+      "Tiruchendur",
+      "Kovilpatti",
+      "Kayalpattinam",
+      "Vilathikulam",
+      "Sathankulam"
+    ],
+    "nearby": [
+      "Tirunelveli",
+      "Virudhunagar",
+      "Ramanathapuram",
+      "Tenkasi"
+    ]
+  },
+  {
+    "id": 29,
+    "district": "Tiruchirappalli",
+    "hq": "Tiruchirappalli",
+    "slug": "hernia-surgeon-in-tiruchirappalli",
+    "distance_km": 330,
+    "road_route": "NH 45 (Grand Southern Trunk Road / GST Road via Perambalur, Villupuram, and Chengalpattu)",
+    "rail_station": "Tiruchirappalli Junction (TPJ)",
+    "train_info": "frequent high-speed trains including Tejas Express, Rockfort Express, and Vaigai Express to Chennai Egmore (approx. 4 to 5 hours)",
+    "flight_info": "Multiple daily direct flights from Tiruchirappalli International Airport (TRZ) to Chennai (MAA) (approx. 1 hour flight time)",
+    "govt_hospital": "K.A.P. Viswanatham Government Medical College Hospital, Trichy",
+    "occupations": "heavy engineering (BHEL complex, Golden Rock Railway Workshops), fabrication units, higher education, and agriculture",
+    "work_strain": "heavy metal fabrication lifting, operating industrial overhead cranes, and mechanical workshop strain",
+    "towns": [
+      "Tiruchirappalli City",
+      "Srirangam",
+      "Manapparai",
+      "Thuraiyur",
+      "Musiri",
+      "Lalgudi"
+    ],
+    "nearby": [
+      "Thanjavur",
+      "Karur",
+      "Perambalur",
+      "Pudukkottai"
+    ]
+  },
+  {
+    "id": 30,
+    "district": "Tirunelveli",
+    "hq": "Tirunelveli",
+    "slug": "hernia-surgeon-in-tirunelveli",
+    "distance_km": 625,
+    "road_route": "NH 44 & NH 45 (via Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Tirunelveli Junction (TEN)",
+    "train_info": "high-speed Vande Bharat Express (approx. 7.5 hours) and daily Nellai Express to Chennai Egmore",
+    "flight_info": "Direct flight options connecting via nearby Tuticorin Airport (TCR) to Chennai Airport (approx. 1 hour flight time)",
+    "govt_hospital": "Tirunelveli Medical College Hospital (TvMCH)",
+    "occupations": "wind energy maintenance, agriculture, handloom weaving, tile and brick factories, and cement mills",
+    "work_strain": "climbing wind turbine towers, heavy agricultural labor, and manual lifting in mills and factories",
+    "towns": [
+      "Tirunelveli",
+      "Palayamkottai",
+      "Ambasamudram",
+      "Nanguneri",
+      "Radhapuram",
+      "Valliyur"
+    ],
+    "nearby": [
+      "Tenkasi",
+      "Thoothukudi",
+      "Kanyakumari",
+      "Virudhunagar"
+    ]
+  },
+  {
+    "id": 31,
+    "district": "Tirupathur",
+    "hq": "Tirupathur",
+    "slug": "hernia-surgeon-in-tirupathur",
+    "distance_km": 215,
+    "road_route": "NH 48 (Chennai–Bengaluru National Highway via Ambur, Vellore, and Sriperumbudur)",
+    "rail_station": "Jolarpettai Junction (JTJ) & Tirupattur (TPT)",
+    "train_info": "frequent express trains from Jolarpettai Junction to Chennai Central (approx. 3 to 3.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government District Headquarters Hospital, Tirupathur",
+    "occupations": "bidi manufacturing, leather processing workshops, agriculture, and small-scale machinery",
+    "work_strain": "prolonged static sitting posture in bidi rolling, manual hide processing, and agricultural field work",
+    "towns": [
+      "Tirupathur",
+      "Vaniyambadi",
+      "Ambur",
+      "Natrampalli",
+      "Jolarpettai"
+    ],
+    "nearby": [
+      "Vellore",
+      "Ranipet",
+      "Krishnagiri",
+      "Dharmapuri"
+    ]
+  },
+  {
+    "id": 32,
+    "district": "Tiruppur",
+    "hq": "Tiruppur",
+    "slug": "hernia-surgeon-in-tiruppur",
+    "distance_km": 450,
+    "road_route": "NH 544 & NH 48 (via Erode, Salem, Dharmapuri, Krishnagiri, and Vellore)",
+    "rail_station": "Tiruppur Railway Station (TUP)",
+    "train_info": "frequent trains including Kovai Express, Cheran Express, and West Coast Express to Chennai Central (approx. 6 to 7 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Tiruppur",
+    "occupations": "knitwear and garment manufacturing (Knitwear Capital of India), textile processing, export warehousing, and fabric dyeing",
+    "work_strain": "heavy textile bale lifting, repetitive mechanical manual work, and prolonged standing on factory floors",
+    "towns": [
+      "Tiruppur City",
+      "Avinashi",
+      "Dharapuram",
+      "Kangeyam",
+      "Palladam",
+      "Udumalaipettai"
+    ],
+    "nearby": [
+      "Coimbatore",
+      "Erode",
+      "Dindigul",
+      "Karur"
+    ]
+  },
+  {
+    "id": 33,
+    "district": "Tiruvallur",
+    "hq": "Tiruvallur",
+    "slug": "hernia-surgeon-in-tiruvallur",
+    "distance_km": 45,
+    "road_route": "NH 716 / CTH Road (Chennai–Tiruvallur High Road via Avadi and Ambattur) or Outer Ring Road",
+    "rail_station": "Tiruvallur Railway Station (TRL)",
+    "train_info": "frequent suburban EMU trains every 15 minutes to Chennai Central Suburban / Moore Market Complex (approx. 1 hour)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Tiruvallur",
+    "occupations": "heavy automobile manufacturing (Caterpillar, Ashok Leyland, Hyundai belt), industrial manufacturing, and agriculture",
+    "work_strain": "heavy component assembly, foundry casting, machine operation, and physical warehouse lifting",
+    "towns": [
+      "Tiruvallur",
+      "Avadi",
+      "Ponneri",
+      "Gummidipoondi",
+      "Tiruttani",
+      "Ambattur"
+    ],
+    "nearby": [
+      "Kancheepuram",
+      "Ranipet",
+      "Chengalpattu",
+      "Chennai"
+    ]
+  },
+  {
+    "id": 34,
+    "district": "Tiruvannamalai",
+    "hq": "Tiruvannamalai",
+    "slug": "hernia-surgeon-in-tiruvannamalai",
+    "distance_km": 195,
+    "road_route": "NH 77 & NH 48 (via Tindivanam and Chengalpattu, or via Kanchipuram and Sriperumbudur)",
+    "rail_station": "Tiruvannamalai Railway Station (TNM)",
+    "train_info": "trains connecting via Villupuram Junction or Katpadi to Chennai (approx. 3.5 to 4.5 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Tiruvannamalai Medical College Hospital",
+    "occupations": "handloom silk weaving, paddy farming, agro-commerce, and spiritual hospitality services",
+    "work_strain": "long hours of sitting on handlooms, heavy agricultural farm work, and physical tourism services",
+    "towns": [
+      "Tiruvannamalai",
+      "Arani",
+      "Polur",
+      "Cheyyar",
+      "Chengam",
+      "Vandavasi"
+    ],
+    "nearby": [
+      "Viluppuram",
+      "Ranipet",
+      "Vellore",
+      "Kallakurichi"
+    ]
+  },
+  {
+    "id": 35,
+    "district": "Tiruvarur",
+    "hq": "Tiruvarur",
+    "slug": "hernia-surgeon-in-tiruvarur",
+    "distance_km": 300,
+    "road_route": "NH 36 & NH 45 (via Mayiladuthurai, Chidambaram, Cuddalore, and Tindivanam)",
+    "rail_station": "Tiruvarur Junction (TVR)",
+    "train_info": "direct express trains including Mannai Express and Kamban Express to Chennai Egmore (approx. 6 to 7 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Tiruvarur Medical College Hospital",
+    "occupations": "Cauvery delta agriculture, paddy cultivation, modern rice milling, and rural manual trade",
+    "work_strain": "heavy paddy bag hauling, manual transplantation, and intensive seasonal farm labor",
+    "towns": [
+      "Tiruvarur",
+      "Mannargudi",
+      "Thiruthuraipoondi",
+      "Kudavasal",
+      "Valangaiman",
+      "Nannilam"
+    ],
+    "nearby": [
+      "Nagapattinam",
+      "Thanjavur",
+      "Mayiladuthurai",
+      "Cuddalore"
+    ]
+  },
+  {
+    "id": 36,
+    "district": "Vellore",
+    "hq": "Vellore",
+    "slug": "hernia-surgeon-in-vellore",
+    "distance_km": 135,
+    "road_route": "NH 48 (Chennai–Bengaluru National Highway via Ranipet, Sriperumbudur, and Poonamallee)",
+    "rail_station": "Katpadi Junction (KPD)",
+    "train_info": "frequent high-speed trains including Vande Bharat, Shatabdi, and Brindavan Express to Chennai Central (approx. 1.5 to 2 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Vellore Medical College Hospital (Adukkamparai)",
+    "occupations": "finished leather tanning and manufacturing, higher education, healthcare services, and light engineering",
+    "work_strain": "heavy hide lifting in tanneries, prolonged standing, and physical workshop tasks",
+    "towns": [
+      "Vellore City",
+      "Katpadi",
+      "Gudiyatham",
+      "Anaicut",
+      "Pernambut"
+    ],
+    "nearby": [
+      "Ranipet",
+      "Tirupathur",
+      "Kancheepuram",
+      "Krishnagiri"
+    ]
+  },
+  {
+    "id": 37,
+    "district": "Viluppuram",
+    "hq": "Viluppuram",
+    "slug": "hernia-surgeon-in-viluppuram",
+    "distance_km": 160,
+    "road_route": "NH 45 (Grand Southern Trunk Road / GST Road via Tindivanam and Chengalpattu)",
+    "rail_station": "Villupuram Junction (VM)",
+    "train_info": "major railway junction with trains every 30 minutes to Chennai Egmore (approx. 2.5 to 3 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Villupuram Medical College Hospital (Mundiyampakkam)",
+    "occupations": "agriculture, sugarcane milling, railway transport logistics, and retail trade",
+    "work_strain": "heavy agricultural loading, manual cane harvesting, and warehouse transport labor",
+    "towns": [
+      "Viluppuram",
+      "Tindivanam",
+      "Gingee",
+      "Vanur",
+      "Vikravandi",
+      "Marakkanam"
+    ],
+    "nearby": [
+      "Cuddalore",
+      "Kallakurichi",
+      "Chengalpattu",
+      "Tiruvannamalai"
+    ]
+  },
+  {
+    "id": 38,
+    "district": "Virudhunagar",
+    "hq": "Virudhunagar",
+    "slug": "hernia-surgeon-in-virudhunagar",
+    "distance_km": 510,
+    "road_route": "NH 44 & NH 45 (via Madurai, Tiruchirappalli, and Villupuram)",
+    "rail_station": "Virudhunagar Junction (VPT)",
+    "train_info": "direct express trains including Pearl City Express, Nellai Express, and Kanyakumari Express to Chennai Egmore (approx. 8 to 9 hours)",
+    "flight_info": null,
+    "govt_hospital": "Government Medical College Hospital, Virudhunagar",
+    "occupations": "fireworks and safety match manufacturing (Sivakasi belt), commercial offset printing, and edible oil extraction mills",
+    "work_strain": "heavy paper roll lifting in printing presses, manual chemical mixing in fireworks, and packaging labor",
+    "towns": [
+      "Virudhunagar",
+      "Sivakasi",
+      "Rajapalayam",
+      "Aruppukkottai",
+      "Sattur",
+      "Srivilliputhur"
+    ],
+    "nearby": [
+      "Madurai",
+      "Tenkasi",
+      "Tirunelveli",
+      "Sivaganga"
+    ]
+  }
+]

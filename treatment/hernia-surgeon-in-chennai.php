@@ -212,9 +212,6 @@ require __DIR__ . '/../includes/header.php';
                     <p class="text-slate-600 leading-relaxed mb-5">
                         All consulting and surgery happens at <?= $site['clinic']['name'] ?>, <?= $site['address'] ?>. Shenoy Nagar is on the Chennai Metro Green Line, which makes the hospital reachable without driving from much of North and West Chennai.
                     </p>
-                    <p class="text-slate-600 leading-relaxed mb-5">
-                        If you are travelling in from a particular neighborhood, these pages set out the route from each: <a href="<?= $base_path ?>treatment/hernia-surgeon-in-annanagar" class="text-brand-700 font-semibold hover:underline">Anna Nagar</a>, <a href="<?= $base_path ?>treatment/hernia-surgeon-in-kilpauk" class="text-brand-700 font-semibold hover:underline">Kilpauk</a>, <a href="<?= $base_path ?>treatment/hernia-surgeon-in-perambur" class="text-brand-700 font-semibold hover:underline">Perambur</a> and <a href="<?= $base_path ?>treatment/hernia-surgeon-in-koyambedu" class="text-brand-700 font-semibold hover:underline">Koyambedu</a> among others.
-                    </p>
                     <div class="bg-red-50 border-2 border-red-500 p-5 rounded-2xl mb-6">
                         <p class="text-slate-800 text-sm md:text-base leading-relaxed m-0">
                             If a hernia has suddenly become hard, severely painful, discolored, or comes with vomiting, do not wait for a consultation slot. Go to the nearest emergency department. Our <a href="<?= $base_path ?>emergency-hernia-care" class="text-red-700 font-bold hover:underline">emergency hernia care</a> page explains what happens next.

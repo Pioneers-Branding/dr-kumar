@@ -79,6 +79,22 @@ require __DIR__ . '/includes/header.php';
                 </span>
             </a>
 
+            <!-- Card 2b: Laparoscopic Hernia Surgery in Tamil Nadu -->
+            <a href="treatment/laparoscopic-hernia-surgery-in-tamil-nadu" class="bg-white rounded-3xl p-8 border border-brand-200/80 shadow-sm hover:shadow-xl hover:-translate-y-1 transition duration-300 flex flex-col justify-between group relative overflow-hidden">
+                <div class="absolute top-0 right-0 bg-brand-700 text-white text-[10px] font-bold uppercase tracking-wider px-3 py-1 rounded-bl-xl">Statewide Hub</div>
+                <div>
+                    <div class="w-14 h-14 rounded-2xl bg-brand-50 text-brand-700 flex items-center justify-center mb-6 group-hover:bg-brand-700 group-hover:text-white transition duration-300">
+                        <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                    </div>
+                    <h3 class="font-display text-xl font-bold text-slate-900 mb-3 group-hover:text-brand-700 transition">Tamil Nadu Laparoscopic Care</h3>
+                    <p class="text-sm text-slate-600 leading-relaxed mb-6">Comprehensive minimally invasive hernia repairs for outstation patients across all 38 districts of Tamil Nadu. Dedicated single-visit travel protocols.</p>
+                </div>
+                <span class="text-xs font-bold uppercase tracking-wider text-brand-700 flex items-center gap-1.5 mt-auto">
+                    Explore statewide patient guide
+                    <svg class="w-3.5 h-3.5 group-hover:translate-x-1 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7"/></svg>
+                </span>
+            </a>
+
             <!-- Card 3: Robotic Hernia Surgery -->
             <a href="best-robotic-hernia-surgery-in-chennai" class="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm hover:shadow-xl hover:-translate-y-1 transition duration-300 flex flex-col justify-between group">
                 <div>
@@ -251,10 +267,5 @@ require __DIR__ . '/includes/header.php';
         </div>
     </div>
 </section>
-
-<!-- Floating Call Button -->
-<a href="tel:<?= $site['phone_link'] ?>" class="fixed bottom-6 right-6 z-50 bg-brand-700 hover:bg-brand-800 text-white p-4 rounded-full shadow-2xl transition-transform hover:scale-110 flex items-center justify-center">
-    <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 20 20"><path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/></svg>
-</a>
 
 <?php require __DIR__ . '/includes/footer.php'; ?>
