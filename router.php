@@ -43,6 +43,9 @@ $legacyRedirects = [
     '/treatment/tapp-repair' => '/treatment/tapp-repair-in-chennai',
     '/treatment/hernia-surgery-in-chennai' => '/treatment/hernia-surgeon-in-chennai',
     '/treatment/hernia-surgery' => '/treatment/hernia-surgeon-in-chennai',
+    '/hernia-surgeon-in-tamil-nadu' => '/treatment/laparoscopic-hernia-surgery-in-tamil-nadu',
+    '/treatment/hernia-surgeon-in-tamil-nadu' => '/treatment/laparoscopic-hernia-surgery-in-tamil-nadu',
+    '/laparoscopic-hernia-surgery-in-tamil-nadu' => '/treatment/laparoscopic-hernia-surgery-in-tamil-nadu',
     '/about-us' => '/about-best-hernia-hospital-in-chennai',
 ];
 
