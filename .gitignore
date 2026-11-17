@@ -6,6 +6,7 @@ Thumbs.db
 
 # Claude / local agent state
 .claude/
+.agents/
 
 # Logs
 *.log
