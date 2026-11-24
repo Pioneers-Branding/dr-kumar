@@ -395,7 +395,7 @@ require __DIR__ . '/includes/header.php';
 </section>
 
 <!-- Hernia in Different People Section -->
-<section class="py-16 md:py-24 bg-slate-50">
+<section id="special-considerations" class="py-16 md:py-24 bg-slate-50 scroll-mt-24">
     <div class="max-w-7xl mx-auto px-4">
         <div class="text-center max-w-3xl mx-auto mb-12">
             <span class="inline-flex items-center gap-2 bg-brand-100 text-brand-800 px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider">

@@ -274,6 +274,15 @@ $clinic    = $site['clinic'];
 // $breadcrumbs = [['name' => 'Treatments', 'url' => '...'], ...] before this include.
 if (!isset($breadcrumbs)) {
     $breadcrumbs = [];
+    // Folders that have no page of their own. Without this, the bare folder URL
+    // (e.g. /special-considerations) became a parent crumb, Google followed it,
+    // and got a 404. Each maps to the real hub page that covers that folder.
+    $folder_hubs = [
+        'special-considerations' => ['name' => 'Special Considerations', 'url' => $SITE_ROOT . 'hernia'],
+        'my_types'               => ['name' => 'Hernia Types',           'url' => $SITE_ROOT . 'hernia-types'],
+        'advanced-techniques'    => ['name' => 'Treatments',             'url' => $SITE_ROOT . 'treatment'],
+        'resources'              => ['name' => 'Patient Resources',      'url' => $SITE_ROOT . 'resources/patient-resources'],
+    ];
     $path = trim(parse_url($page_url, PHP_URL_PATH) ?? '', '/');
     if ($path !== '') {
         $segments = explode('/', $path);
@@ -282,11 +291,19 @@ if (!isset($breadcrumbs)) {
         foreach ($segments as $i => $seg) {
             $built .= $seg . '/';
             $label  = ucwords(str_replace(['-', '_'], ' ', $seg));
+            $url    = $SITE_ROOT . rtrim($built, '/');
             if ($i === $last) {
                 // Use the real page title (minus the brand suffix) for the leaf.
                 $label = trim(explode('|', $page_title)[0]);
+            } elseif ($i === 0 && isset($folder_hubs[$seg])) {
+                // Skip the crumb when the hub IS this page (resources/patient-resources).
+                if ($folder_hubs[$seg]['url'] === rtrim($page_url, '/')) {
+                    continue;
+                }
+                $label = $folder_hubs[$seg]['name'];
+                $url   = $folder_hubs[$seg]['url'];
             }
-            $breadcrumbs[] = ['name' => $label, 'url' => $SITE_ROOT . rtrim($built, '/')];
+            $breadcrumbs[] = ['name' => $label, 'url' => $url];
         }
     }
 }

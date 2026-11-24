@@ -42,7 +42,23 @@ RewriteRule ^ - [G,L]
 # These rules sit above the catch-all rewrites below so ordering cannot break
 # them.
 # ---------------------------------------------------------------------------
-RewriteRule ^[a-z]\d{14}(/m)?/?$ - [G,L,NC]
+#
+# Widened 2026-11-24 to cover anything nested below the spam token as well
+# (/a12345678901234/treatment/x). The GSC 404 export of that date shows the
+# nested form under /index.php/ (already caught by block 0); this closes the
+# same hole at the root. Still zero overlap with real slugs.
+RewriteRule ^[a-z]\d{14}(/.*)?$ - [G,L,NC]
+
+# "cate-<n>" and "cate-<n>-<n>" category URLs from the same hack, e.g.
+# /cate-6, /cate-12-2440. The /index.php/cate-* form is already 410 via block 0,
+# but the root form was still a plain 404: 10 rows in the 2026-11-24 GSC export.
+# No real page on this site starts with "cate-".
+RewriteRule ^cate-\d+(-\d+)*/?$ - [G,L,NC]
+
+# /information/privacy_policy.html and friends: the spam shop's static pages
+# (same family as the /shop/pg/ rule below). This site has no
+# /information path at all.
+RewriteRule ^information/ - [G,L,NC]
 
 # The JetBlog AJAX spam variant.
 RewriteCond %{QUERY_STRING} ^nocache=1777519964&jet_blog_ajax=1$ [NC]
@@ -138,6 +154,17 @@ RewriteRule ^treatment/(hernia-surgeon-in-(?!chennai)[a-z-]+)(\.php)?/?$ https:/
 RewriteRule ^treatment/(laparoscopic-hernia-surgery-in-(?!tamil-nadu)[a-z-]+)(\.php)?/?$ https://herniacare360.com/$1 [R=301,L,NC]
 RewriteRule ^hernia-surgeon-in-tamil-nadu(\.php)?/?$ https://herniacare360.com/treatment/laparoscopic-hernia-surgery-in-tamil-nadu [R=301,L,NC]
 RewriteRule ^laparoscopic-hernia-surgery-in-tamil-nadu(\.php)?/?$ https://herniacare360.com/treatment/laparoscopic-hernia-surgery-in-tamil-nadu [R=301,L,NC]
+
+# Folder URLs that have no page of their own. includes/header.php builds the
+# BreadcrumbList from the URL path, so every page in these folders used to list
+# the bare folder as a parent crumb, and Google followed it to a 404
+# (/special-considerations is in the 2026-11-24 GSC 404 export). The breadcrumbs
+# now point at the real hub pages; these catch the URLs Google already knows.
+# /hernia, /treatment and /blog are not here because they have real pages (block 1).
+RewriteRule ^special-considerations/?$ https://herniacare360.com/hernia [R=301,L,NC]
+RewriteRule ^my_types/?$ https://herniacare360.com/hernia-types [R=301,L,NC]
+RewriteRule ^advanced-techniques/?$ https://herniacare360.com/treatment [R=301,L,NC]
+RewriteRule ^resources/?$ https://herniacare360.com/resources/patient-resources [R=301,L,NC]
 
 # Condition and procedure page redirects
 RewriteRule ^my_types/inguinal-hernia(\.php)?/?$ https://herniacare360.com/my_types/inguinal-hernia-treatment-in-chennai [R=301,L,NC]

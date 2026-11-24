@@ -47,6 +47,11 @@ $legacyRedirects = [
     '/treatment/hernia-surgeon-in-tamil-nadu' => '/treatment/laparoscopic-hernia-surgery-in-tamil-nadu',
     '/laparoscopic-hernia-surgery-in-tamil-nadu' => '/treatment/laparoscopic-hernia-surgery-in-tamil-nadu',
     '/about-us' => '/about-best-hernia-hospital-in-chennai',
+    // Folders with no page of their own (mirrors .htaccess).
+    '/special-considerations' => '/hernia',
+    '/my_types' => '/hernia-types',
+    '/advanced-techniques' => '/treatment',
+    '/resources' => '/resources/patient-resources',
 ];
 
 $trimmedUri = rtrim($uri, '/');
